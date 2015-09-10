@@ -1,0 +1,2238 @@
+<?xml version="1.0" ?>
+		<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+		<tmx version="1.1">
+		<header
+		creationtool="MyMemory - mymemory.translated.net"
+		creationtoolversion="Beta"
+		segtype="sentence"
+		o-tmf="TW4Win 2.0 Format"
+		adminlang="EN-US"
+		srclang="ES-ES"
+		datatype="rtf"
+		creationdate="20140704T230348Z"
+		creationid="Translated">
+		<prop type="RTFFontTable">
+		{\fonttbl 
+			{\f1 \fmodern\fprq1 \fcharset0 Courier New;}
+			{\f2 \fswiss\fprq2 \fcharset0 Arial;}
+			{\f3 \froman\fprq2 {\*\panose 02020603050405020304}\fcharset0 Times New Roman;}
+			{\f4 \froman\fprq2 {\*\panose 05050102010706020507}\fcharset2 Symbol;}
+			{\f5 \fnil\fprq2 {\*\panose 05000000000000000000}\fcharset2 Wingdings;}
+			{\f6 \fswiss\fprq2 {\*\panose 020b0506020202030204}\fcharset0 Arial Narrow;}
+			{\f7 \froman\fprq2 \fcharset238 Times New Roman CE;}
+			{\f8 \froman\fprq2 \fcharset204 Times New Roman Cyr;}
+			{\f9 \froman\fprq2 \fcharset161 Times New Roman Greek;}
+			{\f10 \froman\fprq2 \fcharset162 Times New Roman Tur;}
+			{\f11 \froman\fprq2 \fcharset177 Times New Roman (Hebrew);}
+			{\f12 \froman\fprq2 \fcharset178 Times New Roman (Arabic);}
+			{\f13 \froman\fprq2 \fcharset186 Times New Roman Baltic;}
+			{\f14 \froman\fprq2 \fcharset163 Times New Roman (Vietnamese);}
+			{\f15 \fswiss\fprq2 \fcharset238 Arial CE;}
+			{\f16 \fswiss\fprq2 \fcharset204 Arial Cyr;}
+			{\f17 \fswiss\fprq2 \fcharset161 Arial Greek;}
+			{\f18 \fswiss\fprq2 \fcharset162 Arial Tur;}
+			{\f19 \fswiss\fprq2 \fcharset177 Arial (Hebrew);}
+			{\f20 \fswiss\fprq2 \fcharset178 Arial (Arabic);}
+			{\f21 \fswiss\fprq2 \fcharset186 Arial Baltic;}
+			{\f22 \fswiss\fprq2 \fcharset163 Arial (Vietnamese);}
+			{\f23 \fmodern\fprq1 \fcharset238 Courier New CE;}
+			{\f24 \fmodern\fprq1 \fcharset204 Courier New Cyr;}
+			{\f25 \fmodern\fprq1 \fcharset161 Courier New Greek;}
+			{\f26 \fmodern\fprq1 \fcharset162 Courier New Tur;}
+			{\f27 \fmodern\fprq1 \fcharset177 Courier New (Hebrew);}
+			{\f28 \fmodern\fprq1 \fcharset178 Courier New (Arabic);}
+			{\f29 \fmodern\fprq1 \fcharset186 Courier New Baltic;}
+			{\f30 \fmodern\fprq1 \fcharset163 Courier New (Vietnamese);}
+			{\f31 \fswiss\fprq2 \fcharset238 Arial Narrow CE;}
+			{\f32 \fswiss\fprq2 \fcharset204 Arial Narrow Cyr;}
+			{\f33 \fswiss\fprq2 \fcharset161 Arial Narrow Greek;}
+			{\f34 \fswiss\fprq2 \fcharset162 Arial Narrow Tur;}
+			{\f35 \fswiss\fprq2 \fcharset186 Arial Narrow Baltic;}}</prop>
+	<prop type="RTFStyleSheet">
+	{\stylesheet 
+		{\St \s0 {\StN Normal}}
+		{\St \cs1 {\StB \v\f1\fs24\sub\cf12 }{\StN tw4winMark}}
+		{\St \cs2 {\StB \cf4\fs40\f1 }{\StN tw4winError}}
+		{\St \cs3 {\StB \f1\cf11\lang1024 }{\StN tw4winPopup}}
+		{\St \cs4 {\StB \f1\cf10\lang1024 }{\StN tw4winJump}}
+		{\St \cs5 {\StB \f1\cf15\lang1024 }{\StN tw4winExternal}}
+		{\St \cs6 {\StB \f1\cf6\lang1024 }{\StN tw4winInternal}}
+		{\St \cs7 {\StB \cf2 }{\StN tw4winTerm}}
+		{\St \cs8 {\StB \f1\cf13\lang1024 }{\StN DO_NOT_TRANSLATE}}
+		{\St \cs9 \additive\ssemihidden {\StN Default Paragraph Font}}}</prop>
+	</header>
+
+		<body>
+
+		<tu tuid="0" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="68" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Untitled</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131130T161430Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="1" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Untitled</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130118T174321Z" changeid="Mikeyarnold">
+				<seg>Untitled</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="2" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140528T230743Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="3" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La elección de Arndt para escribir un tratamiento tiene mucho sentido, teniendo en cuenta tanto su prestigio como guionista y su estrecha relación con Pixar igualmente secreto de Disney - él es el guionista de la cheekily titulada Untitled película de Pixar que te lleva dentro de la mente de Up director Pete Docter , actualmente en pre-producción - pero hay una razón todavía más que Arndt sería tan atractivo para Disney y Lucasfilm: Él es un experto en Star Wars.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130118T174321Z" changeid="Mikeyarnold">
+				<seg>The choice of Arndt to pen a treatment makes perfect sense, given both his prestige as a screenwriter and his close relationship with Disney’s equally secretive Pixar — he’s the screenwriter of the cheekily titled Untitled Pixar Movie That Takes You Inside the Mind for Up director Pete Docter, currently in preproduction — but there’s one more reason still that Arndt would be so appealing to Disney and Lucasfilm: He’s a Star Wars expert.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="4" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Obviamente la prensa burguesa de ambos bandos califica cada lucha en sentido positivo, como “pro europea” o “pro rusa”, sin embargo, sobre todo los levantamientos obreros, no sona favor detal o cual fracción burguesa o unión aduanera, sinoen contra dela oligarquía de un campo o de otro.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Obviously the bourgeois press on both sides qualify each fight in positive, as &quot;European pro&quot; or &quot;pro Russian&quot; sense, however, above all labor uprisings, not dreams please detal or which bourgeois fraction or customs union, sinoen against the oligarchy of a field or another.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="5" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La Constitución se modificó en algunos puntos en sentido democrático, se puso en libertad a algunos presos y todos esperaban que la Unión aduanera estimulara el desarrollo positivo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065826Z" changeid="MyMemoryLoader">
+				<seg>A number of points in the constitution had been changed in a democratic sense, a number of political prisoners were released, and it was expected that the customs union would further stimulate developments.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="6" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Mi voto, obviamente, ha sido positivo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T055644Z" changeid="MyMemoryLoader">
+				<seg>Obviously I will vote in favour.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="7" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Se utilizó para atacar a la Unión Europea y se calificó de tentativa para invadir la privacidad de todo el mundo, algo que carece, por completo, de sentido.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T055644Z" changeid="MyMemoryLoader">
+				<seg>It was being used against the European Union, cited as an effort to invade everybody&apos;s privacy. This is absolute nonsense.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="8" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Y es que la izquierda pro europea no puede hacerle creer a los explotados de Ucrania que la burguesía de Maastricht es “buena”; después del desastre de la “revolución naranja”, del saqueo abierto de transnacionales alemanas y norteamericanas, de la peor crisis del capitalismo desde la posguerra, del retorno de Europa de miles de explotados ¿quién puede creer eso?</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>And it is that the European left pro can do you believe the exploited of Ukraine that the bourgeoisie of Maastricht is &quot;good&quot;; After the disaster of the &quot;Orange Revolution&quot;, open looting of transnational German and North American, the worst crisis of capitalism since the postwar, the return of Europe thousands of exploited who can believe that?</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="9" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>revolucion</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131015T184413Z" changeid="anonymous">
+				<seg>revolution</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="10" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Posguerra</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131011T214621Z" changeid="anonymous">
+				<seg>Postwar period</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="11" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="19" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Revolución</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131011T183636Z" changeid="anonymous">
+				<seg>Revolution</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="12" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Ni siquiera los fascistas se atreven a decir eso:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Fascists do not even dare to say that:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="13" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Esto ni siquiera se debería decir.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062036Z" changeid="MyMemoryLoader">
+				<seg>That should not even need to be said.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="14" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Ni siquiera puedo decir</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131002T152546Z" changeid="anonymous">
+				<seg>I can&apos;t even tell you</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="15" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Usted ni siquiera ha respondido a eso.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071622Z" changeid="MyMemoryLoader">
+				<seg>You did not even respond to that.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="16" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Svoboda declaró que “[somos] pro europeos porque somos anti rusos”, mientras que para Sector de Derecha “es necesario desconfiar tanto del imperialismo ruso como del europeo”. El discurso de la socialdemocracia ucraniana es que “peor que Europa es Putin y sus oligarcas ucranianos, el estalinismo y Holodomor”. Solo en el exterior los socialimperialistas y un par de imbéciles del seudo trotskismo dicen que las masas se levantan porque “quieren ganar en euros” o “desean ser una democracia europea”. Es evidente que se busca aislarlas del combate de los hambrientos de Europa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Svoboda stated that &quot;[are] European pro because we are Russian anti&quot;, while for right Sector &quot;it is necessary to distrust both the European and Russian imperialism&quot;. The speech of the Ukrainian democracy is that &quot;worse that Europe is Putin and his Ukrainian oligarchs, Stalinism and Holodomor&quot;. Only on the outside the socialimperialistas and a couple of morons of pseudo Trotskyism say masses arise because &quot;they want to win euro&quot; or &quot;want to become a European democracy&quot;. It is clear that it seeks to isolate them from the hungry of Europe combat.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="17" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Hambriente</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131016T044629Z" changeid="anonymous">
+				<seg>Wants to eat</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="18" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="22" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Hambriento</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131016T033044Z" changeid="anonymous">
+				<seg>Hungry</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="19" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="3" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Hambriento</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131011T214540Z" changeid="anonymous">
+				<seg>Starving</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="20" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Hasta los socialdemócratas consumados de la LIT CI dicen que no puedes calificar el levantamiento de fascista sino “le haces juego” a la oligarquía del Este, es decir, los fascistas montados en el levantamiento son el “mal menor”. De modo análogo, la izquierda pro rusa tampoco dice que Yanukovich o Putin sean buenos burgueses.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Even accomplished LIT IC Democrats say that you can not qualify the fascist uprising, but &quot;you do game&quot; the oligarchy of the East, i.e. fascists mounted the uprising are the &quot;lesser evil&quot;. Similarly, the left Russian pro also says that Yanukovich or Putin are good burghers.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="21" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Si bien, al mismo tiempo, resulta cada vez más evidente que existía una marcada dimensión social en la revolución en Kirguistán, consistente sobre todo en un levantamiento en contra del dominio de una oligarquía formada durante la privatización.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075851Z" changeid="MyMemoryLoader">
+				<seg>Yet at the same time, it is also becoming apparent that there was a strong social dimension to the revolution in Kyrgyzstan, which was very much an uprising against the rule of an oligarchy that had come into being during privatisation.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="22" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El gobierno, el Presidente Kuchma, con la oligarquía que le apoya y el Presidente ruso Putin que ayer comenzó una visita a Ucrania que durará varios días, apoyan a su propio candidato, el Primer Ministro Yanukóvich.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075844Z" changeid="MyMemoryLoader">
+				<seg>The government, President Kuchma, with the oligarchs supporting him behind the scenes, and the Russian President Putin who yesterday started a visit to the Ukraine lasting several days, support their own candidate, Prime Minister Yanukovych.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="23" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El gobierno, el Presidente Kuchma, con la oligarquía que le apoya y el Presidente ruso Putin que ayer comenzó una visita a Ucrania que durará varios días, apoyan a su propio candidato, el Primer Ministro Yanukóvich.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>In fairness, such tactics occur everywhere, are legal, and the government of Ukraine would have faced Lukashenka-style criticism if these candidates had been rejected.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="24" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>El PC ya venía criticando al régimen, pero boicoteó y aisló cada combate bajo el argumento de que le hacía juego a la oligarquía de Tymoshenko y sobre todo al fascismo que no perdía oportunidad para lanzar amenazas de exterminio sobre la población rusófona.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The PC was already criticizing the regime, but boycotted and isolated each combat under the argument that made him play to the oligarchy of Tymoshenko and especially fascism wasting no opportunity to launch threats of extermination on the Russian population.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="25" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El exterminio de la población masculina de toda la región de Bosnia Oriental que linda con Serbia, por pertenecer a la comunidad étnica bosnia, constituye un crimen brutal.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065820Z" changeid="MyMemoryLoader">
+				<seg>The extermination of the male population of the wider region of Eastern Bosnia which borders Serbia, who were killed because they belonged to the Bosniak ethnic community, is a brutal crime.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="26" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Por último, la propuesta sobre discontinuidad ofrece de hecho una oportunidad para que su institución boicotee y posponga todas las leyes que no le gusten a usted.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063839Z" changeid="MyMemoryLoader">
+				<seg>Finally, the proposal on discontinuity in fact brings in an opportunity for your institution to boycott and delay all the laws that you do not like.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="27" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Población y bienes expuestos a amenazas naturales</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130409T055029Z" changeid="">
+				<seg>Population and assets exposed to natural hazards</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="28" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Si es verdad que la primera tarea del proletariado era aplastar el fascismo, el PC lo impidió por completo depositando su confianza en los principios democráticos de Yanukovich.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>If it is true that the first task of the proletariat was smash fascism, the PC stopped him completely putting their trust in the democratic principles of Yanukovich.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="29" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Los principios democráticos lo exigen.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062043Z" changeid="MyMemoryLoader">
+				<seg>The principles of democracy demand it.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="30" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>También nos gustaría destacar que resulta esencial que el Gobierno de Georgia restaure la confianza en la legitimidad de sus acciones y que haga todo lo que esté en su mano para garantizar el respeto a los principios democráticos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071020Z" changeid="MyMemoryLoader">
+				<seg>We would also like to stress that it is essential for the Government of Georgia to restore confidence in the legitimacy of its actions and to do its utmost to ensure respect for the principles of democracy.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="31" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Al darles nuestra confianza establecemos el cordón umbilical que completa la legitimidad de la Comisión como ejecutivo responsable en términos democráticos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075247Z" changeid="MyMemoryLoader">
+				<seg>By offering him our trust, we are establishing an umbilical cord which completes the legitimacy of the Commission as the responsible executive in democratic terms.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="32" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Ambos, tanto la izquierda del euro como la del rublo, sostienen el argumento del “mal menor” con el fin de subordinar al poderoso proletariado ucraniano a la burguesía, porque se les va la vida en impedir un camino independiente a los explotados de Ucrania.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Both, the left of the euro as the ruble, argue the argument of the &quot;lesser evil&quot; in order to subordinate the powerful Ukrainian proletariat to the bourgeoisie, because it will be life to prevent an independent path to the exploited of Ukraine.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="33" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En lo que a los argumentos contra la mejor tecnología disponible se refiere, no se sostienen ante un examen a fondo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072233Z" changeid="MyMemoryLoader">
+				<seg>So far as the arguments against the best available technology are concerned, they do not stand up to scrutiny.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="34" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Sería conveniente que la Comisión evaluara las repercusiones de la denominada capacidad explotada de algunos Estados miembros que, al menos sobre el papel, sostienen que han cumplido los objetivos globales de sus POP.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060240Z" changeid="MyMemoryLoader">
+				<seg>The Commission should better assess the impact of so-called exploited capacity by certain Member States who, at least on paper, claim to have met their MEGP target.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="35" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Todas las iMac incluyen poderosos gráficos individuales, esto significa que el procesador de gráficos es independiente de la CPU.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20110316T054609Z" changeid="MatteoT">
+				<seg>Every iMac includes powerful discrete graphics, meaning the graphics processor is separate from the CPU.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="36" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Pero son sus fracciones “radicales” las que juegan un verdadero rol dos veces siniestro.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>But their &quot;radical&quot; fractions are which play a real role claim twice.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="37" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Aquellos que juegan</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140704T230348Z" changeid="MatteoT">
+				<seg>Those who play</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="38" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Pero si les explicamos claramente lo que se juegan, la rechazan.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065823Z" changeid="MyMemoryLoader">
+				<seg>But if you clearly explain to them what is at stake, they are against it.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="39" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Los que juegan con eso pierden clientes.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T061443Z" changeid="MyMemoryLoader">
+				<seg>Those who tinker lose customers.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="40" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>La coalición anarquista/”trotskista” se puso al servicio del régimen fascista de transición para subordinar y desorganizar el levantamiento de los obreros de Kryvi Rih que buscaban una salida independiente a la crisis.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The anarchist Coalition / &quot;Trotskyist&quot; is placed at the service of the fascist regime transition to subordinate and disorganize the lifting of Kryvi Rih workers seeking an independent solution to the crisis.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="41" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El reconocimiento de ese derecho requiere el levantamiento de los períodos de transición a la mayor brevedad posible.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074643Z" changeid="MyMemoryLoader">
+				<seg>Recognition of that right requires transitional periods to be lifted at the earliest opportunity.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="42" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Servicio de levantamiento de Series</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130409T063408Z" changeid="Mikeyarnold">
+				<seg>Series Lift Service</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="43" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En toda Europa los partidos de extrema derecha esperan sacar provecho de la llegada al poder de esta coalición de tintes fascistas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072228Z" changeid="MyMemoryLoader">
+				<seg>Throughout Europe, extreme right-wing parties are hoping to exploit the entry into power of this coalition with its fascist connotations.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="44" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Ahora las calles de esta ciudad industrial son ocupabas por el ejército ucraniano y las milicias de Svoboda y Sector de Derecha.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Now the streets of this industrial city are had by the Ukrainian army and the militias of Svoboda and right Sector.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="45" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Ciertamente a los cometidos por tropas del ejército, milicias y militantes musulmanes.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>Certainly that committed by army units, militias and militant Muslims.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="46" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El ejército ha aparecido en las calles.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060834Z" changeid="MyMemoryLoader">
+				<seg>The army has appeared in the streets.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="47" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Espectáculo en las calles de la ciudad</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20070427T122815Z" changeid="FinancialTranslator">
+				<seg>Snow in the city streets</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="48" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Borotda por su parte, cumplió también su rol aislando la huelga de los mineros de Luhansk que salían a combatir tanto al gobierno fascista como al oligarca pro ruso Rinat Ajmétov, subordinando la lucha anti fascista a la protección militar de Putin.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Borotda on the other hand, also played its role by isolating the strike of miners from Luhansk who went out to fight the fascist government as the oligarch Russian pro Rinat Ajmétov, subordinating the fight anti fascist to the military protection of Putin.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="49" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>También es necesario combatir vigorosamente la pesca ilegal, considerada uno de los peores azotes para la protección de las poblaciones de atún rojo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071020Z" changeid="MyMemoryLoader">
+				<seg>Illegal fishing, considered to be one of the major scourges undermining the protection of bluefin tuna stocks, also needs to be vigorously combated.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="50" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>También, hemos trabajado preventivamente en determinados países de origen, junto con el gobierno americano, para combatir la trata de blancas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075243Z" changeid="MyMemoryLoader">
+				<seg>Together with the American Government, we have also carried out preventive work in the countries where the trade in women originates.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="51" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Esperamos que también los gobiernos nacionales tengan esa actitud positiva con respecto a la protección temporal.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063247Z" changeid="MyMemoryLoader">
+				<seg>We hope that the national governments also have such a positive attitude to temporary protection.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="52" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Y es que no se trata de qué campo sea el “mal menor”. Como dijo Trotsky:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>And it is that it is not what field is the &quot;lesser evil&quot;. As Trotsky said:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="53" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Qué dijo</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131010T221535Z" changeid="anonymous">
+				<seg>What did</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="54" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Por ello queremos que la Comisión trate a este sector y a este campo como prioridades.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T070421Z" changeid="MyMemoryLoader">
+				<seg>That is why we want the Commission to treat this sector and this area as priorities.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="55" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>No se trata, como una vez dijo Robert Kagan, de que la Unión Europea favorezca el multilateralismo solo porque sea incapaz de actuar unilateralmente.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T061442Z" changeid="MyMemoryLoader">
+				<seg>Not because, as Robert Kagan once claimed, the European Union favours multilateralism only because it is incapable of acting unilaterally.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="56" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>“La socialdemocracia apoya a Brüning, vota por él, asume la responsabilidad de su política ante las masas basándose en la afirmación deque el gobierno Brüning es un `mal menor&apos;. Este es el punto de vista que intenta atribuirme la Rote Fahne, bajo el pretexto de que yo he protestado contra la participación estúpida y vergonzosa de los comunistas en el referéndum de Hitler.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>&quot;Social democracy supports Bruning, vote for it, assumes the responsibility for its policy before the masses based on the assertion deque the Brüning Government is a &apos;lesser evil&apos;.&quot; This is the point of view that tries to take credit for the Rote Fahne, under the pretext that I have protested against the stupid and shameful participation of Communists in the referendum of Hitler.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="57" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Miles de personas siguen encarceladas en terribles condiciones por defender la democracia o por haber protestado contra el referéndum constitucional, cuyos resultados no pueden considerarse fiables.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060832Z" changeid="MyMemoryLoader">
+				<seg>Thousands of people are still imprisoned in awful conditions because they stood up for democracy or because they protested against the constitutional referendum, the results of which cannot be considered to be reliable.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="58" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Para continuar el proceso de ratificación como si nada ocurriese, algunos han puesto en entredicho la &quot;pertinencia del referéndum&quot; , basándose en que la participación habría sido escasa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T080500Z" changeid="MyMemoryLoader">
+				<seg>Some of those who want to pursue the ratification process as though nothing had happened have questioned the &apos;relevance of the referendum&apos;, on the grounds of the low turnout.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="59" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Repudio totalmente y con la mayor vehemencia la torpe insinuación, más aún, la afirmación totalmente vergonzosa e indecorosa, procedente de los escaños del Partido Comunista, que tienen las mayores responsabilidades en la guerra de Angola, de que yo sea amigo de la UNITA.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071623Z" changeid="MyMemoryLoader">
+				<seg>I fully and vehemently repudiate this disgraceful insinuation, and furthermore the quite shameful and unbecoming statement from the benches of the Communist Party, which is more responsible than anyone for the war in Angola, that I am a friend of UNITA.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="60" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Pero, ¿es que acaso la oposición de izquierda alemana, y yo en particular, hemos pedido que los comunistas voten por Brüning y le den su apoyo?</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>But would that perhaps is the opposition of the German left, and I in particular, have asked that Communists vote for Brüning and give their support?</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="61" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>¿Acaso en el Consejo la mano derecha no sabe lo que hace la mano izquierda?</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075246Z" changeid="MyMemoryLoader">
+				<seg>Is it that in the Council, the right hand does not know what the left hand is doing?</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="62" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La izquierda de esta Cámara apenas ofrece ayuda a quienes la precisan, en particular a quienes necesitan nuestra protección y nuestro apoyo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075849Z" changeid="MyMemoryLoader">
+				<seg>Those on the left of this House offer little help to those who need it, especially to those who need our protection and our support.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="63" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La izquierda de esta Cámara apenas ofrece ayuda a quienes la precisan, en particular a quienes necesitan nuestra protección y nuestro apoyo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>However, we must not be naive: these proposals and the way in which they are being promoted by some in this House give all suspected criminals the same procedural safeguards.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="64" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Nosotros, como marxistas, consideramos tanto a Brüning y a Hitler como a Braun como los representantes de un único y mismo sistema.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>We, as Marxists, consider both Bruning and Hitler and Braun as representatives of a single and same system.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="65" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Nosotros, el Parlamento Europeo, somos representantes de los ciudadanos y de los Estados al mismo tiempo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062643Z" changeid="MyMemoryLoader">
+				<seg>We, the European Parliament, are representative of citizens and of the states at the same time.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="66" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Nosotros consideramos que ese punto de vista es inaceptable.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065821Z" changeid="MyMemoryLoader">
+				<seg>We consider such a view unacceptable.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="67" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Nosotros   consideramos   que   el   trabajo   sigue   siendo   un   referente   muy</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140503T190233Z" changeid="anonymous">
+				<seg>We believe that the work remains a very</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="68" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>El problema de saber cuál de entre ellos es un`mal menor&apos;carece de sentido, porque su sistema, contra el cual luchamos nosotros, necesita de todos sus elementos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The problem of know which of them is a &apos;lesser evil&apos; is meaningless, because your system, against which we fought us, requires of all its elements.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="69" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Carece de sentido dotarnos de esa legislación si, para empezar, uno está en contra de ella.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075846Z" changeid="MyMemoryLoader">
+				<seg>There is no point in having that legislation if you are against it in the first place.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="70" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El problema real es el de que se carece de todo y se necesita todo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071622Z" changeid="MyMemoryLoader">
+				<seg>The real dilemma is that everything is lacking and everything is needed.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="71" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Carece de sentido dotarnos de esa legislación si, para empezar, uno está en contra de ella.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>However, the new Constitution contains a reference to our religious heritage and other heritages, and its values are Christian values and also the values of many others.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="72" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Pero hoy estos elementos están en conflicto, y el partido del proletariado debe utilizar absolutamente este conflicto en interés de la revolución”. (Trotsky,Por un frente único obrero contra el fascismo).Para Trotsky estaba claro, que sin otorgar la menor confianza al gobierno de Brüning, Papen y Schleicher, la primera tarea del proletariado era aplastar al fascismo. Para la izquierda pro europea por el contrario, primero había que tumbar a Yanukovich haciendo de retaguardia de una insurrección fascista, para luego“seguir combatiendo” al fascismocon mucha propaganda yvotosen las urnas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>But today these elements are in conflict, and the party of the proletariat must absolutely use this conflict in the interests of the revolution.&quot; (Trotsky, by a single worker front against fascism).For Trotsky, it was clear, that without the less confidence the Government of Brüning, Papen and Schleicher, the first task of the proletariat was to crush fascism. For the left European pro on the other hand, first had to lie to Yanukovich by rearguard of a fascist insurrection, for then &quot;continue to fight&quot; the fascismocon much propaganda yvotosen the polls.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="73" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>· Guerra, revolución, insurrección, golpe de estado, requisición bajo las órdenes de una entidad de poder político de cualquier país o cualquier otra circunstancia que suponga un cambio en el estatus quo político de un país y/o intervención de los poderes públicos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140325T065900Z" changeid="anonymous">
+				<seg>· War, revolution, insurrection, coup, requisition under the command of an organization of political power of any country or any other circumstances involving a change in the political status quo of a country and/or government intervention.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="74" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>INSURRECCION,</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131220T025939Z" changeid="anonymous">
+				<seg>INSURRECTION,</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="75" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>revolucion</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131015T184413Z" changeid="anonymous">
+				<seg>revolution</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="76" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>PERSPECTIVAS PARA UNA SITUACIﾃ窶廸ABIERTA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>PROSPECTS FOR A SITUATION &quot;NABIERTA</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="77" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Perspectivas presupuestarias para 1998</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120410T233550Z" changeid="MyMemoryLoader">
+				<seg>Budgetary perspectives for 1998</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="78" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Ofreció un marco y unas perspectivas para una Europa unificada.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T081106Z" changeid="MyMemoryLoader">
+				<seg>It offered a framework and prospects for a unified Europe.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="79" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El desarrollo y aplicación de estrategias positivas y perspectivas para el futuro constituyen una prioridad.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075851Z" changeid="MyMemoryLoader">
+				<seg>The development and implementation of positive strategies and prospects for the future are a top priority.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="80" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Ahora el régimen está buscando afirmarsegolpe tras golpe, midiendo siempre la correlación de fuerzas, considerando siempre que no cuenta con la clase media rusófona.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Now the regime is looking for afirmarsegolpe after coup, always measuring the correlation of forces, whereas whenever the class do not have average Russian.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="81" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El régimen ruso de la KGB está buscando legitimidad.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071020Z" changeid="MyMemoryLoader">
+				<seg>The Russian KGB regime is seeking legitimacy.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="82" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>y el desarrollo, buscando siempre la máxima calidad en nuestros productos</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140503T133002Z" changeid="anonymous">
+				<seg>and development, always seeking the highest quality in our products</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="83" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Aparte de eso, tiene en cuenta la correlación de fuerzas y equilibrios que existen en el Parlamento.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T061443Z" changeid="MyMemoryLoader">
+				<seg>Apart from that, it takes account of the correlation of forces and balances which exist within Parliament.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="84" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Su milicia intenta sortear esto con la puesta en pie de la “Legión Rusa”, una mesnada fascista compuesta de rusófonos que se oponen a la intervención militar de Putin y es por esto que Dmytro Yarosh, líder de Sector de Derecha, ahora dice que comparte todo con Svoboda salvo su “racismo”, cuestión que ha sorprendido a muchos y muy pocos comprenden.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>His militia tries to circumvent this with the sunset at foot of the &quot;Russian Legion&quot;, a fascist mesnada composed of russophones who oppose Putin&apos;s military intervention and is for this reason that Dmytro Yarosh, right industry leader, now says that he shares everything with Svoboda except its &apos;racism&apos;, which has surprised many and very few understand.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="85" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En primer lugar, ayer tuve la oportunidad de escuchar durante las intervenciones de un minuto la intervención de su Señoría sobre esta cuestión y comparto su preocupación.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062644Z" changeid="MyMemoryLoader">
+				<seg>First of all, I had the opportunity yesterday, during the one minute speeches, to hear the Honourable Member&apos;s intervention on this issue, and I share his concerns.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="86" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Lo que me ha sorprendido es que muchos ciudadanos comprenden muy bien los difíciles dilemas a los que nos enfrentamos en este contexto.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063839Z" changeid="MyMemoryLoader">
+				<seg>Something that has struck me is that many citizens have much sympathy for the difficult dilemmas we face in this context.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="87" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Quiero decir que cuando escuché a mi compañero, la intervención de Ole Krarup, me quedé muy sorprendido.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071623Z" changeid="MyMemoryLoader">
+				<seg>I should like to say that when I heard my fellow MEP&apos; s, Mr Krarup&apos; s, speech, I was very surprised indeed.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="88" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Una semana después, el 24 de marzo, fue asesinado Alexander Muzychko, un importante líder de la milicia fascista.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>A week later, on March 24, was murdered Alexander Muzychko, an important leader of the fascist militia.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="89" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Poco después, el señor Litvinenko fue asesinado.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071023Z" changeid="MyMemoryLoader">
+				<seg>Mr Litvinenko was soon murdered.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="90" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Esta semana se fija la fecha para el juicio de Alexander Nitikin, el colaborador de Bellona.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063245Z" changeid="MyMemoryLoader">
+				<seg>This week a date was set for the trial of Bellona employee Alexander Nikitin.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="91" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La corte ha dictado una serie de órdenes de detención, incluida una contra Alí Kushayb, líder de la milicia Yanyauid.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060830Z" changeid="MyMemoryLoader">
+				<seg>The Court has issued a number of arrest warrants, including one against Ali Kushayb, a Janjaweed militia leader.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="92" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Lo más probable es que los responsables hayan sido los partidos “democráticos” en el gobierno e incluso el mismo Svoboda.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Chances are that those responsible were &quot;democratic&quot; parties in the Government and even the same Svoboda.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="93" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Es poco probable que todos estos dispositivos hayan sido retirados del área.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130930T150950Z" changeid="anonymous">
+				<seg>It is doubtful that all of these devices have been cleared from the area.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="94" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Es probable que hayan muerto.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074648Z" changeid="MyMemoryLoader">
+				<seg>It is likely that they have died.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="95" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Además, el informe ha sido utilizado por los partidos de la oposición para atacar al Gobierno laborista, engañando al mismo tiempo a los titulares de las pólizas con falsas esperanzas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062640Z" changeid="MyMemoryLoader">
+				<seg>The report has also been used by the opposition parties to attack the Labour government, while misleading the policyholders by falsely raising their expectations.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="96" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Debemos comprender que “a la burguesía ya establecida tampoco le gusta la manera fascista de resolver sus problemas, ya que los choques y disturbios que produce, aunque actúa en interés de la sociedad burguesa, también la ponen en peligro.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>We must understand that &quot;do not like the established bourgeois fascist way to solve their problems, since shocks and disturbances which produces, though he acts in the interests of the bourgeois society, also put it at risk.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="97" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Sólo las personas reaccionarias e incapaces de comprender la idea fundamental de unificar los Estados de la Unión Europea calientan sus manos separatistas al fuego del nacionalismo y el fascismo, y por esta razón rechazo cualquier justificación que pretenda que la autonomía es un método eficaz para resolver los problemas de las sociedades tradicionales y las minorías nacionales.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062039Z" changeid="MyMemoryLoader">
+				<seg>Only reactionaries and people unable to grasp the main idea of unifying the states of the European Union warm their separatist hands at the fire of nationalism and fascism and it is for this reason that I reject any justification of autonomy as an effective method for solving the problems of traditional societies and national minorities.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="98" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Se refieren a la capacidad cognoscitiva del ser humano, a su capacidad para comprender, abstraer, resolver problemas y aplicar conocimientos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060832Z" changeid="MyMemoryLoader">
+				<seg>They refer to the cognitive capacity of human beings, their ability to understand, to abstract, to solve problems and apply knowledge.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="99" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Aunque no quieran comprender la crítica racional de la sociedad burguesa, pueden, si quieren ser humanistas burgueses, negarse a apoyar estos planes, porque la verdadera naturaleza de Europol es evidente desde todos sus ámbitos de responsabilidad.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T081106Z" changeid="MyMemoryLoader">
+				<seg>Even if you are unwilling to understand rational criticism of bourgeois society, you can - if you want to be bourgeois humanists, refuse to endorse these plans, for Europol&apos;s true nature is apparent from its areas of responsibility.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="100" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Esta es la raíz del antagonismo entre el fascismo y los partidos tradicionales de la burguesía” (Trotsky,Pilsudski, el fascismo y el carácter de nuestra época). Por otro lado, “la movilización política de la pequeña burguesía contra el proletariado es inconcebible sin esa demagogia social que para la gran burguesía implica jugar con fuego.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>This is the root of the antagonism between fascism and the traditional parties of the bourgeoisie&quot;(Trotsky, Pilsudski, fascism and the character of our time). On the other hand, &quot;the political mobilization of the petty bourgeoisie against the proletariat is inconceivable without this social demagogy that involves playing with fire for the upper middle class.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="101" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En mi opinión, más allá de su carácter humanitario, esa movilización puede constituir una intervención política de gran trascendencia para Bosnia y para la antigua Yugoslavia en general.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065823Z" changeid="MyMemoryLoader">
+				<seg>The activation and mobilization of the international community as regards aid and reconstruction which can, in my opinion, in addition to the humanitarian aspect, constitute a very significant political intervention in developments in Bosnia and in the former Yugoslavia as a whole, should, I believe be assessed in that framework.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="102" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Movilización</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131008T211103Z" changeid="anonymous">
+				<seg>Mobilization</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="103" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="14" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Demagogia</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140623T052036Z" changeid="Wikipedia">
+				<seg>Demagogue</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="104" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Los recientes acontecimientos de Alemania han confirmado como la reacción pequeño burguesa desenfrenada hace peligrar el `orden&apos;” (Trotsky,Bonapartismo y Fascismo). Aquí Trotsky hace referencia a los asesinatos ejecutados por Hitler (Noche de los Cuchillos Largos) contra sus aliados “democráticos” en el gobierno y los líderes de las SA, su milicia pequeño burguesa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Recent events in Germany have confirmed as the reaction small unbridled bourgeois endangers &apos;order&apos; &quot;(Trotsky, fascism and Bonapartism).&quot; Trotsky here refers to the murders executed by Hitler (night of the long knives) against its &quot;democratic&quot; allies in the Government and the leaders of the SA, its small militia bourgeois.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="105" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>No cabe duda de que los recientes acontecimientos de Londres y Glasgow, así como los de la frontera entre España y Portugal y el atentado de Yemen han confirmado que el terrorismo constituye una amenaza importante tanto para la seguridad de Europa como para los valores de nuestras sociedades democráticas, sobre todo, para los derechos y libertades de los ciudadanos europeos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062641Z" changeid="MyMemoryLoader">
+				<seg>There is no doubt that recent events in London and Glasgow, as well as on the border between Spain and Portugal plus the attack in Yemen, have confirmed that terrorism represents a considerable threat to Europe&apos;s security and to the values of our democratic societies, particularly to the rights and freedoms of European citizens.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="106" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="3" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Cuchillos</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140506T143830Z" changeid="anonymous">
+				<seg>Knives</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="107" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Desenfrenado</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140202T023847Z" changeid="anonymous">
+				<seg>Unchecked</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="108" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Ahora vemos en Ucrania que mientras ha sido lanzada la conscripción para enfrentar a Putin, usada sobre todo como medida bonapartista sobre las masas, también ha sido ordenado el desarme de la milicia.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>We now see in Ukraine that while it has been launched conscription to confront Putin, used mostly as a Bonapartist over the masses, also has been ordered the disarmament of the militia.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="109" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>De ahí que no podamos limitarnos a estas meras palabras de condena sino que debemos pasar a la acción y exigir también que se dé cumplimiento a los Acuerdos de Paz de Lomé y se proceda al desarme de todas las milicias.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T080452Z" changeid="MyMemoryLoader">
+				<seg>That is why we cannot just stop at words of condemnation, but we must move on to action and also demand that the Lomé Peace Agreements are complied with and that all the militias are disarmed.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="110" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La Comisión hace suyas las conclusiones del Consejo Europeo de Viena, que lanzan un llamamiento al desarme y a la disolución de estas milicias, y también al envío in situ de una misión de las Naciones Unidas, con vistas a aplacar las tensiones.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075243Z" changeid="MyMemoryLoader">
+				<seg>The Commission supports the conclusions of the Vienna European Council, which call for the disarmament and dissolution of these militias and which also ask that a United Nations mission be sent to the area in order to ease the tension.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="111" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Desarme</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131011T160159Z" changeid="anonymous">
+				<seg>Dismantling</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="112" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Sector de Derecha ha respondido con una marcha de sus milicias sobre el parlamento para exigir la renuncia del ministro del interior al quien culpan del asesinato de Muzychko.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Right sector has responded with a March of his militia on Parliament to demand the resignation of the Minister of the interior to the who blame Muzychko murder.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="113" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Este caso omiso de la jurisdicción de la CPI ha dado lugar a que a los criminales se les permita moverse con libertad, particularmente altos cargos como el es Ministro de Interior o un antiguo líder de la milicia Yanyauid.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060830Z" changeid="MyMemoryLoader">
+				<seg>This disregard of the jurisdiction of the ICC has led to criminals being allowed to walk free, particularly high-profile people like the former Minister for the Interior and a former Janjaweed military leader.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="114" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Las autoridades alemanas, en particular el Ministro Federal del Interior y los Ministerios de los Estados federados, han respondido a nuestras solicitudes.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074646Z" changeid="MyMemoryLoader">
+				<seg>The German authorities, in particular the Federal Ministry of the Interior and the ministries of the , have responded to our requests.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="115" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Cargo: Ministro del Interior.&quot;.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140704T230348Z" changeid="MatteoT">
+				<seg>Position: Minister of the Interior.&quot;</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="116" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Sin embargo, Sector de Derecha coordina acciones con el ejército ucraniano contra los militares rusos y las movilizaciones anti fascistas pero sobre todo contra el levantamiento armado de los explotados de Donetsk.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>However, right Sector coordinates actions with the Ukrainian army against the Russian military and anti-fascist demonstrations, but above all against the armed rising of the exploited of Donetsk.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="117" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Por supuesto, Rusia obtuvo una victoria militar sobre el ejército de Shakashvili, ejército que entrenaron los estadounidenses e israelíes y armaron los ucranianos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062035Z" changeid="MyMemoryLoader">
+				<seg>Of course, Russia gained a military victory over Shakashvili&apos;s army, an army that was trained by the Americans and Israelis and armed by the Ukrainians.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="118" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Sin embargo, el 15 de febrero se produjo otro levantamiento.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>Yet, on 15 February, another upheaval occurred.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="119" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Continúan las acciones militares contra otros grupos armados, entre ellos las FDLR y el Ejército de Resistencia del Señor.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072828Z" changeid="MyMemoryLoader">
+				<seg>Military operations are continuing against other armed groups, including the FDLR and the Lord&apos;s Resistance Army.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="120" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>En este contexto es que el 2 de mayo se produce la masacre de la casa sindical en Odesa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>In this context it is May 2 produces the massacre of the Union House in Odessa.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="121" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>No es la primera vez que se produce este tipo de calamidad.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071626Z" changeid="MyMemoryLoader">
+				<seg>It is not the first such calamity.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="122" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Este ataque a la minoría griega no es el primero que se produce.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072233Z" changeid="MyMemoryLoader">
+				<seg>This is not the first attack against the Greek minority.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="123" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Todo lo que acontezca en este contexto es desconsiderado.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T080459Z" changeid="MyMemoryLoader">
+				<seg>There is no such thing as &apos;mild&apos; child abuse.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="124" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Al pacto con la oligarquía rusófona para mediar con las masas del Este, se suma el pacto con Putin al que el imperialismo ha ya concedido provisionalmente las posiciones tomadas sobre territorio ucraniano.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The Pact with the oligarchy of Russian to mediate with the masses from the East, joins the Pact with Putin that imperialism has already granted provisionally the positions taken on Ukrainian territory.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="125" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Señor Presidente, me he tomado la libertad de mediar entre ambos criterios ahora que vamos a votar sobre las enmiendas núms.2, 3 y 4.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>Mr President, I should just like to say a few words before we vote on Amendments Nos 2, 3 and 4.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="126" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>A este respecto, esperamos que el préstamos concedido por la UE a su país vecino se vaya a utilizar para ayudar a toda la sociedad ucraniana.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072835Z" changeid="MyMemoryLoader">
+				<seg>In this respect, we hope that the loan provided by the EU to this neighbouring country will be used to help the whole of Ukrainian society.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="127" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Para terminar, debemos proporcionar rápidamente a los ciudadanos georgianos y ucranianos mayores facilidades para obtener visados que las que se han concedido a los ciudadanos rusos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060836Z" changeid="MyMemoryLoader">
+				<seg>Finally, we should rapidly provide Georgians and Ukrainians with more generous visa facilitation than Russian citizens have been granted.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="128" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>El acuerdo incluye la postergación del referéndum separatista sobre Donetsk cuestión que ha sido rechazada por las masas con sectores que desean seguir combatiendo también al gobierno de Kiev, demostrando que el campo “pro ruso” está plagado de contradicciones.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The agreement includes the postponement of the separatist referendum on Donetsk issue that has been rejected by the masses with sectors that want to continue fighting the Government of Kiev, also demonstrating that the &quot;pro Russian&quot; is rife with contradictions.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="129" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El informe está también impregnado de contradicciones.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T064440Z" changeid="MyMemoryLoader">
+				<seg>The report is also full of contradictions.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="130" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>También vemos contradicciones en la resolución.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075248Z" changeid="MyMemoryLoader">
+				<seg>We can also see contradictions in the resolution.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="131" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Está combatiendo la corrupción y cooperando en cuestiones relativas al sistema judicial y también con la OLAF.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063837Z" changeid="MyMemoryLoader">
+				<seg>Work is being done on dealing with corruption, they are cooperating in matters relating to the justice system and with OLAF too.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="132" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>En realidad la verdadera disputa entre Kiev y Moscú era quien disciplina, desorganiza o aplasta primero el levantamiento para quedarse con las cuencas mineras del Este, todo con la colaboración activa del PC y su fracción pública Borotda.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The real dispute between Kiev and Moscow was actually who discipline, disrupts or first crushes the uprising for the coalfields of the East, with the active collaboration of the PC and your public faction Borotda.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="133" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La colaboración entre cuencas hidrológicas debe darse por sentada.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072226Z" changeid="MyMemoryLoader">
+				<seg>Cooperation within a catchment basin must be self-evident.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="134" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="14" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Quedarse</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131016T041010Z" changeid="anonymous">
+				<seg>Stay</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="135" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="11" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Disciplina</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131007T180241Z" changeid="anonymous">
+				<seg>Discipline</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="136" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Finalmente, mientras el país se desangra con el proletariado sufriendo la peor parte tanto de un lado como del otro del país, el tándem anarco “trotskista” realiza una conferencia donde “uno de los principales resultados fue la consolidación de iniciativas izquierdistas en el Maidán y que seráncolocadaspara futuras protestas sociales   ahora contra el nuevo gobierno.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Finally, while country bled with the proletariat suffering the worst part aside both the other country, the &quot;Trotskyist&quot; anarcho tandem performs a conference where &quot;one of the main results was the consolidation of left-wing initiatives in the Maidan and to serancolocadaspara future social protest now against the new Government.&quot;</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="137" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Finalmente, con respecto a Belarús, la iniciativa de la Comisión de invitar a este país como observador a la conferencia de la PEV podría ser prematura.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071020Z" changeid="MyMemoryLoader">
+				<seg>Finally, Belarus - the Commission&apos;s initiative to invite Belarus as an observer to the ENP conference would seem to be premature.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="138" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Finalmente, el sistema regresará a la pantalla del menú principal</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20110601T111651Z" changeid="mig_2k">
+				<seg>Eventually this will revert the screen back to the main menu</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="139" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En el período 2000-2001 continuarán las iniciativas de armonización con nuestros principales colaboradores internacionales, culminando con la V Conferencia Internacional de Armonización que se celebrará en San Diego el mes de noviembre de 2000.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Euromed">
+				<seg>Harmonisation initiatives with our main international partners continues in 2000-2001, culminating with the fifth International Conference on Harmonisation in San Diego in November 2000.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="140" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Igualmente el lanzamiento de la Asamblea para la Revolución Social, el primer grupo radical en la lista para las elecciones municipales de la ciudad de Kiev, sobre la base de la `democracia líquida&apos;. Fue acordado participar bajoel paraguas[umbrella] del partido Ucrania Socialista” (Bean Neal,The Left and Maidan:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Also the launch of the Assembly for the Social Revolution, the first radical group in the list for the municipal elections in the city of Kiev, on the basis of the &quot;liquid democracy&quot;. It was agreed to participate bajoel umbrella [umbrella] Ukraine Socialist Party&quot;(Bean Neal, The Left and Maidan:)</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="141" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>revolucion</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131015T184413Z" changeid="anonymous">
+				<seg>revolution</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="142" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="19" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Revolución</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131011T183636Z" changeid="anonymous">
+				<seg>Revolution</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="143" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Revoluciono</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130928T054637Z" changeid="anonymous">
+				<seg>Revolutionized</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="144" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Interview with Ukrainian socialist Denis Pilas). ¡La verdad es que el término cretinismo parlamentario les queda corto!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Interview with Ukrainian socialist Denis batteries). The truth is that the term parliamentary cretinism is short!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="145" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La verdad radica, casi siempre, en el término medio.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065052Z" changeid="MyMemoryLoader">
+				<seg>The truth lies, most of the time, in the middle.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="146" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El Informe Larosiére se queda corto.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T070422Z" changeid="MyMemoryLoader">
+				<seg>The de Larosière report is too little.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="147" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Pero en conjunto el acuerdo se queda muy corto.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071622Z" changeid="MyMemoryLoader">
+				<seg>But overall the agreement is weak.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="148" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Tenemos entonces un régimen de transición, sometido a fuerzas contradictorias y con una fuerte tendencia a consolidar uno plenamente fascista.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>We have then a transitional regime, subjected to contradictory forces and with a strong tendency to consolidate one fully fascist.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="149" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Tenemos que consolidar plenamente el mercado interior.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T061443Z" changeid="MyMemoryLoader">
+				<seg>We have to ensure that the internal market is fully completed.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="150" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Tenemos que consolidar plenamente el mercado interior.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>We must ensure that we bring about less and better regulatory reforms.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="151" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Entonces podremos tratar de invertir la tendencia.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060833Z" changeid="MyMemoryLoader">
+				<seg>We can then set about achieving a trend reversal.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="152" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>La situación para nada se ha cerrado, pero se está desarrollando aceleradamente y su resolución se está disputando sobre todo en el terreno internacional.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The situation for nothing has been closed, but is developing rapidly and its resolution is competing primarily in the international arena.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="153" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Todos sabemos cuál es la situación sobre el terreno.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060239Z" changeid="MyMemoryLoader">
+				<seg>We are all aware of the situation on the ground.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="154" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La situación sobre el terreno es espantosa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072828Z" changeid="MyMemoryLoader">
+				<seg>The situation on the ground is dreadful.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="155" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Lo decisivo es la situación sobre el terreno.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062640Z" changeid="MyMemoryLoader">
+				<seg>It is the situation on the ground that is decisive.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="156" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Lo más probable es la cancelación de las elecciones del 25 de mayo o su transformación en un verdadero plebiscito fascista como fue la votación en el parlamento de la ley que le daba poderes absolutos a Hitler y donde la socialdemocracia interpretó su última escena en la tragedia del proletariado alemán.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Most likely the cancellation of the elections of May 25 or its transformation into a true fascist plebiscite as it was the vote in the Parliament of the law which gave Hitler absolute powers and where social democracy played his last scene in the tragedy of the German proletariat.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="157" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El resultado de las elecciones legislativas podría suponer una importante transformación de la cultura política del país, la transición a un sistema multipartidista en el que el Parlamento sustituiría al politburó del partido gobernante Zanu PF como principal institución normativa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072232Z" changeid="MyMemoryLoader">
+				<seg>The outcome of the legislative elections could mark a major transformation in the country&apos;s political culture, the transition to a multiparty system in which Parliament will replace the ruling party Zanu PF politburo as the main policy-making institution.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="158" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Estimado señor Milinkevich, como líder de la oposición unificada, usted tuvo el valor de presentarse a las elecciones presidenciales celebradas recientemente en Belarús, elecciones en absoluto consideradas como democráticas por nuestro Parlamento.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074643Z" changeid="MyMemoryLoader">
+				<seg>Mr Milinkevich, as leader of the unified opposition, you had the courage to stand for the presidential elections held recently in Belarus, which were seen by our Parliament as in no way democratic.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="159" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Un ejemplo típico es la demora continua de la verdadera cancelación de la deuda de los países pobres.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065051Z" changeid="MyMemoryLoader">
+				<seg>A typical example is the continuing delay in actually writing off the debts of the poor countries.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="160" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>La masacre anticomunista de Odesa y la expulsión del PC del parlamento hace unos días apuntan hacia eso.Nuevamente los sabios de la metafísicaescandalizadosesperarían un escenario perfecto donde el fascismotoma el poder de un solo golpe o lo hace gradual ylinealmente sin zigzagueos,retrocesosni conflictos internos.Lamentablemente esta forma de aproximarse a los problemas es completamente ajena al proletariado consiente y su vanguardia marxista:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The anti-Communist Odessa massacre and expulsion of the PC of the Parliament a few days ago point to that.Again the wise men of the metafisicaescandalizadosesperarian a perfect scenario where the fascismotoma the power of a single blow or make it gradual ylinealmente without zigzags, retrocesosni internal conflicts.Unfortunately, this way of approaching the problem is completely alien to the proletariat consents and its Marxist Vanguard:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="161" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Mientras reconozco y apoyo completamente la participación de mujeres en la resolución pacífica de conflictos, lamentablemente tengo que votar en contra de este informe más bien confuso.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>Whilst I fully recognise and support the participation of women in peaceful conflict resolution, I must sadly vote against this rather confused report.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="162" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Lamentablemente, la forma en la que se aplican estas medidas dista de ser óptima; las sanciones por infracciones son completamente diferentes en cada Estado miembro.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065819Z" changeid="MyMemoryLoader">
+				<seg>Unfortunately, the way these measures are being applied is far from optimal: the penalties for an infringement are completely different in each Member State.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="163" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Por consiguiente, le ruego que acepte esta reclamación que presento aquí en mi calidad de Presidente de la comisión: este informe, aunque fue aprobado completamente en comisión, no figura, lamentablemente, en el orden del día, como estaba previsto.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T064440Z" changeid="MyMemoryLoader">
+				<seg>I would therefore ask you to accept this objection which I am making today as chairman of the committee. Unfortunately, this report does not appear on the agenda as planned, even though a full vote was taken on it in committee.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="164" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>“Es metodológicamente falso formarse la imagen de un régimen fascista `ideal&apos; y oponerla a este régimen fascista real que surgió, con todas sus peculiaridades y contradicciones, de la relación entre las clases y las nacionalidades tal como se da en el estado polaco.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>&quot;It is methodologically false form the image of an &apos;ideal&apos; fascist regime and oppose it at this real fascist regime that emerged, with all its peculiarities and contradictions, of the relationship between classes and nationalities such as occurs in the Polish State.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="165" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Además, este régimen está lleno de contradicciones.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T070424Z" changeid="MyMemoryLoader">
+				<seg>Moreover, this regime is full of contradictions.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="166" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="45" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Nacionalidad</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140619T073342Z" changeid="anonymous">
+				<seg>Nationality</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="167" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Nacionalidad</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140109T120211Z" changeid="anonymous">
+				<seg>National Origin</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="168" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>¿Podrá, Pilsudski, llevar hasta sus últimas consecuencias la destrucción de las organizaciones proletarias?</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>May, Pilsudski, lead to its destruction of proletarian organizations?</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="169" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Se deben llevar hasta sus últimas consecuencias los principios de descentralización y subsidiariedad.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T060237Z" changeid="MyMemoryLoader">
+				<seg>The principles of decentralisation and subsidiarity must be taken as far as possible.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="170" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Sigamos esta lógica hasta sus últimas consecuencias.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074647Z" changeid="MyMemoryLoader">
+				<seg>Let us follow through on that logic.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="171" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Si lleváramos ese argumento hasta sus últimas consecuencias, no necesitaríamos compromiso alguno.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>If we took that argument to its final conclusion, we would not need any commitments.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="172" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>La lógica de la situación lo lleva inevitablemente por este camino, pero la respuesta no depende de la definición formal de `fascismo&apos; como tal, sino de la relación de fuerzas real, de la dinámica del proceso político que viven las masas, de la estrategia de la vanguardia proletaria y, finalmente, del curso de los acontecimientos en Europa occidental, sobre todo en Francia” (Trotsky,Bonapartismo y fascismo). Por su parte, el proletariado aún no ha dicho en absoluto su última palabra, aún sigue combatiendo y está ya movilizando también a los obreros de vanguardia de Europa y el mundo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The logic of the situation inevitably leads him along this path, but the response does not depend on the formal definition of &apos;Fascism&apos; as such, but the balance of power real, the dynamics of the political process that live masses, the strategy of the avant-garde, proletarian and, finally, of the course of events in Western Europe, especially in France&quot;(TrotskyBonapartism and fascism). Moreover, the proletariat still has not said at all his shots, is still fighting and is already mobilizing also to workers at the forefront of Europe and the world.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="173" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Podemos resumir la definición más amplia del modo siguiente: una estrategia más activa y englobadora para promover la igualdad de oportunidades movilizando no sólo medidas positivas por derecho propio, sino también todas las políticas y medidas generales para ese fin.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063245Z" changeid="MyMemoryLoader">
+				<seg>The wider definition can be summarized as follows: a more active and encompassing strategy to promote equal opportunity by mobilizing, not only positive action in its own right, but also mobilizing all general policies and measures to this end.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="174" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Definición de acontecimientos adversos graves (AAG)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131226T120300Z" changeid="anonymous">
+				<seg>Definition of Serious Adverse Events (SAEs)</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="175" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Definición de acontecimientos adversos (AA)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131226T115140Z" changeid="anonymous">
+				<seg>Definition of Adverse Events (AEs)</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="176" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>La crisis de Ucrania y de la Humanidad se reducen a la crisis de la dirección revolucionaria del proletariado, que sin embargo, no será posible resolver sin antes derrotar a todas las direcciones traidoras que impiden el armando del proletariado y cercan su camino hacia la toma del poder.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>The crisis in Ukraine and humanity is reduced to the crisis of revolutionary leadership of the proletariat, which, however, it will not be possible to solve without defeat before all treacherous addresses that prevent the arming of the proletariat and hedges its way to the seizure of power.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="177" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="42" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Dirección:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140625T175332Z" changeid="anonymous">
+				<seg>Address:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="178" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Dirección</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140615T081649Z" changeid="anonymous">
+				<seg>Management</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="179" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="6" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>(Dirección)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140429T223219Z" changeid="anonymous">
+				<seg>(Direction)</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="180" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>LA CUESTIﾃ窶廸NACIONALUCRANIANA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>THE ISSUE &quot;NNACIONALUCRANIANA</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="181" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="24" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>LA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131218T210123Z" changeid="anonymous">
+				<seg>THE</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="182" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="45" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>LA</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131218T165826Z" changeid="anonymous">
+				<seg>La</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="183" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="5" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131016T132331Z" changeid="anonymous">
+				<seg>A</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="184" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Es evidente que la izquierda pro europea y pro rusa están completamente opuestas a la restauración de la dictadura del proletariado y a la expropiación revolucionaria de la burguesía.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>It is clear that the left pro European and Russian are completely opposite to the restoration of the dictatorship of the proletariat and the revolutionary expropriation of the bourgeoisie.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="185" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>El mercado está muy bien, pero no vamos a sustituir la dictadura del proletariado por la dictadura de los accionistas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T061440Z" changeid="MyMemoryLoader">
+				<seg>The market is a fine thing, but we are not about to replace the dictatorship of the proletariat with the dictatorship of the shareholders.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="186" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="5" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Burguesía</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140531T064704Z" changeid="Wikipedia">
+				<seg>Bourgeoisie</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="187" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="4" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Expropiación</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140206T192209Z" changeid="Wikipedia">
+				<seg>Eminent domain</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="188" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Solo por esto ya pueden ser calificados de vulgares sirvientes de la burguesía.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Only by this can already be qualified of vulgar servants of the bourgeoisie.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="189" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Estas decisiones solo pueden ser enderezadas por otra institución de la UE.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T065049Z" changeid="MyMemoryLoader">
+				<seg>These decisions may only be put right by another EU institution.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="190" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Estas decisiones solo pueden ser enderezadas por otra institución de la UE.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>E-mails and letters have been written and appeals made asking us to do so.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="191" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>A la luz de esos estudios, los objetivos climáticos de la UE no pueden ser calificados de ambiciosos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T070423Z" changeid="MyMemoryLoader">
+				<seg>In the light of these studies, the EU&apos;s climate targets cannot be called too ambitious.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="192" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Sin embargo, es necesario denunciar además como es que al condenar la lucha revolucionaria por el socialismo fracasan también en mostrarle al proletariado un camino efectivo para la resolución de las tareas democráticas postergadas e incluso para la conquista de las más mínimas demandas.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>However, it is necessary to also denounce as it is that in condemning the revolutionary struggle for socialism are failing to also show the proletariat an effective way for resolution of the delayed democratic tasks and even to the conquest of the minimum demands.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="193" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Este capítulo es, y se demostrará que es, precioso en la lucha por una Europa social, democrática, solidaria, una Europa de paz, de progreso, de socialismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072229Z" changeid="MyMemoryLoader">
+				<seg>That asset is, and will prove to be, valuable in the struggle for a social, democratic and supportive Europe, a Europe of peace, progress and socialism.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="194" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En nombre de la guerra antiterrorista, estamos librando una guerra contra las libertades democráticas y las conquistas sociales.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071627Z" changeid="MyMemoryLoader">
+				<seg>In the name of the war against terrorism, they are waging war against democratic freedoms and the social acquis.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="195" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Por desgracia, en lugar de sustituir ese monolito por un socialismo democrático genuino, se produjo la restauración del capitalismo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T072827Z" changeid="MyMemoryLoader">
+				<seg>Unfortunately, instead of replacing that monolith by going on to genuine democratic socialism, it was the restoration of capitalism which followed.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="196" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Es aquí donde desnudan ante las amplias masas todo su colaboracionismo y cobardía pequeño burguesa.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>It is here where naked before the broad masses all their Collaborationism and bourgeois small cowardice.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="197" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Aquí es donde las pequeñas y medianas empresas necesitan acceso a los mercados.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075851Z" changeid="MyMemoryLoader">
+				<seg>This is where small and medium-sized enterprises need access to markets.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="198" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Aquí es donde las pequeñas y medianas empresas necesitan acceso a los mercados.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20080304T073405Z" changeid="Europarl">
+				<seg>It is the current debate on textile imports, though, that shows us the other side of the coin – what the opening up of markets means to the industrialised nations.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="199" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Es aquí donde falla.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071625Z" changeid="MyMemoryLoader">
+				<seg>It is at this hurdle that we fall.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="200" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Esta cuestión es particularmente importante para combatir a sus alas “radicalizadas” que pretenden engañar a la vanguardia llenándose de consignas muy revolucionarias, socialistas e internacionalistas pero que finalmente son pura fraseología vacía que fracasa en plantearle a las masas un camino independiente hacia la revolución permanente, la única que puede resolver las tareas democráticas al combinarlas con las tareas socialistas y que no se detiene hasta el derrocamiento de la burguesía en las principales potencias y en todo el mundo.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>This issue is particularly important to combat &quot;radical&quot; wings that are intended to mislead the vanguard filling instructions very revolutionary, Socialists and internationalists but finally are pure empty phraseology that fails to ask the masses an independent path to permanent revolution, the only one that can resolve the democratic tasks by combining them with the Socialist tasks and that does not stop until the overthrow of the bourgeoisie in the major powers and the world.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="201" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Se multiplican las denuncias y las detenciones en contra de dirigentes del movimiento democrático de masas, mientras que el ejército difunde documentos con los que trata de sustanciar el intento de derrocamiento de la Presidenta.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T074641Z" changeid="MyMemoryLoader">
+				<seg>Charges are being filed against a growing number of popular democratic leaders and an increasing number of arrests carried out, while reports leaked by the military are seen as evidence of a plot to overthrow the President.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="202" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Serían contraproducentes, particularmente para la oposición democrática.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T071023Z" changeid="MyMemoryLoader">
+				<seg>They would be counterproductive, particularly for the democratic opposition.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="203" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>La influencia revolucionaria de Internet en las comunicaciones en general y, particularmente, en el comercio electrónico confirmó más tarde la importancia de este sector de la política.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T080456Z" changeid="MyMemoryLoader">
+				<seg>The Internet&apos; s revolutionary impact on communications generally and ecommerce in particular later confirmed the importance of this area of policy.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="204" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Y es en este sentido que la cuestión nacional, junto con la cuestión del fascismo, cobra en Ucrania una significación extrema para el marxismo revolucionario y el proletariado mundial.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>And it is in this sense that the national question, along with the question of fascism, takes on extreme significance to revolutionary Marxism and the world proletariat in Ukraine.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="205" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En este sentido, es muy diferente de Ucrania.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T075845Z" changeid="MyMemoryLoader">
+				<seg>In that respect it is very different from Ukraine.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="206" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="2" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Dijimos al principio que nos preocupaba la cuestión de la seguridad y la salud públicas, pero que no éramos una comisión de seguridad pública en el sentido revolucionario francés, que exige que se corten cabezas, que exige que haya juicios que sienten precedentes.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T063248Z" changeid="MyMemoryLoader">
+				<seg>We said at the outset that while we were concerned with issues of public health and safety, we are not a committee of public safety in the French revolutionary sense, calling for heads, calling for show trials.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="207" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>En este sentido no hay avances ni cambios revolucionarios.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20120229T062043Z" changeid="MyMemoryLoader">
+				<seg>In this area, there is no progress or revolutionary change.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="208" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="209" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="13" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>With</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130724T160314Z" changeid="Wikipedia">
+				<seg>William Withering</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="210" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Be with</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130929T175038Z" changeid="anonymous">
+				<seg>Be with</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="211" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>With Prof.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20131207T192550Z" changeid="anonymous">
+				<seg>With Prof.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="212" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>wvWare/wvWare version 1.2.4</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130118T174321Z" changeid="Mikeyarnold">
+				<seg>wvware / wvware version 1.2.4</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="213" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>wvware / wvware la versión 1.2.4</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20130118T174321Z" changeid="Mikeyarnold">
+				<seg>wvWare/wvWare version 1.2.4</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="214" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Version</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140704T163737Z" changeid="anonymous">
+				<seg>Version</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="215" creationdate="20140704T230348Z" creationid="MyMemory" usagecount="89" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MyMemory">
+				<seg>Versión:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MyMemory" changedate="20140619T235715Z" changeid="anonymous">
+				<seg>Version:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="216" creationdate="20140704T230348Z" creationid="MT!" usagecount="1" lastusagedate="20140704T230348Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140704T230348Z" creationid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140704T230348Z" creationid="MT!" changedate="20140704T000000Z" changeid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				</tu>
+
+</body>
+		</tmx>

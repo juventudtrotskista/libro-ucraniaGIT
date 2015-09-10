@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_1" segtype="sentence" srclang="ES-PE"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>&lt;/f12&gt;&lt;f13&gt;Se trata entonces de dos aspectos de la misma cuestión nacional para Ucrania:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T224738Z" creationid="USUARIO" creationdate="20140627T224738Z">
+        <seg>&lt;/f12&gt;&lt;f13&gt;It is then two aspects of the same national question for Ukraine:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>&lt;f0&gt;(Extraído de “La Verdad sobre la Crisis en Ucrania”&lt;/f0&gt;&lt;f1&gt;)&lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133406Z" creationid="USUARIO" creationdate="20140627T160017Z">
+        <seg>(From "The Truth About Crisis in Ukraine")&lt;f0&gt;&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá es donde empieza la traducción, porque el resto se tradujo con Gtranslate. </note>
+      <tuv lang="ES-PE">
+        <seg>&lt;f0&gt;Las masas del Este han recibido durante estos días de “primavera electoral”, el frío invernal de la muerte a manos de la ofensiva militar del régimen que se ha cobrado la vida de centenares de milicianos, masacre brutal que ha superado con creces a la de Odesa:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133349Z" creationid="USUARIO" creationdate="20140626T020759Z">
+        <seg>The masses of the East have received during these days of "electoral spring", the wintry chill of death at the hands of the regime's military offensive that has claimed the lives of hundreds of militiamen, brutal slaughter that has far exceeded that of Odessa:&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>&lt;f0&gt;Ucrania es hoy una nación constituida a su vez por dos nacionalidades:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133413Z" creationid="USUARIO" creationdate="20140627T161039Z">
+        <seg>Ukraine today is a nation constituted in turn by two nationalities:&lt;f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Ahora Sector de Derecha y Svoboda anuncian una posible fusión de sus organizaciones, cuestión que confirma plenamente nuestro análisis y termina de echar por tierra todas las estupideces de la izquierda pro-europea acerca de un supuesto carácter “moderado” y “parlamentario” de Svoboda.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T024012Z" creationid="USUARIO" creationdate="20140626T024012Z">
+        <seg>Now Right Sector and Svoboda announce a possible merger of their organizations, an issue that  confirms our analysis fully and finishes scupper all the stupidities of the pro-European Left about an alleged "moderate" and "parliamentary" Svoboda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Ahora vemos como los morenistas de la LIT-CI siguen con algunas enmiendas el manual estalinista de cómo hacer frente al fascismo o mejor dicho, de cómo capitularle.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T045700Z" creationid="USUARIO" creationdate="20140627T045700Z">
+        <seg>Now we see how the IWL-FI of Nahuel Moreno, follows with some amendments the Stalinist manual on how to deal with fascism or rather how capitulate.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Apoyado en esto, el reformismo puede hundir en su pantano ideológico el programa revolucionario del proletariado frente al fascismo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T183908Z" creationid="USUARIO" creationdate="20140626T183908Z">
+        <seg>Supported in this, reformism can sink in their ideological swamp the revolutionary program of the proletariat against fascism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Así,</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T045732Z" creationid="USUARIO" creationdate="20140627T045732Z">
+        <seg>So,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Bajo su brutal dominio burocrático, el estalinismo transformó la URSS en una verdadera cárcel de naciones:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T164859Z" creationid="USUARIO" creationdate="20140627T164859Z">
+        <seg>Under its bureaucratic rule, Stalinism transformed the USSR into a real prison of nations:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Con este confusionismo criminal fue que el estalinismo desarmó al proletariado frente &lt;s0/&gt;al fascismo en Polonia y Alemania consumando una traición de repercusiones históricas y universales.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T193038Z" creationid="USUARIO" creationdate="20140626T193038Z">
+        <seg>Thanks to this criminal confusionism, Stalinism could disarm the proletariat against &lt;s0/&gt; fascism in Poland and Germany consummating a betrayal of historical and universal implications.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>De hecho así como Stalin masacró sobre todo a las masas no rusófonas, Hitler hizo igual con las masas rusófonas, y estos acontecimientos están sellados con sangre en la conciencia histórica de los explotados de Ucrania por generaciones.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152638Z" creationid="USUARIO" creationdate="20140627T224539Z">
+        <seg>In fact just like Stalin massacred and especially non-Russian speaking masses, Hitler did the same with the Russian-speaking masses, and these events are sealed with blood in the historical consciousness of the exploited of Ukraine for generations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>El rol de la izquierda reformista consiste en reivindicar solo un aspecto y descon&lt;/f13&gt;&lt;bk14/&gt;&lt;f15&gt;ocer el otro, reconstruyendo sobre el proletariado ucraniano otro “Muro de Berlín” contra-revolucionario.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133522Z" creationid="USUARIO" creationdate="20140627T225113Z">
+        <seg>The role of the reformist Left is to claim only one aspect and ignore the other, rebuilding on the Ukrainian proletariat another "Berlin Wall" counter-revolutionary. &lt;/f13&gt;&lt;bk14/&gt;&lt;f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Este es el significado del consenso político en respaldo de Poroshenko, el candidato vencedor que sostiene este nuevo ardid de guerra del régimen de transición.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T021924Z" creationid="USUARIO" creationdate="20140626T021924Z">
+        <seg>This is the meaning of the political consensus in support of Poroshenko, the winning candidate holding this new war trick of the transitional regime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Esto tuvo como consecuencia que &lt;/f7&gt;&lt;f8&gt;unos &lt;/f8&gt;&lt;f9&gt;fueron más iguales que otros &lt;/f9&gt;&lt;f10&gt;y que para las nacionalidades les fueran asignadas distintas categorías:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133441Z" creationid="USUARIO" creationdate="20140627T172103Z">
+        <seg>This meant that some were more equal than others and that their nationalities were assigned different categories&lt;/f7&gt;&lt;f8&gt;&lt;/f8&gt;&lt;f9&gt;&lt;/f9&gt;&lt;f10&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>las corrientes políticas se escriben con mayúsculas según linguee.es</note>
+      <tuv lang="ES-PE">
+        <seg>Estos son pues solo algunos ejes del nuevo artículo que estamos preparando sobre la actual situación abierta en Ucrania y que será publicado próximamente, junto con nuestra polémica definitiva con las principales corrientes internacionales del seudo-trotskismo, verdadera sombra del estalinismo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T165452Z" creationid="USUARIO" creationdate="20140626T165452Z">
+        <seg>These are just some axes for the new article we are preparing for the currently open situation in Ukraine and will be published shortly, along with our final controversy with mayor currents of the international pseudo-Trotskyism, real shadow of Stalinism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Finalmente, el fascismo puede ser confundido con el reformismo, porque ambos son en última instancia "organizaciones políticas al servicio del capital".</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T191841Z" creationid="USUARIO" creationdate="20140626T191841Z">
+        <seg>Finally, fascism can be confused with reformism, because both are ultimately "political organizations at the service of capital".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Finalmente, la izquierda reformista sigue jugando el mismo rol contra-revolucionario que hemos definido claramente en nuestro documento de principios de mayo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T151240Z" creationid="USUARIO" creationdate="20140626T151240Z">
+        <seg>Finally, the reformist left still playing the same counter-revolutionary role that we have clearly defined in our document in early May.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Igualmente, una milicia fascista puede ser confundida con una simple banda de mercenarios, porque ambos son "hombres armados financiados por el capital".</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T185023Z" creationid="USUARIO" creationdate="20140626T185023Z">
+        <seg>Similarly, a fascist militia can be confused with a simple band of mercenaries, because both are "gunmen financed by capital".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>LA CUESTIÓN NACIONAL UCRANIANA</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T155701Z" creationid="USUARIO" creationdate="20140627T155701Z">
+        <seg>UKRAINE AND THE NATIONAL QUESTION</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>La burocracia estalinista rusa ejercía su dominio y opresión sobre Ucrania a través de la nomenclatura rusófona de este país.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T171708Z" creationid="USUARIO" creationdate="20140627T171708Z">
+        <seg>The Russian Stalinist bureaucracy exerted its dominance and oppression of Ukraine through the Russian-speaking nomenclature for this country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Left debe ir con mayúsculas...y es una cosa....entonces aquí se aplica itself...fuente: marxists.org</note>
+      <tuv lang="ES-PE">
+        <seg>La izquierda pro-europea se ha manchado de sangre y oprobio al continuar sosteniendo al régimen de transición fascista silenciando o justificando masacres como la de Odesa o la de Donetsk,</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T155439Z" creationid="USUARIO" creationdate="20140626T155049Z">
+        <seg>The pro-European Left has stained itself with blood and shame to continue supporting the fascist transition regime silencing or justifying massacres like Odessa or Donetsk,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>La nueva burguesía ucraniana actuaba como agente cipayo de la dominación imperialista &lt;/f10&gt;&lt;t11/&gt;&lt;f12&gt;pero para las masas más atrasadas se trataba de la misma casta rusófila en el poder.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133511Z" creationid="USUARIO" creationdate="20140627T222330Z">
+        <seg>The new Ukrainian bourgeoisie acted as sepoy of imperialist domination but for the most backward masses was the same Russophile caste in power.&lt;/f10&gt;&lt;t11/&gt;&lt;f12&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>La restauración del capitalismo no resolvió en absoluto esta situación sino la agudizó al extremo:</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T195307Z" creationid="USUARIO" creationdate="20140627T195307Z">
+        <seg>The restoration of capitalism has not solved this situation at all but has worsened to the extreme:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>La revolución proletaria y la contra-revolución fascista se ponen frente a frente nuevamente sobre el marasmo de la profunda crisis del modo de producción capitalista.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T150611Z" creationid="USUARIO" creationdate="20140626T150611Z">
+        <seg>The proletarian revolution and fascist counter-revolution face each other again on the morass of the profound crisis of the capitalist mode of production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Los explotados rusófonos por el contrario, fueron tomando conciencia de la opresión del imperialismo sobre Ucrania y en particular sobre su nacionalidad, ya que EEUU y Alemania impulsaron siempre la xenofobia anti-rusa desde el campo burgués pro-europeo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T223818Z" creationid="USUARIO" creationdate="20140627T223818Z">
+        <seg>The Russian-speaking exploited by contrast, were becoming aware of the oppression of imperialism on Ukraine and in particular on their nationality, as the U.S. and Germany have always promoted the anti-Russian xenophobia from the pro-European bourgeois camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>No menos despreciable es el confucionismo pequeño-burgués de los pro-rusos del PTS de Argentina, que evitan llamar las cosas por su nombre para eludir las obligaciones revolucionarias que eso implica, pretendiendo con esto proteger su burbuja electoral de la crítica demoledora del trotskismo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T061449Z" creationid="USUARIO" creationdate="20140627T061449Z">
+        <seg>No less despicable is petty-bourgeois confusionism of the pro-Russian and Argentinian "Workers Socialist Party" (PTS), fails to call things by their name to avoid revolutionary obligations that implies, pretending with this to protect its electoral bubble from devastating critique of Trotskyism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Para la burocracia totalitaria, la Ucrania Soviética se convirtió en una división administrativa de una unidad económica y de una base militar de la U&lt;/f2&gt;&lt;f3&gt;RSS&lt;/f3&gt;&lt;f4&gt;”&lt;/f4&gt;&lt;f5&gt; (Trotsky, &lt;/f5&gt;&lt;f6&gt;La Cuestión Ucraniana&lt;/f6&gt;&lt;f7&gt;).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T165823Z" creationid="USUARIO" creationdate="20140627T165823Z">
+        <seg>To the totalitarian bureaucracy, Soviet Ukraine became an administrative division of an economic unit and a military base of the USS".&lt;/f2&gt;&lt;f3&gt;&lt;/f3&gt;&lt;f4&gt;&lt;/f4&gt;&lt;f5&gt; (Trotsky, &lt;/f5&gt;&lt;f6&gt;Problem of Ukraine&lt;/f6&gt;&lt;f7&gt;).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Pero el rol contra-revolucionario sobre el proletariado lo están jugando a nivel internacional, echando barro sobre la cuestión ucraniana, revisando el programa marxista para la cuestión nacional y desarmándolo por completo ante el avance del fascismo, cuestión particularmente aguda en Grecia y por lo tanto en Europa y con repercusiones en todo el mundo.&lt;/f15&gt;</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152845Z" creationid="USUARIO" creationdate="20140627T231352Z">
+        <seg>But the counter-revolutionary role against the proletariat they are playing internationally, covering up on the Ukrainian question, doing revision of the Marxist program for the national question and completely disarming them in the face the rise of fascism, particularly acute question in Greece and therefore in Europe and worldwide impact.&lt;/f15&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Simultáneamente, en las elecciones europeas, la “extrema derecha” salió también triunfante con fascistas como los de Amanecer Dorado ubicándose como tercera fuerza política en Grecia, país que además es el primer destino de la migración ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T024932Z" creationid="USUARIO" creationdate="20140626T024932Z">
+        <seg>Simultaneously, in the European elections, the "extreme right" also came out triumphant with fascist as Golden Dawn ranking as the third political force in Greece, which is also the first destination of Ukrainian migration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Sin embargo, para Ucrania la cuestión nacional es también fundamental y está íntimamente relacionada con la cuestión del fascismo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T062827Z" creationid="USUARIO" creationdate="20140627T062827Z">
+        <seg>However, for Ukraine the national question is also essential and is closely related to the question of fascism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Sobre ellos recayó la peor de las opresiones nacionales.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152443Z" creationid="USUARIO" creationdate="20140627T181150Z">
+        <seg>Above them, the worst national oppression fell.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Sobre esta base es que subordinan políticamente al proletariado a un campo u otro de la burguesía.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T225217Z" creationid="USUARIO" creationdate="20140627T225217Z">
+        <seg>On this basis it is politically subordinate the proletariat to one camp or another of the bourgeoisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Un "golpe" fascista puede ser confundido con un golpe bonapartista, porque en ambos casos se trata por la forma de "un alzamiento militar en interés de la burguesía".</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T191707Z" creationid="USUARIO" creationdate="20140626T185041Z">
+        <seg>A fascist "coup" can be confused with a Bonapartist coup, because in both cases it has the form of "a military uprising in the interest of the bourgeoisie".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>Uno de los pilares fundamentales de la política reformista "radical" sobre el fascismo consiste en liquidar cualquier intento serio de definición marxista de esta forma de reacción burguesa.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T183505Z" creationid="USUARIO" creationdate="20140626T183505Z">
+        <seg>One of the pillars of the "radical" policy of reformism about fascism is to liquidate any serious attempt to Marxist definition of this form of bourgeois reaction.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Las expresiones Therefore, Thus, Hence, So, For that reason, ergo, concordantly y otras similares, a pesar que guardan una estrecha relación semántica, se diferencian estrictamente en su uso, siendo So, For that reason, That is why y otras parecidas, las que se usan de manera coloquial, mientras que las otras no mencionadas suelen ser usadas en textos legales. Fuente: Wordreference</note>
+      <tuv lang="ES-PE">
+        <seg>Y es que sin una definición exacta, la insurrección fascista puede ser confundida con la revolución proletaria, porque en ambos casos se trata formalmente de un "alzamiento armado de masas".</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T184642Z" creationid="USUARIO" creationdate="20140626T184642Z">
+        <seg>Thus, without a precise definition, fascist insurrection can be confused with the proletarian revolution, because in both cases it is formally an "armed uprising of the masses".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Las oraciones siguientes las borré del texto nuevo.</note>
+      <tuv lang="ES-PE">
+        <seg>Ya hemos señalado que la minoría rusófona aumentó considerablemente durante décadas, como resultado de la política estalinista de rusificac&lt;/f0&gt;&lt;f1&gt;ión.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133426Z" creationid="USUARIO" creationdate="20140627T163449Z">
+        <seg>We have already noted that the Russian-speaking minority increased significantly for decades, as a result of the Stalinist policy of Russification.&lt;/f0&gt;&lt;f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos con relación al imperialismo yanqui y europeo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152719Z" creationid="USUARIO" creationdate="20140627T224941Z">
+        <seg>the right to national self-determination of the non-Russian speaking and Russian-speaking exploited relative to European and Yankee imperialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>la “gran minoría” rusófona del Este y Sur, y la mayoría no rusófona del centro y del oeste (incluyendo a pequeñas minorías nacionales como la tártara).</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152537Z" creationid="USUARIO" creationdate="20140627T161436Z">
+        <seg>the "large minority" of the Russian-speaking east and south, and the non-Russian speaking majority of central and west (including small national minorities such as tartar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>mientras llaman "revolución democrática" a la insurrección fascista del Maidán, ahora dicen que el club lumpen de artes marciales "Oplot" es un partido fascista del campo pro-ruso.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T054812Z" creationid="USUARIO" creationdate="20140627T054812Z">
+        <seg>while It calls "democratic revolution" to the fascist insurrection of Maidan, now says "Oplot", a lumpen martial arts club, is a fascist party of pro-Russian camp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>mientras que fueron hundidas las condiciones de vida de los trabajadores con los explotados no rusófonos recibiendo la peor parte, especialmente en el campo.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152625Z" creationid="USUARIO" creationdate="20140627T215249Z">
+        <seg>while the living conditions of the workers were sunk and the non-Russian speaking took the brunt, especially in the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>mientras que la izquierda pro-rusa encabezada por el PC está profundizando su crisis al desenmascararse su cobarde pacifismo y servilismo al pacto de Putin frente a la heroica resistencia armada de las masas anti-fascistas del Este, aisladas y traicionadas por toda la izquierda reformista mundial.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T162116Z" creationid="USUARIO" creationdate="20140626T162020Z">
+        <seg>while the pro-Russian Left led by the PC is deepening its crisis to unmask his cowardly pacifism and servility to Putin pact against the heroic armed resistance of the anti-fascist Eastern masses, isolated and betrayed by all the world's reformist Left.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>se sustituyó la opresión burocrática de Rusia sobre Ucrania por la opresión imperialista sobre estas dos naciones y gracias al pacto con la burocracia ucraniana mutada en burguesía, la opresión de los ucranianos rusófonos sobre los no rusófonos se agravó, porque ahora los viejos privilegios burocráticos fueron transformados en ganancias multimillonarias,</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152611Z" creationid="USUARIO" creationdate="20140627T212217Z">
+        <seg>bureaucratic oppression of Russia on Ukraine was replaced by the imperialist oppression of these two nations and through the pact with the Ukrainian bureaucracy that mutate into bourgeoisie, oppression of the Russian-speaking Ukrainians on the non-Russian speaking worsened, because now the old bureaucratic privileges were transformed into multimillionaire profits,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>si el ciudadano ruso se podía considerar de primera categoría y el ciudadano ucraniano rusófono de segunda, la burocracia estalinista reservó el tercer lugar para los explotados no rusófonos de Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152556Z" creationid="USUARIO" creationdate="20140627T180000Z">
+        <seg>if the Russian citizen could be considered of first category and the Russian-speaking Ukrainian citizen of second category, the Stalinist bureaucracy reserved the third category for the non-Russian speaking in Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"non" junto con "-" sirve como prefijo para negación como en no-americano, no-nativo, etc.</note>
+      <tuv lang="ES-PE">
+        <seg>¡Abajo el régimen de transición fascista y su pacto y ofensiva reaccionaria contra el proletariado rusófilo y no rusófilo!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152458Z" creationid="USUARIO" creationdate="20140626T171500Z">
+        <seg>Down with the fascist transition regime and its pact and reactionary offensive against the Russian-speaking and non-Russian speaking proletariat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>¡Fuera de Ucrania las bases y tropas contra-revolucionarias de Putin!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T173554Z" creationid="USUARIO" creationdate="20140626T173554Z">
+        <seg>Out of Ukraine the counter-revolutionary bases and troops of Putin!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>¡Por el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos de Ucrania bajo un Estado Obrero Socialista y Democrático!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T152526Z" creationid="USUARIO" creationdate="20140626T180746Z">
+        <seg>For the right to national self-determination for the Russian-speaking and non-Russian speaking exploited of Ukraine under a Socialist and Democratic Workers' State!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>¡Por el envío de brigadas obreras internacionales para combatir al fascismo y a las tropas de Putin, desde Grecia, España, Rusia, Libia y desde todos los rincones donde los explotados pasan hambre!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T175631Z" creationid="USUARIO" creationdate="20140626T175631Z">
+        <seg>By sending international workers brigades to fight fascism and Putin troops from Greece, Spain, Russia, Libya and from all corners where the exploited starve!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>¡Que las direcciones del proletariado rompan ya su sometimiento a la oligarquía y al imperialismo y pongan en pie de inmediato un gran frente obrero anti-fascista y revolucionario de todos los explotados desde Lvivy Kiev hasta Donetsk y Crimea!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T174700Z" creationid="USUARIO" creationdate="20140626T174700Z">
+        <seg>It addresses the proletariat and break their submission to the oligarchy and imperialism and immediately put up a great anti-fascist and revolutionary worker front of all the exploited from Lviv and Kiev to Donetsk and Crimea!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Acá se aplica la regla de sustantivización de adjetivos: se coloca "The" delante, pero el adjetivo sigue en singular aunque quieras decir "explotados"</note>
+      <tuv lang="ES-PE">
+        <seg>¡Viva la resistencia armada de los explotados anti-fascistas del Este, por la auto-organización y armamento del proletariado minero!</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140626T170205Z" creationid="USUARIO" creationdate="20140626T170205Z">
+        <seg>Long live the armed resistance of the anti-fascist exploited of East, for self-organization and armament of the mining proletariat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES-PE">
+        <seg>“&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;La operación anti-terror en Donestsk continuará hasta que todos los terroristas sean destruidos o hasta que ellos se rindan&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;”, ha declarado Alexei Dmitrashkovsky, el vocero militar del gobierno de Kiev.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140628T133400Z" creationid="USUARIO" creationdate="20140626T021447Z">
+        <seg>"The anti-terror operation in Donetsk will continue until all the terrorists will be destroyed or until they surrender", said Alexei Dmitrashkovsky, the military spokesman for Kiev's government.&lt;/f0&gt;&lt;f1&gt;&lt;f2&gt;&lt;/f2&gt;&lt;/f1&gt;&lt;f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>http://www.marxists.org/archive/trotsky/1939/04/ukraine.html</note>
+      <tuv lang="ES-PE">
+        <seg>“&lt;/f1&gt;&lt;f2&gt;En ninguna otra parte las restricciones, purgas, represiones y, en general, todas las formas de truhanería burocrática asumieron dimensiones tan asesinas como en Ucrania, al intentar aplastar poderosos anhelos de mayor libertad e independencia profundamente arraigados en las masas.</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USUARIO" changedate="20140627T165620Z" creationid="USUARIO" creationdate="20140627T165620Z">
+        <seg>“&lt;/f1&gt;&lt;f2&gt;Nowhere did restrictions, purges, repressions and in general all forms of bureaucratic hooliganism assume such murderous sweep as they did in the Ukraine in the struggle against the powerful, deeply-rooted longings of the Ukrainian masses for greater freedom and independence.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,288 @@
+<?xml version="1.0" ?>
+		<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+		<tmx version="1.1">
+		<header
+		creationtool="MyMemory - mymemory.translated.net"
+		creationtoolversion="Beta"
+		segtype="sentence"
+		o-tmf="TW4Win 2.0 Format"
+		adminlang="EN-US"
+		srclang="ES-ES"
+		datatype="rtf"
+		creationdate="20140813T013747Z"
+		creationid="Translated">
+		<prop type="RTFFontTable">
+		{\fonttbl 
+			{\f1 \fmodern\fprq1 \fcharset0 Courier New;}
+			{\f2 \fswiss\fprq2 \fcharset0 Arial;}
+			{\f3 \froman\fprq2 {\*\panose 02020603050405020304}\fcharset0 Times New Roman;}
+			{\f4 \froman\fprq2 {\*\panose 05050102010706020507}\fcharset2 Symbol;}
+			{\f5 \fnil\fprq2 {\*\panose 05000000000000000000}\fcharset2 Wingdings;}
+			{\f6 \fswiss\fprq2 {\*\panose 020b0506020202030204}\fcharset0 Arial Narrow;}
+			{\f7 \froman\fprq2 \fcharset238 Times New Roman CE;}
+			{\f8 \froman\fprq2 \fcharset204 Times New Roman Cyr;}
+			{\f9 \froman\fprq2 \fcharset161 Times New Roman Greek;}
+			{\f10 \froman\fprq2 \fcharset162 Times New Roman Tur;}
+			{\f11 \froman\fprq2 \fcharset177 Times New Roman (Hebrew);}
+			{\f12 \froman\fprq2 \fcharset178 Times New Roman (Arabic);}
+			{\f13 \froman\fprq2 \fcharset186 Times New Roman Baltic;}
+			{\f14 \froman\fprq2 \fcharset163 Times New Roman (Vietnamese);}
+			{\f15 \fswiss\fprq2 \fcharset238 Arial CE;}
+			{\f16 \fswiss\fprq2 \fcharset204 Arial Cyr;}
+			{\f17 \fswiss\fprq2 \fcharset161 Arial Greek;}
+			{\f18 \fswiss\fprq2 \fcharset162 Arial Tur;}
+			{\f19 \fswiss\fprq2 \fcharset177 Arial (Hebrew);}
+			{\f20 \fswiss\fprq2 \fcharset178 Arial (Arabic);}
+			{\f21 \fswiss\fprq2 \fcharset186 Arial Baltic;}
+			{\f22 \fswiss\fprq2 \fcharset163 Arial (Vietnamese);}
+			{\f23 \fmodern\fprq1 \fcharset238 Courier New CE;}
+			{\f24 \fmodern\fprq1 \fcharset204 Courier New Cyr;}
+			{\f25 \fmodern\fprq1 \fcharset161 Courier New Greek;}
+			{\f26 \fmodern\fprq1 \fcharset162 Courier New Tur;}
+			{\f27 \fmodern\fprq1 \fcharset177 Courier New (Hebrew);}
+			{\f28 \fmodern\fprq1 \fcharset178 Courier New (Arabic);}
+			{\f29 \fmodern\fprq1 \fcharset186 Courier New Baltic;}
+			{\f30 \fmodern\fprq1 \fcharset163 Courier New (Vietnamese);}
+			{\f31 \fswiss\fprq2 \fcharset238 Arial Narrow CE;}
+			{\f32 \fswiss\fprq2 \fcharset204 Arial Narrow Cyr;}
+			{\f33 \fswiss\fprq2 \fcharset161 Arial Narrow Greek;}
+			{\f34 \fswiss\fprq2 \fcharset162 Arial Narrow Tur;}
+			{\f35 \fswiss\fprq2 \fcharset186 Arial Narrow Baltic;}}</prop>
+	<prop type="RTFStyleSheet">
+	{\stylesheet 
+		{\St \s0 {\StN Normal}}
+		{\St \cs1 {\StB \v\f1\fs24\sub\cf12 }{\StN tw4winMark}}
+		{\St \cs2 {\StB \cf4\fs40\f1 }{\StN tw4winError}}
+		{\St \cs3 {\StB \f1\cf11\lang1024 }{\StN tw4winPopup}}
+		{\St \cs4 {\StB \f1\cf10\lang1024 }{\StN tw4winJump}}
+		{\St \cs5 {\StB \f1\cf15\lang1024 }{\StN tw4winExternal}}
+		{\St \cs6 {\StB \f1\cf6\lang1024 }{\StN tw4winInternal}}
+		{\St \cs7 {\StB \cf2 }{\StN tw4winTerm}}
+		{\St \cs8 {\StB \f1\cf13\lang1024 }{\StN DO_NOT_TRANSLATE}}
+		{\St \cs9 \additive\ssemihidden {\StN Default Paragraph Font}}}</prop>
+	</header>
+
+		<body>
+
+		<tu tuid="0" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Untitled</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013717Z" changeid="MT!">
+				<seg>Untitled</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="1" creationdate="20140813T013747Z" creationid="MyMemory" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MyMemory">
+				<seg>Untitled (álbum de Korn)</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MyMemory" changedate="20140813T000000Z" changeid="Wikipedia">
+				<seg>Untitled Korn album</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="2" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>¡LOS TRABAJADORES DEL MUNDO DEBEN RESPONDER AL LLAMADO DE SUS HERMANOS DE UCRANIA!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013719Z" changeid="MT!">
+				<seg>THE WORKERS OF THE WORLD MUST RESPOND TO THE CALL OF THEIR BROTHERS IN UKRAINE!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="3" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>El siguiente comunicado pertenece al Sindicato Independiente de Mineros de Donetsk.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013721Z" changeid="MT!">
+				<seg>The following statement belongs to the independent Union of miners of Donetsk.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="4" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>No compartimos el planteamiento político del mismo ya que está identificado con la política estalinista de Frente Popular que hemos venido denunciando sin cansancio.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013723Z" changeid="MT!">
+				<seg>Do not share the same political approach is identified with the Stalinist policy of Popular Front that we have been denouncing without fatigue.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="5" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Sin embargo, como señalamos en nuestra última declaración:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013725Z" changeid="MT!">
+				<seg>However, as we noted in our last statement:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="6" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>&quot;[la revolución ucraniana] debe despertar al poderoso proletariado ruso que en Crimea ya se ha levantado, debe unirse a la resistencia revolucionaria de los pueblos de Palestina y Siria, a las luchas del proletariado europeo contra los gobiernos de la Troika y el fascismo, a la lucha de los explotados y oprimidos de las semi colonias y metrópolis.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013728Z" changeid="MT!">
+				<seg>&quot;[the Ukrainian Revolution] must wake up to the powerful Russian proletariat that in Crimea has already raised, must join the revolutionary resistance of the peoples of Palestine and Syria, to the struggles of the European proletariat against the Governments of the Troika and fascism, the struggle of the exploited and oppressed of the semi colony and metropolis.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="7" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Esto es lo que han comprendido los voluntarios revolucionarios que han llegado de Europa y también de Rusia para combatir al fascismo junto a sus hermanos de clase ucranianos.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013730Z" changeid="MT!">
+				<seg>This is what they have understood the revolutionary volunteers who have come from Europe and also Russia to fight fascism with his Ukrainian class brothers.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="8" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Esto es lo que reclama, contra la voluntad de sus direcciones, el proletario revolucionario del Este&quot;.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013732Z" changeid="MT!">
+				<seg>This is what the proletarian revolutionary of the East claims, against the will of their addresses,&quot;.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="9" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg> </seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013733Z" changeid="MT!">
+				<seg> </seg>
+				</tuv>
+				</tu>
+
+<tu tuid="10" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>¡Por un comité internacional de las organizaciones obreras sin ningún otro acuerdo político que una acción común en defensa y asistencia de la resistencia revolucionaria anti fascista del proletariado ucraniano!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013735Z" changeid="MT!">
+				<seg>By an International Committee of labor organizations without any other political agreement that a joint action in defence and assistance of anti fascist of the Ukrainian proletariat revolutionary resistance!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="11" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>¡Las direcciones reformistas de Europa, EEUU y Rusia deben romper con su política social imperialista y responder con acciones al llamado de los sindicatos de Donbás!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013736Z" changeid="MT!">
+				<seg>Reform directions in Europe, United States and Russia should break with its social policy and respond with actions the call of unions of Donbas!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="12" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Compañeros del YKPC:</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013738Z" changeid="MT!">
+				<seg>Fellow of the YKPC:</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="13" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg> </seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013739Z" changeid="MT!">
+				<seg> </seg>
+				</tuv>
+				</tu>
+
+<tu tuid="14" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Ponemos a su disposición nuestros materiales sobre la crisis de Ucrania para su discusión entre revolucionarios que nos declaramos discípulos de Trotsky.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013740Z" changeid="MT!">
+				<seg>We put at your disposal our materials on the Ukraine crisis for discussion among revolutionaries who declare us disciples of Trotsky.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="15" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Sabemos  que están sufriendo la persecución policial y fascista del régimen mientras éste bombardea barrios obreros enteros en el Este.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013742Z" changeid="MT!">
+				<seg>We know that they are suffering police and fascist persecution of the regime while this bombing entire working-class neighborhoods in the East.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="16" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Reciban desde ya nuestra plena solidaridad de clase.</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013743Z" changeid="MT!">
+				<seg>Receive from our full solidarity of class.</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="17" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>¡Saludos Revolucionarios!</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013746Z" changeid="MT!">
+				<seg>Revolutionary greetings!</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="18" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Núcleo por la Refundación de la Cuarta Internacional</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013747Z" changeid="MT!">
+				<seg>Kernel for the Refoundation of the fourth international</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="19" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013747Z" changeid="MT!">
+				<seg>Document created with</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="20" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>wvWare/wvWare version 1.2.9</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013747Z" changeid="MT!">
+				<seg>wvWare / wvWare version 1.2.9</seg>
+				</tuv>
+				</tu>
+
+<tu tuid="21" creationdate="20140813T013747Z" creationid="MT!" usagecount="2" lastusagedate="20140813T013747Z">
+				<prop type="x-Match-Value">100%</prop>
+				<tuv lang="ES-ES"  creationdate="20140813T013747Z" creationid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				<tuv lang="EN-GB" creationdate="20140813T013747Z" creationid="MT!" changedate="20140813T013747Z" changeid="MT!">
+				<seg>&gt;</seg>
+				</tuv>
+				</tu>
+
+</body>
+		</tmx>

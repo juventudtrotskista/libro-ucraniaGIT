@@ -1,0 +1,1971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.1_1" segtype="sentence" srclang="ES"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ES">
+        <seg>"[la revolución ucraniana]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140813T001407Z" creationid="Carlos" creationdate="20140813T001407Z">
+        <seg>"[Ukrainian Revolution]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>(¡Llegó la hora!), llamaron “revolución naranja” al aborto de la revolución proletaria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T025225Z" creationid="Paolo" creationdate="20140720T025225Z">
+        <seg>(It Was time!) , called "orange revolution" to abortion of the proletarian revolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>- Problemas vitales del proletariado alemán).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T232957Z" creationid="ROBLES" creationdate="20140801T232957Z">
+        <seg>Vital problems of the German proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>10 billones de dólares de la Royal Dutch Shell para explotar hidrocarburos en el sur del país.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T013831Z" creationid="Paolo Bustamante" creationdate="20140708T013831Z">
+        <seg>10 billion dollars of Royal Dutch Shell to exploit hydrocarbons in the south. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>15-7-14).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T152931Z" creationid="Paolo" creationdate="20140806T152921Z">
+        <seg>7-15-2014).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>2-8-14</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T154332Z" creationid="Paolo" creationdate="20140806T154332Z">
+        <seg>8-2-14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>A ellos se les impuso los peores salarios para sostener la recuperación económica que siguió al estancamiento de los noventas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T164756Z" creationid="Paolo" creationdate="20140710T164756Z">
+        <seg>The worse wages were imposed on them, to sustain the economic recovery that followed to the stagnation of the 1990s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Acusaron al bloque pro-ruso (del saliente Kuchma y su candidato Yanukovich) de hacer fraude en las elecciones presidenciales y transformaron la disposición al combate de los explotados en millones de votos con los que finalmente salió ganador Yuschenko con Tymoshenko como primera ministra.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T025513Z" creationid="Paolo" creationdate="20140720T025513Z">
+        <seg>They accused to the pro-Russian bloc (the one of the outgoing Kuchma and Yanukovich candidate ) of making fraud in the presidential elections and transformed the disposal for combat of the exploited millions into votes with which eventually emerged victorious Yushchenko, with Tymoshenko as prime minister.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Puse "because of their political support to..." "A causa de su apoyo politico a estos gobierno contrarevolucionarios...."
+Sí, me parece bien. </note>
+      <tuv lang="ES">
+        <seg>Al sostener estos gobiernos contra-revolucionarios, el estalinismo es responsable también de la pérdida de Slaviansk y del callejón sin salida en el que se encuentra la revolución socialista ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T222828Z" creationid="Paolo" creationdate="20140809T235416Z">
+        <seg>Because of its political support to these counter-revolutionary Governments, Stalinism is responsible also for the loss of Slavyansk and the blind alley where is the Ukrainian Socialist Revolution.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Apoyado en éstas, el partido “Svoboda” con su frente de milicias “Sector de Derecha” encabezó una insurrección fascista “pro-europea” que condujo al derrocamiento del gobierno bonapartista “pro-ruso” de Yanukovich y la imposición de un régimen de transición fascista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T181929Z" creationid="Paolo" creationdate="20140806T141235Z">
+        <seg>Supported in these, the "Svoboda" party with their "Right Sector" militias front headed a fascist insurrection "Pro-European" which conducted to the overthrow of the "pro Russian" Bonapartist Government of Yanukovich and the imposition of a fascist transition regime.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Así vemos como la LIT-CI afirma que el fascismo dirigió milicias obreras durante el Maidán, como si de una dirección reformista se tratara,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T175413Z" creationid="Paolo" creationdate="20140810T004729Z">
+        <seg>Thus we see as the IWL-FI says that fascism directed workers militias during the Maidan, as if it was a reformist leadership,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Así, el Partido Comunista no solo no puede sino que no quiere prevenir el ascenso de los ultra-derechistas”;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T010739Z" creationid="ROBLES" creationdate="20140808T010739Z">
+        <seg>Thus, the Communist Party not only cannot but it does not want to prevent the rise of ultra rightists"; However, they finished saying:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Borotda nació como fracción juvenil del PC al que se unieron grupos como la “Unión de Obreros de toda Ucrania” y la asociación juvenil “Che Guevara”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T005525Z" creationid="ROBLES" creationdate="20140808T005525Z">
+        <seg>Borotda was born as youth fraction of the PC to which groups came together as the "Union of workers from all Ukraine" and the Youth Association "Che Guevara". In one of his statements, they say:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Burócratas sindicales como Volynko de Donbás, respaldan abiertamente los batallones del fascismo,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T174033Z" creationid="Paolo" creationdate="20140810T003908Z">
+        <seg>trade union bureaucrats as Volynko from Donbas, support openly the battalions of fascism,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>COMO EN PALESTINA Y SIRIA:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T034457Z" creationid="Paolo" creationdate="20140806T041332Z">
+        <seg>AS IN BOTH PALESTINE AND SYRIA:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Con el nuevo gobierno nacido de la “revolución naranja” a fines del 2004, este régimen de pacto restauracionista se ha ido socavando con la multiplicación de las inversiones imperialistas en Ucrania, con Alemania inyectando capital productivo y EEUU llevando capital financiero a Kiev a través de Wall Street y el FMI.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T235518Z" creationid="Paolo Bustamante" creationdate="20140707T235518Z">
+        <seg>With the new government born of the "orange revolution" in late 2004, this regime of the restorationist covenant has been undermined with the multiplication of imperialist investment in Ukraine, with Germany injecting productive capital. and USA carrying financial capital to Kiev through Wall Street and the IMF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Con el salto cualitativo de la influencia del fascismo sobre las masas pequeño-burguesas, se empezó a desarrollar una situación pre-fascista y el régimen bonapartista adoptó también este carácter.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T233840Z" creationid="ROBLES" creationdate="20140801T233840Z">
+        <seg>With the qualitative leap of the influence of fascism on the petite bourgeois masses, began to develop a situation fascist pre and the Bonapartist regime also adopted this character.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"With this has been displacing" - Se traduce como Con esto ha estado desplazando.... no como "Con esto se ha venido desplazando" - no encuentro la traduccion correcta	</note>
+      <tuv lang="ES">
+        <seg>Con esto se ha venido desplazando a la oligarquía nativa de Ucrania y sus socios de Rusia pero aún conserva grandes negocios que está dispuesta a seguir defendiendo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T014402Z" creationid="Paolo Bustamante" creationdate="20140708T014402Z">
+        <seg>With this has been displacing the native oligarchy of Ukraine and Russian partners , but these still has big business that's willing to continue defending.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Considerando la situación internacional, la crisis profunda del capitalismo, la ofensiva imperialista, los conflictos en el seno de la burguesía, la situación desesperada a la que estaba siendo empujada la pequeña-burguesía, el retraso de la revolución proletaria por responsabilidad de sus direcciones, la desilusión generalizada con la democracia, la descomposición de la izquierda reformista;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T024200Z" creationid="ROBLES" creationdate="20140731T024200Z">
+        <seg>Considering the international situation, the profound crisis of capitalism, the imperialist offensive, the conflicts at the heart of the bourgeoisie, the desperate situation to which was being pushed the petit bourgeoisie, the backwardness of the proletarian revolution by responsibility for their leaderships, the widespread disillusionment with democracy, the decomposition of the reformist left; everything indicated that the conditions for a fascist solution of the social crisis had matured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Considerando la situación internacional, la crisis profunda del capitalismo, la ofensiva imperialista, los conflictos en el seno de la burguesía, la situación desesperada a la que estaba siendo empujada la pequeña-burguesía, el retraso de la revolución proletaria por responsabilidad de sus direcciones, la desilusión generalizada con la democracia, la descomposición de la izquierda reformista; todo indicaba que las condiciones para una solución fascista de la crisis social habían madurado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T233754Z" creationid="ROBLES" creationdate="20140719T225529Z">
+        <seg>Considering the international situation, the profound crisis of capitalism, the imperialist offensive, the conflicts at the heart of the bourgeoisie, the desperate situation to which was being pushed the petit bourgeoisie, the backwardness of the proletarian revolution by responsibility for their leaderships, widespread disillusionment with democracy, the decomposition of the reformist left; everything indicated that the conditions for a fascist solution of the social crisis had matured.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Continuando con su política pero de forma redoblada, el imperialismo está sobre-endeudando a Ucrania e imponiendo la privatización desenfrenada a favor de las transnacionales, la liquidación del salario por la inflación, el aumento del precio del gas, despidos y una represión policial y fascista despiadada contra las organizaciones obreras.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T182838Z" creationid="Paolo" creationdate="20140806T142247Z">
+        <seg>Continuing its policy but in redoubled form, imperialism is over-indebting Ukraine and is imposing an unbridled privatisation in favour of transnational corporations, liquidation of wage because of inflation, increase in the price of gas, dismissals and a police and fascist repression against the workers organizations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Contra la pasividad criminal de la socialdemocracia y el estalinismo, Trotsky advirtió prontamente el ascenso del fascismo alemán:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004532Z" creationid="ROBLES" creationdate="20140802T004532Z">
+        <seg>Against criminal passivity of social democracy and Stalinism, Trotsky promptly warned the rise of German fascism: "the fascists rise very quickly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>De esta forma el reformismo ha paralizado y desorganizado la lucha de la clase obrera contra el fascismo al subestimar o incluso negar su ascenso e influencia sobre las masas pequeño-burguesas y los sectores más atrasados del proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004116Z" creationid="ROBLES" creationdate="20140802T004116Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>De esta forma la izquierda reformista “pro-europea” y “pro-rusa” es por sus traiciones, cómplice de la guerra de exterminio que está sufriendo el pueblo ucraniano.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T223418Z" creationid="Paolo" creationdate="20140806T144231Z">
+        <seg>In this way, because to its betrayals, the "Pro-European" and "pro-Russian" reformist left is accomplice in the war of extermination that Ukrainian people are suffering.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>De esta forma se prepara el camino para la toma revolucionaria del poder y la conquista de Repúblicas Socialistas de los explotados de la ciudad y el campo, las únicas que puede garantizar el derecho de autodeterminación nacional tanto para los oprimidos rusófonos y no rusófonos de Ucrania, como para los tártaros de Crimea.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T223139Z" creationid="Paolo" creationdate="20140810T001417Z">
+        <seg>Thus It paves the way for the revolutionary seizure of power and the conquest of Socialist Republics of the exploited of the city and countryside, the only ones which can guarantee the right of national self-determination for the Russian-speaking and non-Russian-speaking oppressed of Ukraine as well as for the Crimean Tatars.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>De esta forma,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T021022Z" creationid="ROBLES" creationdate="20140808T021022Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>De todas formas, su eventual penetración por abajo, es decir, por los parados, es mucho más peligrosa.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T223235Z" creationid="ROBLES" creationdate="20140801T223235Z">
+        <seg>Anyway, eventually penetration below, i.e., by the unemployed, is much more dangerous.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Debe preparar el camino a su propio poder, llamando a la huelga general revolucionaria, poniendo en pie sobre todo a los explotados y oprimidos de la capital.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T232840Z" creationid="Paolo" creationdate="20140809T235833Z">
+        <seg>Proletariat should pave the way to its own power, calling the revolutionary general strike, putting on its feet mainly to the exploited and oppressed of the capital.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>EL ASCENSO DEL FASCISMO</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T025503Z" creationid="ROBLES" creationdate="20140719T025503Z">
+        <seg>THE RISE OF FASCISM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>EL IMPERIALISMO BOMBARDEA UCRANIA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T034922Z" creationid="Paolo" creationdate="20140806T035144Z">
+        <seg>IMPERIALISM BOMBARDS UKRAINE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El 2010, su grupo juvenil “Acción Directa”, encabezó una movilización de 20 000 estudiantes en 15 ciudades del país.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T100822Z" creationid="ROBLES" creationdate="20140808T100822Z">
+        <seg>In 2010, your youth group "Direct action", headlined a mobilization of 20,000 students in 15 cities across the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El Partido Comunista (PC) continuaba así la política de chovinismo gran ruso impuesta por la contra-revolución estalinista contra el principio de autodeterminación nacional y carácter federativo totalmente libre de la URSS conquistado por la revolución de Octubre y defendido siempre por Lenin y Trotsky.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T155031Z" creationid="Paolo" creationdate="20140710T155031Z">
+        <seg>The Communist Party (CP) continued the policy of the Great Russian chauvinism imposed by the Stalinist counter-revolution against the principle of national self-determination and federal nature totally free of the USSR conquered by the October Revolution and always defended by Lenin and Trotsky.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El crecimiento rápido de los fascistas implica que la bola puede rodar hacia la derecha […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004900Z" creationid="ROBLES" creationdate="20140802T004900Z">
+        <seg>The rapid growth of fascist means that the ball can roll to the right [...].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El estalinismo internacional por su parte, desde los eurocomunistas más pacifistas hasta los maoístas más vocingleros, viene sosteniendo el papel contra-revolucionario que está jugando el PC ucraniano tanto en el parlamento del Kiev fascista (hasta su reciente expulsión), como en el gobierno burgués de Donbás.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T215320Z" creationid="Paolo" creationdate="20140809T233153Z">
+        <seg>The International Stalinism meanwhile, from the most pacifist eurocommunists to the most chatterbox Maoists, is sustaining the counter-revolutionary role that the Ukrainian CP is playing as in Parliament of the fascist Kiev (until his recent expulsion), as in the bourgeois Government of Donbas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El fascismo es ante todo anti-obrero y en esto siempre fue consecuente, aunque su ideología pueda adquirir distintas formulaciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T030035Z" creationid="ROBLES" creationdate="20140801T023715Z">
+        <seg>Fascism is above all anti-working class and this was always consistent, although its ideology can acquire different formulations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El fascista argentino Leopoldo Lugones fue también un conocido defensor de los derechos de los descendientes de Abraham.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T031436Z" creationid="ROBLES" creationdate="20140801T031436Z">
+        <seg>The fascist Argentine Leopoldo Lugones was also a known defender of the rights of the descendants of Abraham.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El imperialismo yanqui, a través del Fondo Monetario Internacional, ya ha impuesto que sean las masas de Ucrania rusófonas y no rusófonas, las que paguen la gigantesca deuda del Estado (que se viene acumulando desde el pacto de restauración capitalista) con la privatización de la educación y la salud, con cierres y despidos masivos, con impuestos a los pequeños negocios y también al salario (40%) y con el aumento brutal del precio del gas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T231731Z" creationid="Paolo Bustamante" creationdate="20140707T230818Z">
+        <seg>Yankee imperialism through the International Monetary Fund (IMF), already has imposed that the masses of Ukraine, wheter they are russian-speaking or not, be the ones who pay the huge debt of the State (that is being accumulated since the capitalist restauration pact) with the privatization of education and health; with closures of factories and layoffs, with taxation to the little business and the salary (40%) and the brutal rise of the gas price.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El mariscal de la insurrección fascista polaca, Józef Pilsudski, ni se consideraba ario ni usaba la esvástica y fue además el que quizás mejor trato dio a la comunidad judía en la historia del país.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T031417Z" creationid="ROBLES" creationdate="20140801T031417Z">
+        <seg>The Marshal of the Polish fascist insurrection, Józef Pilsudski, neither considered Aryan nor used the swastika and was also that perhaps best deal gave the Jewish community in the country's history.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El proletariado levantado en armas no tiene por qué sostener un gobierno conformado por los partidos políticos de la burguesía “pro-rusa” y los agentes militares de Putin, carnicero del pueblo checheno y georgiano.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T232502Z" creationid="Paolo" creationdate="20140809T235619Z">
+        <seg>The armed proletariat does not have why support a Government formed by the political parties of the "pro-Russian" bourgeoisie and the military agents of Putin, butcher of both the Chechen and Georgian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El rápido y sorpresivo ascenso del fascismo ucraniano es parte precisamente de la ofensiva contra-revolucionaria que se está imponiendo y busca consolidarse en el mundo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T201153Z" creationid="ROBLES" creationdate="20140719T195203Z">
+        <seg>The quick and surprising rise of Ukrainian fascism is part precisely of the offensive counter revolutionary that is being imposed and looks to establish itself in the world.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El régimen bonapartista de la Ucrania semi-colonial, no ha hecho más que oscilar constantemente entre estos dos campos desde su “independencia” bajo las cadenas de la restauración capitalista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T152206Z" creationid="Paolo Bustamante" creationdate="20140710T152206Z">
+        <seg>The Bonapartist regime of the semi-colonial Ukraine, has done no more than constantly oscillate between these two fields since its "independence" under the chains of the capitalist restoration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El siguiente comunicado pertenece al Sindicato Independiente de Mineros de Donetsk.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T235052Z" creationid="Carlos" creationdate="20140812T235052Z">
+        <seg>The following statement belongs to Independent Donetsk Miners’ Trade Union.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>El uso de términos como “nazis”, “neo-nazis”, “ultra-derecha”, “extrema derecha”, “skin head” e incluso “neo-fascistas” (¿?) no son más que armas de confusión en manos de la izquierda reformista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T134816Z" creationid="ROBLES" creationdate="20140801T134816Z">
+        <seg>The use of terms such as "nazis", "neo Nazi", "ultra right", "far right" and "skin head" and even "neo-fascist" (?) are not more than weapons of confusion in the hands of the reformist left</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ellos se encargaron no solo de dividir y contener junto al PC, el ascenso obrero de fines de los noventas, sino que jugaron un rol fundamental para la salida de la crisis política desarrollada a principios del siglo XXI y que tuvo su remate en la situación revolucionaria abierta a fines del 2004 (como parte del combate en Serbia, Georgia y luego Kirguistán).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T183405Z" creationid="Paolo" creationdate="20140710T173245Z">
+        <seg>They were not only responsible for dividing and contain, alongside the CP, the workers rise of the late nineties, they also played a key role for the exit of the political crisis developed in the early XX century who had his culmination in the open revolutionary situation in late 2004 (as part of combat in Serbia , Georgia and after Kyrgyzstan).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En Ucrania entonces se empezó a desarrollar una situación pre-fascista como parte de la ofensiva contra-revolucionaria del imperialismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T234746Z" creationid="ROBLES" creationdate="20140801T234746Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En Ucrania, la burguesía ha lanzado contra los trabajadores una terrible ofensiva de hambre, muerte y desolación como la que sufre el pueblo de Palestina y Siria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T041819Z" creationid="Paolo" creationdate="20140806T041743Z">
+        <seg>In Ukraine, the bourgeoisie has launched against the workers a terrible offensive of hunger, death and desolation like the one which the people of both Palestine and Syria suffers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En efecto, es más que evidente que la coalición del Centro con los fascistas sería, no una etapa hacia la solución "democrática" del problema, sino que serviría de trampolín para un golpe de estado en las condiciones más favorables para el fascismo” (Trotsky, Por un frente único obrero contra el fascismo).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T043730Z" creationid="ROBLES" creationdate="20140802T043730Z">
+        <seg>In effect, this is more obvious that the coalition of the Centre with the fascists will be, not a step towards the "democratic" solution to the problem, but would serve as a springboard for a coup in the most favorable conditions for fascism "(Trotsky , For a single worker front against fascism)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En efecto, recogen numerosos votos en las elecciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023611Z" creationid="ROBLES" creationdate="20140731T023611Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En esta oportunidad el Partido Socialista (PS) impidió que se desataran las fuerzas revolucionarias de las masas no rusófonas,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T040657Z" creationid="Paolo" creationdate="20140717T034101Z">
+        <seg>This time the Socialist Party (SP) prevented that the revolutionary forces of the non-Russian-speaking masses was unleashed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En este Estado de ocupación se arma a la pequeña-burguesía para aplastar la clase obrera palestina, es decir, para el marxismo se ponen en pie milicias fascistas… ¡judías!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T120951Z" creationid="ROBLES" creationdate="20140801T032005Z">
+        <seg>In this state of occupation be weapon to the petty bourgeoisie to crush the Palestinian working class, i.e., for Marxism are standing fascist militias... beans!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En la actualidad, estos elementos se han pasado o se están pasando a los nacionalsocialistas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T195003Z" creationid="ROBLES" creationdate="20140801T195003Z">
+        <seg>Currently, these elements have been passed or are transitioning to the National Socialist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En la provincia de Lviv incluso es conocido como el “partido de los proles”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194536Z" creationid="ROBLES" creationdate="20140801T194536Z">
+        <seg>In the province of Lviv is known as the "party of the proles". This phenomenon can be explained also by revolutionary Marxism:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En las elecciones del 2012 Svoboda obtuvo 2 millones de votos (10% del total), con lo que ingresaron por primera vez al parlamento ucraniano como su cuarta bancada.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T205334Z" creationid="ROBLES" creationdate="20140719T201213Z">
+        <seg>Svoboda won 2 million votes (10% of the total) entered for the first time to the Ukrainian Parliament as its fourth bench in the 2012 election.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En primer lugar, ni el fascismo alemán fue de verdad “anti-semita”;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045313Z" creationid="ROBLES" creationdate="20140802T045313Z">
+        <seg>First, neither the German fascism was really "anti Semitic"; When Hitler annexed Austria not touched a hair of their bankers, the vast majority of them Jews.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En primer lugar, ni el fascismo alemán fue de verdad “anti-semita”; cuando Hitler anexionó Austria no tocó un pelo de sus banqueros, la gran mayoría de ellos judíos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T023613Z" creationid="ROBLES" creationdate="20140801T023613Z">
+        <seg>First, neither the German fascism was really "anti Semitic"; When Hitler annexed Austria not touched a hair of their bankers, the vast majority of them Jews.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En una de sus declaraciones afirman:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T005530Z" creationid="ROBLES" creationdate="20140808T005530Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Era necesario ponerse en estado de alerta.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T205349Z" creationid="ROBLES" creationdate="20140719T205349Z">
+        <seg>It was necessary to be on alert.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Era un síntoma claro que la situación estaba cambiando y era necesario definirla y actuar en consecuencia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T214423Z" creationid="ROBLES" creationdate="20140719T205400Z">
+        <seg>It was a clear sign that the situation was changing and needed to define it and act accordingly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Es por eso que muchos de los discursos de Svoboda incluyen también frases racistas contra los alemanes.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T122903Z" creationid="ROBLES" creationdate="20140801T122903Z">
+        <seg>Tha is why many of the speeches of Svoboda also include racist phrases against the Germans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta enorme lucha fue separada de la clase obrera y finalmente llevada a la mesa de negociación con el gobierno bajo la “mediación” de los partidos “democráticos” de la burguesía pro-europea.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T100857Z" creationid="ROBLES" creationdate="20140808T100857Z">
+        <seg>This enormous struggle was separated from the working class and finally brought to the negotiating table with the Government under the "mediation" of the "democratic" parties of the bourgeoisie European pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>'its' no 'your'</note>
+      <tuv lang="ES">
+        <seg>Esta es su verdadera esencia, sin importar si declaran nacionalizaciones (siempre burguesas) o su constitución defienda el derecho al aborto (siempre formal).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T221427Z" creationid="Paolo" creationdate="20140809T234215Z">
+        <seg>This is its true essence, no matter if it declares nationalizations (always bourgeois) or if its Constitution defend the right to abortion (always formal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta política pacifista criminal se ha mostrado en toda su crudeza en la crisis que se vive desde fines del 2013, pero eso lo analizaremos más adelante.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T101559Z" creationid="ROBLES" creationdate="20140808T101559Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta separación formal de su brazo armado, ha facilitado su alianza con los partidos “democráticos” de la burguesía que la izquierda pro-europea siempre llamó a votar.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004112Z" creationid="ROBLES" creationdate="20140802T002029Z">
+        <seg>This formal separation of its armed wing, has facilitated its alliance with the "democratic" parties of the bourgeoisie that left European pro always called to vote.Thus the reformism has paralyzed and desorganized the struggle of the working class against fascism to underestimate or even deny his ascent and influence over the petite bourgeoisie mass and the most backward sectors of the proletariat. And this is true both for the left European pro and left Russian pro led by the PC.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esta última busca defender la tajada de negocios que aún le quedan del pacto restauracionista;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T144337Z" creationid="Paolo Bustamante" creationdate="20140710T144337Z">
+        <seg>This last one seeks to defend the slice of business that remains of the restorationist covenant;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Estamos luchando con las armas en la mano, por nuestras vidas y las vidas de nuestros seres queridos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153335Z" creationid="Paolo" creationdate="20140806T153335Z">
+        <seg>We fight with weapons in hand, for our lives and the lives of our loved ones. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Estamos sin embargo, lejos de basar nuestro análisis exclusivamente en el conteo electoral:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T020539Z" creationid="ROBLES" creationdate="20140731T020539Z">
+        <seg>However, we are far from base our analysis solely on the electoral count: "The german fascism today represents an infinitely more powerful political force that eight years ago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Estamos sin embargo, lejos de basar nuestro análisis exclusivamente en el conteo electoral: “El fascismo alemán representa hoy una fuerza política infinitamente más poderosa que hace ocho años.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T215908Z" creationid="ROBLES" creationdate="20140719T214752Z">
+        <seg>However, we are far from base our analysis solely on the electoral count: "The german fascism today represents an infinitely more powerful political force that eight years ago</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Estas disputas burguesas sin embargo, no son entre “imperialismos” como quiere hacer creer la prensa yanqui y sus filiales socialdemócratas, sino el regateo entre un pequeño accionista y el dueño de la empresa a escala internacional.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140709T122113Z" creationid="Paolo Bustamante" creationdate="20140709T122113Z">
+        <seg>These bourgeois disputes, however, are not between "imperialisms" as the Yankee press would have us believe and its affiliates Social Democrats, but haggling among a small shareholder and owner of the company on an international scale.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Estas son las premisas para la formación de un partido fascista y su victoria” (Trotsky, Bonapartismo, fascismo, y guerra).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140724T020422Z" creationid="ROBLES" creationdate="20140724T020422Z">
+        <seg>These are the premises for the formation of a fascist party and his victory"(Trotsky, Bonapartism, fascism, and war). All of this political development could be identified also for Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Este crecimiento de los dos polos demuestra que la bola no puede mantenerse en el vértice de la pirámide.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004730Z" creationid="ROBLES" creationdate="20140802T004730Z">
+        <seg>This growth of the two poles shows that the ball cannot be maintained at the apex of the pyramid.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Este fenómeno sin embargo, puede ser explicado también por marxismo revolucionario:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194541Z" creationid="ROBLES" creationdate="20140801T194541Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Este partido reformista también se ha convertido en una suerte de sección no declarada del seudo-trotskismo “pro-ruso” internacional.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T221511Z" creationid="Paolo" creationdate="20140806T154306Z">
+        <seg>This Reformist Party also has become a sort of undeclared section of "pro-Russian" International pseudo-Trotskyism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Este pedazo de tierra sobre el mar aparece también como el principal inversor en Rusia y la misma curiosa asociación encontramos en las estadísticas para Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140709T122328Z" creationid="Paolo Bustamante" creationdate="20140709T122328Z">
+        <seg>This piece of land on the Sea also appears as the main investor in Russia and the same curious Association found in the statistics for Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Este tipo de integración económica es relativamente similar a la “Alianza Bolivariana para los Pueblos de Nuestra América” – ALBA impulsada por el castro-chavismo en Latinoamérica y opuesta al ALCA y los TLC de Bush, es decir, la misma explotación capitalista y saqueo imperialista, solo que pactando un margen de ganancia mayor para las burguesías nativas que la ofrecida por Washington.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T015919Z" creationid="Paolo Bustamante" creationdate="20140708T015919Z">
+        <seg>This type of economic integration is relatively similar to the "Bolivarian Alliance for the Peoples of Our America" - ALBA, driven by the Castro-Chavism in Latin America and opposed to the FTAA, and Bush’s FTAs, namely , the same capitalist exploitation and the imperialist plunder, only with the difference of a greater margin of profit for the native bourgeoisies compared than those offered by Washington.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto es lo que han comprendido los voluntarios revolucionarios que han llegado de Europa y también de Rusia para combatir al fascismo junto a sus hermanos de clase ucranianos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T170756Z" creationid="Paolo" creationdate="20140806T160231Z">
+        <seg>It is what have understood the revolutionary volunteers who have come from Europe and also Russia to fight fascism with their Ukrainian class brothers.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto es lo que reclama, contra la voluntad de sus direcciones, el proletario revolucionario del Este:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T171559Z" creationid="Paolo" creationdate="20140806T153723Z">
+        <seg>It is what the revolutionary proletariat of the East reclaims against the will of its leaderships:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto las empujó al combate abriendo una verdadera situación pre-revolucionaria para fines de los noventas (como en Latinoamérica).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T153400Z" creationid="Paolo Bustamante" creationdate="20140710T153400Z">
+        <seg>This pushed them to the combat, opening a real pre-revolutionary situation to late nineties (like in Latin America).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto no quiere decir que no pueda desarrollarse también una situación pre-revolucionaria:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T233856Z" creationid="ROBLES" creationdate="20140801T233856Z">
+        <seg>This does not mean that you can develop is also a revolutionary pre situation:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto se conoce como “round-tripping” (ida y vuelta) y es la forma como la oligarquía nativa ex soviética invierte en su país lavando dinero y aprovechando las ventajas tributarias que le ofrecen acuerdos bilaterales hechos con la isla a principios de los ochentas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140709T123351Z" creationid="Paolo Bustamante" creationdate="20140709T123351Z">
+        <seg>This is known as "round tripping" and is the way as the former Soviet native oligarchy invests in its country by laundering money and tax advantages offered bilateral agreements made with the island at the beginning of the 1980s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Esto se expresó de forma parcial y distorsionada en las elecciones parlamentarias y presidenciales del 98 y el 99, donde el viejo partido comunista de Ucrania obtuvo cerca de 11 millones de votos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T153703Z" creationid="Paolo" creationdate="20140710T153703Z">
+        <seg>This was expressed in a partial and distorted way in the parliamentary and presidential elections of 98 and 99, where the old Communist Party of Ukraine received nearly 11 million votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Evidentemente lo más conveniente es su unificación federal pero por decisión propia y no por imposición del imperialismo o del reformismo a su servicio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T153915Z" creationid="Paolo" creationdate="20140810T001819Z">
+        <seg>Evidently, the most convenient is their federal unification but by its own choice and not by imposition of imperialism and reformism at its service.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Finalmente el PC retrocedió y el PS como lacayo de la burguesía pro-europea de Yuschenko y Tymoshenko (oligarca del gas), con la juventud de sus partidos unificada en el frente Pora!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T025102Z" creationid="Paolo" creationdate="20140720T025102Z">
+        <seg>Finally, the CP recoiled, and the SP as the lackey of the pro-European bourgeoisie of Yushchenko and Tymoshenko ( gas oligarch), with the youth of their matches in the unified front!: Pora! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Finalmente, el PS no era más que una escisión del PC, salidos ambos de los rangos sobre todo inferiores de la vieja nomenclatura ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T032049Z" creationid="Paolo" creationdate="20140717T041406Z">
+        <seg>Finally, the SP was not more than a scission of CP, both emerged from the lower ranks of the old Ukrainian nomenclature.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Finalmente, tenemos el caso del propio Estado de Israel.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T031728Z" creationid="ROBLES" creationdate="20140801T031728Z">
+        <seg>Finally, we have the case of the State of Israel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Fue precisamente el 2011 que se puso en pie “Borotda” (“Lucha”) que junto con el anarquismo fueron definidos por la prensa burguesa como la “Nueva Izquierda” ucraniana.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T005440Z" creationid="ROBLES" creationdate="20140808T005440Z">
+        <seg>It was precisely the 2011 that stood "Borotda" ("struggle"), that both anarchism and the bourgeois press defined it as "new left" Ukrainian.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Revisar un poco esta traducción</note>
+      <tuv lang="ES">
+        <seg>Fueron en realidad el PS y el PC las piezas fundamentales para que el campo burgués pro-europeo cerrara la crisis política a su favor.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T033159Z" creationid="Paolo" creationdate="20140720T033159Z">
+        <seg>It was actually the SP and CP, fundamental parts for the pro-European bourgeois camp closed the policy crisis to their favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Hacemos un llamamiento a los obreros de los países europeos, pidiendo su ayuda y solidaridad:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153312Z" creationid="Paolo" creationdate="20140806T153312Z">
+        <seg>We appeal to you, the workers of the European countries, asking for your help and solidarity:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Hay, pues, que estar tanto más en guardia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T040005Z" creationid="ROBLES" creationdate="20140802T040005Z">
+        <seg>There is, therefore, to be more on guard.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Hemos puesto en guardia sin descanso contra una subestimación del peligro fascista, y no seremos nosotros quienes neguemos ahora ese peligro […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023521Z" creationid="ROBLES" creationdate="20140731T021641Z">
+        <seg>We have put on guard without rest counter an underestimation of the fascist danger, and we will not be us who now deny that danger [...] In fact, they pick up many votes in elections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Hemos puesto en guardia sin descanso contra una subestimación del peligro fascista, y no seremos nosotros quienes neguemos ahora ese peligro […] En efecto, recogen numerosos votos en las elecciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T222213Z" creationid="ROBLES" creationdate="20140719T222213Z">
+        <seg>We have put on guard without rest counter an underestimation of the fascist danger, and we will not be us who now deny that danger [...] In fact, they pick up many votes in elections.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Incluso Sector de Derecha se ha reunido con el embajador de Israel para explicarle que ellos no son antisemitas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T122915Z" creationid="ROBLES" creationdate="20140801T122915Z">
+        <seg>Even right Sector has met with the Ambassador of Israel to explain that they are not anti-Semitic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>NO ME CONVENCE ESTA TRADUCCIÓN	</note>
+      <tuv lang="ES">
+        <seg>Kiev rechazó la oferta pero pactó con Moscú y la burguesía “pro-rusa” de Ucrania legitimar al régimen de transición fascista con elecciones fraudulentas del que salió ganador el millonario Poroshenko, expresando un importante cambio en la correlación de fuerzas luego del desastre de la masacre fascista de Odesa y de la extraordinaria respuesta revolucionaria del proletariado ucraniano, solo comparable a la España del 36.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T211808Z" creationid="Paolo" creationdate="20140806T201701Z">
+        <seg>Kiev rejected the offer but agreed with Moscow and the "pro-Russian" bourgeoisie of Ukraine to legitimize the regime of fascist transition with fraudulent elections in which came out winning the millionaire Poroshenko, expressing an important change in the correlation of forces after the disaster of the fascist massacre of Odessa and the extraordinary revolutionary response of the proletariat Ukrainian, only comparable to the Spain of 36.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>LA NUEVA IZQUIERDA UCRANIANA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T004032Z" creationid="ROBLES" creationdate="20140808T004032Z">
+        <seg>THE NEW UKRAINIAN LEFT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>LA VERDAD SOBRE LA CRISIS EN UCRANIA</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T223327Z" creationid="Paolo Bustamante" creationdate="20140707T202319Z">
+        <seg>THE THRUTH ABOUT THE CRISIS IN UKRAINE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La burguesía pro-rusa movilizó en su apoyo a la clase media del este e incluso a franjas del proletariado que por el veneno del PC veían en Yanukovich un “mal menor” en comparación al imperialismo europeo, pero no tuvo éxito.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T032016Z" creationid="Paolo" creationdate="20140720T025903Z">
+        <seg>The pro-Russian bourgeoisie mobilized the middle class from east in support of them and even stripes of the proletariat who, because of the poison of CP, saw in Yanukovich a "lesser evil " compared to European imperialism, but was unsuccessful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La burguesía rusa por su parte,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T152902Z" creationid="Paolo" creationdate="20140806T152902Z">
+        <seg>The Russian bourgeoisie on the other hand,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La campaña fraudulenta alrededor de la tragedia del avión malayo caído en zona de guerra es con el fin de justificar estos crimines.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T201831Z" creationid="Paolo" creationdate="20140806T201831Z">
+        <seg>The fraudulent campaign around the tragedy of the Malaysian aircraft, fallen in war zone, is in order to justify these crimes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La crisis del capitalismo ha conducido al colapso de los eslabones más débiles de la economía mundial, como ha sucedido en Ucrania y frente a la amenaza de la revolución proletaria, el capital financiero ha puesto en pie al fascismo que ha venido ganando influencia sobre amplias masas pequeño-burguesas desde el inicio de la crisis mundial.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T175228Z" creationid="Paolo" creationdate="20140806T042749Z">
+        <seg>The crisis of capitalism has led to the collapse of weakest links in the global economy as it has happened in Ukraine and in front of the threat of the proletarian revolution, the financial capital has put on its feet the fascism that has been gaining influence over broad petty-bourgeois masses since the beginning of the global crisis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La desesperación de la pequeña-burguesía, su “neurosis colectiva” la hace presa de los mayores absurdos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T134350Z" creationid="ROBLES" creationdate="20140801T134024Z">
+        <seg>"The desperation of the petty bourgeoisie, its "collective neurosis" makes dam of the greatest absurdities.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La masa fundamental de los fascistas está compuesta de polvareda humana” (Trotsky, Alemania, la clave de la situación internacional).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T224919Z" creationid="ROBLES" creationdate="20140719T224919Z">
+        <seg>The fundamental mass of the fascists is conposed of dust cloud human"  (Trotsky, German, The key of the international situation).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La más grande de todas se hizo a principios del 2012:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T013743Z" creationid="Paolo Bustamante" creationdate="20140708T013735Z">
+        <seg>The most large of all was made in early 2012:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La profunda inconsistencia y superficialidad de las discusiones de burgueses y pequeño-burgueses acerca de la ideología de Svoboda no se deben tanto al mérito intelectual de sus autores, sino más bien a la necesidad de sembrar confusión en el proletariado para que este quede anestesiado y así el fascismo pueda realizar su difícil operación sin mayores contratiempos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140725T054114Z" creationid="ROBLES" creationdate="20140725T054114Z">
+        <seg>The profound inconsistency and shallowness of arguments of bourgeois and petty bourgeois about the ideology of Svoboda are not both intellectual merit of its authors, but rather the need to sow confusion among the proletariat that is anesthetized and fascism can thus perform its difficult operation without major setbacks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La sección ucraniana del estalinismo mundial se encargó así de abortar la revolución socialista, subordinando al poderoso y concentrado proletariado del este y del sur al campo burgués “pro-ruso”, explotando la identidad cultural de esta parte de la población ucraniana bajo las banderas del “nacionalismo soviético y eslavo”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T154718Z" creationid="Paolo" creationdate="20140710T154718Z">
+        <seg>The Ukrainian section of Stalinism worldwide, was the responsible of the abortion of Socialist Revolution, subordinating the powerful and concentrated proletariat from east and south, to the field of "pro-Russian" bourgeoisie, exploiting cultural identity of this part of the Ukrainian people under the banner of "Soviet and Slavic nationalism".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La social-democracia internacional, manchada por un siglo de traiciones, nuevamente se encuentra a los pies de la burguesía imperialista, levantando el mito del Maidán “revolucionario”, silenciando o justificando masacres como la de Odesa y sosteniendo por izquierda la ofensiva “anti-terrorista” de Kiev.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T173246Z" creationid="Paolo" creationdate="20140810T003801Z">
+        <seg>The international Social democracy, stained by a century of betrayals, again is at feet of imperialist bourgeoisie, maintaining myth of the "revolutionary" Maidan, silencing or justifying massacres as Odessa and supporting from the left the "anti terrorist" offensive of Kiev.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La vieja oligarquía rusificada de Ucrania, liderada por Yanukovich y Rinat Ajmétov, ha venido entonces regateando negocios con el imperialismo, pero con la pérdida de posiciones muchos se han reubicado como defensores directos de las ambiciones de EEUU y Europa, como es el caso de la oligarca del gas Yulia Tymoshenko.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T122350Z" creationid="Paolo Bustamante" creationdate="20140708T122350Z">
+        <seg>The old oligarchy Russianized of Ukraine, led by Yanukovich and Rinat Ajmétov, It has been then, haggling business with imperialism, but with the loss of positions, many have been placed as direct advocates of U.S. and European ambitions, as the case of the gas oligarch Yulia Tymoshenko..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La “revolución naranja” había triunfado y una nauseabunda demagogia pacifista (según la prensa burguesa no hubo ningún muerto) inundó la atmósfera política de toda Ucrania, llenando de falsas ilusiones parlamentarias a millones de explotados que estaban dispuestos a morir por el pan y su autodeterminación nacional.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T030526Z" creationid="Paolo" creationdate="20140720T030526Z">
+        <seg>The "orange revolution" had triumphed and a nauseating pacifist demagoguery (according to the bourgeois press there was no dead) flooded the political atmosphere of all Ukraine, filling of false parliamentary illusions to millions of exploited who were willing to die for bread and their national self-determination.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los anarquistas también tienen influencia sobre la vanguardia obrera;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T101835Z" creationid="ROBLES" creationdate="20140808T101835Z">
+        <seg>The anarchists also have influence on the workers vanguard; they manage the "Federation autonomous workers" that brings together about a hundred thousand exploited.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los comunistas aumentan también, pero mucho más lentamente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004623Z" creationid="ROBLES" creationdate="20140802T004623Z">
+        <seg>Communists increase also, but much more slowly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los empleados, el personal técnico y administrativo, ciertas capas de funcionarios, constituyeron en el pasado uno de los apoyos importantes de la socialdemocracia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194801Z" creationid="ROBLES" creationdate="20140801T194801Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los explotados no rusófonos del centro y sobre todo de la parte occidental de Ucrania vieron en el estalinismo un abierto enemigo de sus legítimas aspiraciones nacionales, aplastadas en sangre por monarcas europeos, turcos y rusos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140710T164401Z" creationid="Paolo" creationdate="20140710T164401Z">
+        <seg>The exploited non Russian-speaking from Centre and above all from the western part of Ukraine, saw in the stalinism, an open enemy of their legitimate national aspirations crushed in blood by Russian, Turkish and European monarchs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los pacifistas incurables del PTS denuncian el Maidán como reaccionario pero tildan de “separatistas” a las milicias obreras del Este con el fin de evitar cualquier compromiso con la guerra civil revolucionaria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T221915Z" creationid="Paolo" creationdate="20140806T144644Z">
+        <seg>The incurable pacifists of the PTS denounced the Maidan as reactionary, but brand of "separatists" to workers militias from the East in order to avoid any commitment to the revolutionary civil war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los parados no son una clase, pero constituyen ya una capa social muy compacta y muy estable, que busca en vano sustraerse a unas condiciones de vida insoportables.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T231736Z" creationid="ROBLES" creationdate="20140801T231736Z">
+        <seg>The unemployed are not a class, but already constitute a social layer very compact and very stable, seeking in vain to escape unbearable living conditions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Los que defienden el dominio imperialista sobre Ucrania pero con una tajada importante para la oligarquía rusófona constituyen el llamado campo burgués “pro-ruso”, opuesto al campo burgués “pro-europeo” de los agentes de la ofensiva económica y política del imperialismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T151831Z" creationid="Paolo Bustamante" creationdate="20140710T151812Z">
+        <seg>Those who defend the imperialist domination over Ukraine but with a significant slice to the Russian-speaking oligarchy constitute the so-called bourgeois camp "pro Russian", opposed to bourgeois field "pro-European" of the agents of the economic and political offensive of imperialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Luego veremos cómo fue aplicado este programa estalinista en la actual crisis que sacude al país.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T100023Z" creationid="ROBLES" creationdate="20140808T100023Z">
+        <seg>We will see later how it was applied this Stalinist program in the current crisis that is shaking the country.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Meses antes, el fascismo se vio ya obligado a retroceder:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T030643Z" creationid="Paolo" creationdate="20140720T030643Z">
+        <seg>Months earlier, fascism was already forced to retreat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Mientras el imperialismo bombardeaba y desmembraba Yugoslavia, en Ucrania la restauración impuso un verdadero genocidio económico, con una caída brutal del PBI y de las condiciones de vida de las masas (la población pasó de 52 a 48 millones de h.).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T153239Z" creationid="Paolo Bustamante" creationdate="20140710T153239Z">
+        <seg>While the imperialism was bombing and dismembering Yugoslavia, in Ukraine the restoration he imposed a genuine economic genocide, with a brutal fall of GDP and the living conditions of the masses (the population went from 52 to 48 million h.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Mientras que Borotda, como fracción pública a la izquierda del PC, está respaldando por fuera del gobierno la política reaccionaria del frente popular, bajo el esquema estalinista clásico de “revolución por etapas”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T220605Z" creationid="Paolo" creationdate="20140809T232557Z">
+        <seg>While Borotda, as public fraction to the left of CP, is supporting by outside of Government, the reactionary policy of the Popular Front, under the classical Stalinist scheme of "two-stage revolution"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ninguna clase puede vivir durante mucho tiempo sin perspectiva ni esperanza.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T231539Z" creationid="ROBLES" creationdate="20140801T231539Z">
+        <seg>Any class can live for a long time without prospect or hope.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No compartimos el planteamiento político del mismo ya que está identificado con la política estalinista de Frente Popular que hemos venido denunciando sin cansancio.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140813T000603Z" creationid="Carlos" creationdate="20140812T235547Z">
+        <seg>We don't share its political approach because to its identification with the Stalinist policy of Popular Front that we have been denouncing without fatigue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No nos debe sorprender entonces que Svoboda haya intervenido en una protesta radicalizada de trabajadores despedidos llevando consignas de “revolución social” y “emancipación nacional”, pero obviamente sin llamar a paralizar la producción.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T233202Z" creationid="ROBLES" creationdate="20140801T233202Z">
+        <seg>We should not be surprised then that Svoboda has intervened in a radical protest by laid-off workers carrying slogans of "social revolution" and "national emancipation", but obviously not call to paralyze production.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Traduje No obstante como Nevertheless, podria usar Nonetheless o However. Verificar cual es el mas cercano al significado segun las reglas gramticales.</note>
+      <tuv lang="ES">
+        <seg>No obstante Rusia sigue siendo el principal socio comercial de Ucrania y esto es también lo que el imperialismo busca cambiar a su favor.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T121126Z" creationid="Paolo Bustamante" creationdate="20140708T120921Z">
+        <seg>Nevertheless, Russia remains Ukraine's main trading partner and this is also what the imperialism seeks to change in their favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No solo se trata de una disputa burguesa de negocios sino sobre todo de una ofensiva de explotación, saqueo y muerte a costa de las masas ucranianas y que se suma al pacto de restauración capitalista en Cuba y genocidios contra-revolucionarios como el impuesto a las masas de Siria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T150321Z" creationid="Paolo Bustamante" creationdate="20140710T150321Z">
+        <seg>This is not just about a bourgeois  business dispute but above all an offensive of exploitation, plunder and death at the expense of the Ukrainian masses and that adds to the covenant of capitalist restoration in Cuba and counter-revolutionaries genocides like the one imposed to the masses of Syria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>No tenemos donde retroceder – ¡esta es nuestra tierra!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153323Z" creationid="Paolo" creationdate="20140806T153323Z">
+        <seg>We have nowhere to retreat – this is our land! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Norteamérica e Inglaterra han hecho también importantes inversiones directas:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T235539Z" creationid="Paolo Bustamante" creationdate="20140707T235539Z">
+        <seg>USA and Britain have also made significant direct investments:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Nuevamente ellos se declaran “anti-parlamentarios” pero levantan el mismo programa de presión in extremis de Borotda, diferenciados solo por la distinta ubicación que la burguesía reservó para ellos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T101811Z" creationid="ROBLES" creationdate="20140808T101811Z">
+        <seg>Again they are declared 'anti-parliamentarians' but they raise the same program of pressure in Borotda extremis, differentiated only by a different location that the bourgeoisie reserved for them.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Nunca la ideología fascista se ha caracterizado precisamente por la coherencia;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045444Z" creationid="ROBLES" creationdate="20140802T045444Z">
+        <seg>Never the fascist ideology has precisely characterized by coherence; a fascist party called "Freedom" (Svoboda) is an example of this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Nunca la ideología fascista se ha caracterizado precisamente por la coherencia; que un partido fascista se llame “Libertad” (Svoboda) es ejemplo de ello precisamente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T023630Z" creationid="ROBLES" creationdate="20140801T023630Z">
+        <seg>Never the fascist ideology has precisely characterized by coherence; a fascist party called "Freedom" (Svoboda) is an example of this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>REVISTAR LAS TRADUCCIONES DE "REINVINDICAN"</note>
+      <tuv lang="ES">
+        <seg>Organizaciones como “la quinta internacional” y castro-chavistas como Alan Woods lo reivindican abiertamente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T150748Z" creationid="Paolo" creationdate="20140806T145631Z">
+        <seg>
+Organizations such as "the Fifth International" and Castro-Chavists as Alan Woods, openly defend it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Para contener a esta otra importante franja del proletariado, la burguesía dio licencia para la puesta en pie de una “izquierda pro-europea” liderada por el Partido Socialista de Alexander Moros bajo la jefatura de la social-democracia lacaya del imperialismo de Maastricht.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T041900Z" creationid="Paolo" creationdate="20140710T170822Z">
+        <seg>To contain this other important segment of the proletariat , the bourgeoisie gave license to put on its feet a " pro-European left " led by the Socialist Party of Alexander Moros under the leadership of social democracy, lackey of the imperialism of Maastricht. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Para el trotskismo esto solo puede ser sinónimo de estalinismo pero se trata de una corriente fascista en Rusia que reivindica la insurrección y tanto el nacionalismo de Hitler como el de los “grandes líderes eslavos”:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T133124Z" creationid="ROBLES" creationdate="20140801T130756Z">
+        <seg>For Trotskyism this can only be synonymous of Stalinism but is a fascist current in Russia that claimed the insurrection and nationalism of Hitler as the "great leaders Slavic" : the Czar and Stalin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Para oponerle resistencia a una potencia imperialista, las burguesías nativas se apoyan en otra potencia rival o ponen en pie asociaciones regionales como la impulsada por Rusia junto a sus pares de la ex URSS, uniones como la Comunidad Económica Eurasiática (2000) y la Unión Euroasiática (2010).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T015241Z" creationid="Paolo Bustamante" creationdate="20140708T015241Z">
+        <seg>To resist an imperialist power, the native bourgeoisie are support in another rival power or put in foot regional associations such as the driven by Russia together with their counterparts from the former USSR, economic unions as the Eurasian Economic Community (2000) and the Eurasian Union (2010).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Para rematar el asunto, existen también casos extremos como sucede con el “nacional-bolchevismo” ruso.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T130744Z" creationid="ROBLES" creationdate="20140801T130744Z">
+        <seg>To finish the matter, there are also extreme cases as it is the case with the Russian "national Bolshevism".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Paralizado por sus direcciones pacifistas, el proletariado ucraniano ha respondido con retraso a esta declaración de guerra lanzada por el capital financiero, movilizándose y tomando por asalto los municipios y arsenales en el Este rusófono del país, poniendo en pie milicias revolucionas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T203134Z" creationid="Paolo" creationdate="20140806T142326Z">
+        <seg>Paralyzed by their peaceful leaderships, the Ukrainian proletariat has responded belatedly to this declaration of war launched by financial capital, mobilizing and storming the municipalities and arsenals in the Russian-speaking East of the country, putting on its feet revolutionaries militias. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pero la esencia de su política traidora es que en ningún momento plantean el derecho a la autodeterminación nacional de los explotados no rusófonos de Ucrania y en esto están completamente identificados con el PC.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T021007Z" creationid="ROBLES" creationdate="20140808T021007Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pero la papeleta del voto no es decisiva en la lucha de clases […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023902Z" creationid="ROBLES" creationdate="20140731T023902Z">
+        <seg>But the ballot not esdecisiva in the class struggle [...] On the balance of electoral statistics, 1,000 fascist votes weigh as much as1,000 Communist votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pero la papeleta del voto no es decisiva en la lucha de clases […] Sobre la balanza de la estadística electoral, 1.000 votos fascistas pesan tanto como 1.000 votos comunistas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T223701Z" creationid="ROBLES" creationdate="20140719T223701Z">
+        <seg>But the ballot not esdecisiva in the class struggle [...] On the balance of electoral statistics, 1,000 fascist votes weigh as much as1,000 Communist votes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Pero sobre los platillos de la balanza de la lucha revolucionaria, 1.000 obreros de una gran empresa representan una fuerza mucho más grande que la de 1.000 funcionarios, empleados de ministerios, con sus mujeres y sus suegras.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140719T224121Z" creationid="ROBLES" creationdate="20140719T224121Z">
+        <seg>But on the plates of the balance of the revolutionary struggle, 1,000 workers of a company represents a force much larger than the 1,000 officials, employees of ministries, with their wives and their mothers-in-law.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ponerse a discutir si son “nazis” o no, “anti-semitas” o no, es ejemplar en este sentido.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T023548Z" creationid="ROBLES" creationdate="20140801T023548Z">
+        <seg>Please discuss if they are "nazis" or not, "anti Semitic" or not, is exemplary in this respect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Por otro lado, hay que señalar que el fascismo ucraniano nació malogrado:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T121403Z" creationid="ROBLES" creationdate="20140801T121403Z">
+        <seg>On the other side, it should be noted that the Ukrainian fascism was born failed:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Por su parte el anarquismo ucraniano se ha ubicado como la verdadera ala “radical” de la izquierda pro-europea.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T100604Z" creationid="ROBLES" creationdate="20140808T100604Z">
+        <seg>For its part the Ukrainian anarchism is located as the true "radical" wing of the left European pro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>NO ESTOY MUY CONVENCIDO DE ESTA TRADUCCIÖN</note>
+      <tuv lang="ES">
+        <seg>Poroshenko es el rostro negociador de la ofensiva imperialista en Ucrania que tiene al fascismo en las “sombras del poder”, ocupando ministerios y dirigiendo batallones de milicianos que están sembrando el terror y la muerte en la población rusófona del Este,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T212904Z" creationid="Paolo" creationdate="20140806T155938Z">
+        <seg>Poroshenko is the negotiator face of imperialist offensive in Ukraine with fascism in the "shadows of power" while it lead ministries and direct battalions of militiamen which are sowing terror and death in the Eastern Russian-speaking population,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Puesto que Hitler no puede dejar de comprender que el camino del poder pasa por una guerra civil muy dura, sus discursos sobre la vía democrática y pacífica no son, pues, más que una cobertura, es decir, un ardid de guerra.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T035728Z" creationid="ROBLES" creationdate="20140802T035728Z">
+        <seg>Because Hitler can not leave to undertand that the path to power passes through a brutal civil war, his speeches on democratic and peaceful means are therefore not more than a cover, ie, a artifice of war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Rusia es un extraño “imperio” exportador de gas para Europa y cuyo principal destino de sus capitales “imperialistas” va a parar… ¡a la isla de Chipre!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140709T122256Z" creationid="Paolo Bustamante" creationdate="20140709T122256Z">
+        <seg>Russia is a strange 'empire', exporter of gas to Europe and whose main destination for its "imperialist" capital goes to... the island of Cyprus!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Rusia ha estado persiguiendo por años la integración de Ucrania a su proyecto euroasiático pero hasta ahora no ha tenido éxito.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140708T020121Z" creationid="Paolo Bustamante" creationdate="20140708T020002Z">
+        <seg>Russia has been pursuing for years the integration of Ukraine to their Eurasian project, but so far has not been successful.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>"They" haría alusión a lo anterior, al proletariado. </note>
+      <tuv lang="ES">
+        <seg>Se han puesto en pie repúblicas burguesas “populares” con el Partido Comunista “pro-ruso” ejerciendo cargos de gobierno en una clásica política de Frente Popular contra-revolucionario que como sucedió en España, tiene el fin de salvar la propiedad privada y llevar la resistencia anti-fascista finalmente a la derrota.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T220633Z" creationid="Paolo" creationdate="20140806T212222Z">
+        <seg>It has put on its feet "popular" bourgeois republics while the Communist Party (CP) "pro-Russian" exercise government positions in a classic counter-revolutionary policy of Popular Front that as it happened in Spain, aims to save private property and lead the anti-fascist resistance finally to defeat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Si bien la ofensiva fascista con la OTAN en la retaguardia obliga a la vanguardia revolucionaria apoyar provisionalmente sus fusiles sobre los hombros de la “Unión de Repúblicas Populares” y del ejército ruso en Crimea, esto no la fuerza a otorgarles el más mínimo respaldo político como viene haciendo el PC como parte del gobierno de la burguesía y organizaciones como Borotda por fuera del mismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T234322Z" creationid="Paolo" creationdate="20140810T000456Z">
+        <seg>Although the fascist offensive with NATO in the rearguard, obliges to revolutionary vanguard to provisionally support their rifles on the shoulders of the "Union of People's Republics" and Russian army in Crimea, it does not force to give them the slightest political support like CP does as part of Government of bourgeoisie and organizations like Borotda out of it.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Si es cierto, en general, que sólo la revolución proletaria puede salvar a Alemania de la descomposición y la desagregación, esto es cierto en primer lugar para los millones de parados” (Trotsky, ¿Y ahora?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T232059Z" creationid="ROBLES" creationdate="20140801T232059Z">
+        <seg>"If is true, in general, that only the proletarian revolution can save Germany from the breakdown and the breakdown, this is true in the first place for the millions of unemployed" (Trotsky, and now?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Siguiendo esta línea, el nacionalsocialismo penetra por arriba en el proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T223032Z" creationid="ROBLES" creationdate="20140801T195942Z">
+        <seg>Following this line, the national socialism penetrate from above in the proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, al apoyarse únicamente en la pequeña-burguesía de la mitad occidental de Ucrania, Svoboda presenta una debilidad intrínseca que lo ha obligado a actuar de forma defensiva, manteniendo la separación formal con su milicia (Sector de Derecha) y un discurso ambiguo con respecto al método insurreccional pero con el mismo programa fascista de demagogia populista, anti-comunista y anti-rusa, con la que el odio pequeño-burgués contra el capital está siendo dirigido también y en realidad solo contra el proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T001415Z" creationid="ROBLES" creationdate="20140801T234804Z">
+        <seg>However, to rely only on the petty bourgeoisie of the Western half of Ukraine, Svoboda has an intrinsic weakness that has forced it to act defensively, while maintaining the formal separation with his militia (right Sector) and an ambiguous discourse regarding the insurrectional method but with the same fascist program of populist demagoguery, anti-communist and anti-Russian with which petite bourgeois hatred against the capital and in reality only being directed against the proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, como señalamos en nuestra última declaración:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140813T001204Z" creationid="Carlos" creationdate="20140813T001204Z">
+        <seg>However, as we pointed out in our last statement:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Hay varios errores donde se coloca el adjetivo después del sustantivo</note>
+      <tuv lang="ES">
+        <seg>Sin embargo, el imperialismo en pacto con Putin y la burguesía “pro-rusa” del Este tiene también una política para contener y desorganizar por dentro al frente revolucionario anti-fascista del proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T215304Z" creationid="Paolo" creationdate="20140806T205842Z">
+        <seg>However, imperialism in pact with Putin and the "pro-Russian" bourgeoisie of the East also has a policy to contain and disorganize the inside of the anti-fascist revolutionary front of proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, el proletariado europeo sigue atado de pies y manos por sus direcciones reformistas, unos respaldando abiertamente el Maidán fascista y otros sosteniendo el Frente Popular contra-revolucionario de Strelkov y el fugado Pushilin.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T171925Z" creationid="Paolo" creationdate="20140810T002200Z">
+        <seg>However, the European proletariat is still hands and legs tied by its reformist leaderships, some of them openly supporting the fascist Maidan, and others supporting counter-revolutionary Popular Front of Strelkov and the escaped Pushilin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, esto tampoco bastaría para pagar la fraudulenta deuda y es por eso que el imperialismo está yendo por todo, buscando tomar posesión de todas las concesiones que hizo a la oligarquía ucraniana en sociedad con la burguesía rusa, ambas salidas de la cloaca de la burocracia estalinista;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T232419Z" creationid="Paolo Bustamante" creationdate="20140707T232332Z">
+        <seg>However, this neither would be sufficient to pay the fraudulent debt and that's why the imperialism is going for everything, seeking to take possession of all the concessions made to the Ukrainian oligarchy in partnership with the Russian bourgeoisie, both outputs of the cloaca of the Stalinist bureaucracy; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, siempre ha existido una fuerte tendencia proletaria hacia la unificación de sus filas:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T045053Z" creationid="Paolo" creationdate="20140717T045053Z">
+        <seg>However, there has always been a strong proletarian tendency towards unification of their ranks:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sobre la balanza de la estadística electoral, 1.000 votos fascistas pesan tanto como 1.000 votos comunistas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T023910Z" creationid="ROBLES" creationdate="20140731T023910Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Soldados rasos están desertando para unirse a las filas de la revolución,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T204041Z" creationid="Paolo" creationdate="20140806T151637Z">
+        <seg>Footsoldiers are deserting to join the ranks of the revolution</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Solo la bancarrota de las direcciones reformistas del proletariado puede explicar que el fascismo haya podido conquistar tantas posiciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T233524Z" creationid="ROBLES" creationdate="20140801T233211Z">
+        <seg>Only the bankruptcy of the reformist leaderships of the proletariat can explain that fascism has been able to conquer many positions.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sus cálculos son totalmente claros y evidentes:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T040206Z" creationid="ROBLES" creationdate="20140802T040206Z">
+        <seg>His calculations are completely clear and obvious:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Svoboda se asienta sobre la pequeña-burguesía urbana de occidente y en el campesinado del centro pero también sobre el sector más atrasado del proletariado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T140946Z" creationid="ROBLES" creationdate="20140801T140835Z">
+        <seg>Svoboda sits on the urban petit bourgeoisie of occident and in the peasantry of the centre but also on most late sector of the proletariat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>También fracasa el oportunismo cuando niega que se trate de fascismo por la influencia de éste sobre ciertos sectores de la clase obrera.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T140851Z" creationid="ROBLES" creationdate="20140801T134849Z">
+        <seg>Also fails the opportunism when it denies that it is fascism by the influence of this on certain sectors of the working class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Todo este desarrollo político pudo ser identificado también para Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140725T024821Z" creationid="ROBLES" creationdate="20140725T024821Z">
+        <seg>All of this political development could be identified also for Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Tras de sí pueden arrastrar, si no han comenzado a hacerlo ya, a la aristocracia obrera.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T195757Z" creationid="ROBLES" creationdate="20140801T195757Z">
+        <seg>After can drag, if they have not begun to do so already, to the labor aristocracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Trotsky señala además cuáles son los antecedentes para el desarrollo del fascismo:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T025655Z" creationid="ROBLES" creationdate="20140731T024230Z">
+        <seg>Trotsky to signal in addition what are the background for the development of fascism:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Trotsky señala además cuáles son los antecedentes para el desarrollo del fascismo: “Tanto el análisis teórico como la rica experiencia histórica del último cuarto de siglo demostraron con igual fuerza que el fascismo es en cada oportunidad el eslabón final de un ciclo político específico que se compone de lo siguiente: la crisis más grave de la sociedad capitalista; el aumento de la radicalización de la clase obrera; el aumento de la simpatía hacia la clase trabajadora y un anhelo de cambio de parte de la pequeña burguesía urbana y rural; la extrema confusión de la gran burguesía; sus cobardes y traicioneras maniobras tendientes a evitar el clímax revolucionario; el agotamiento del proletariado; confusión e indiferencia crecientes; el agravamiento de la crisis social; la desesperación de la pequeña burguesía, su anhelo de cambio; la neurosis colectiva de la pequeña burguesía, su rapidez para creer en milagros; su disposición para las medidas violentas; el aumento de la hostilidad hacia el proletariado que ha defraudado sus expectativas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140724T020330Z" creationid="ROBLES" creationdate="20140723T021037Z">
+        <seg>Trotsky also points what are the background to the development of fascism : "Both the theoretical analysis and the rich historical experience of the last quarter century demonstrated with equal force that fascism is at every opportunity the final link in a specific political cycle that is made up as follows: the most serious crisis of the capitalist society; increasing the radicalization of the working class; the increase of the sympathy for the working class and a yearning for change of part of the small urban and rural bourgeoisie; the extreme confusion of the big bourgeoisie; their cowardly and treacherous maneuver aimed at avoiding the revolutionary climax; the exhaustion of the proletariat; confusion and indifference growing; the worsening of the social crisis; the desperation of the petty bourgeoisie, their desire for change; the collective neuroses of the petty bourgeoisie, its speed to believe in miracles; available for the violent measures; the increase in hostility towards the proletariat which has disappointed expectations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ucrania ha transitado entonces, de la opresión nacional de la burocracia estalinista, a la opresión imperialista apoyada en la oligarquía rusófona como burguesía cipaya.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T144202Z" creationid="Paolo Bustamante" creationdate="20140710T144202Z">
+        <seg>Ukraine has then traveled, from national oppression of the Stalinist bureaucracy, to imperialist oppression supported in the Russian-speaking oligarchy like a “cipaya” bourgeoisie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Una de las fortalezas del dominio burgués ha radicado entonces en la colaboración del reformismo en sostener esta división de los explotados de Ucrania, profundizada históricamente por la política de “rusificación” de Stalin, como sucedió en Crimea con la expulsión de la nación tártara en 1944.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T044823Z" creationid="Paolo" creationdate="20140717T044818Z">
+        <seg>One of the strengths of bourgeois domain has consisted then in the collaboration of reformism to sustain this division of the exploited of Ukraine, historically deepened by the policy of " Russification " of Stalin , as happened in Crimea with the expulsion of the Tartar nation in 1944.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Y es que más que una “teoría”, el fascismo es acción como nos sugiere el nombre de la coalición que formó Svoboda a fines de los noventas:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T133703Z" creationid="ROBLES" creationdate="20140801T133703Z">
+        <seg>And it is that rather than a "theory", fascism is action as suggests the name of the coalition than formed Svoboda at the end of the 1990s:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Y es que solo luchando con los métodos de la revolución proletaria es posible derrotar al fascismo:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T234654Z" creationid="Paolo" creationdate="20140810T000623Z">
+        <seg>And it is just struggling with methods of proletarian revolution is possible to defeat fascism:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Y este combate no es ni puede ser nacional:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140810T001907Z" creationid="Paolo" creationdate="20140810T001907Z">
+        <seg>And this battle is not and can't be national:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Y esto es válido tanto para la izquierda pro-europea como para la izquierda pro-rusa encabezada por el PC.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004124Z" creationid="ROBLES" creationdate="20140802T004124Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Y sobre esta burocracia es que se apoyan organizaciones fraudulentas como “Oposición de Izquierda”, la sección ucraniana no oficial de todo el seudo-trotskismo “pro-europeo” internacional.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T174334Z" creationid="Paolo" creationdate="20140810T004510Z">
+        <seg>And on this bureaucracy are supported fraudulent organizations such as "Left Opposition", the unofficial Ukrainian section of all "pro-European" international pseudo-Trotskyism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ya desde entonces, a los anarquistas no les preocupaba mucho que estos partidos tuvieran como aliado a Svoboda en frentes pro-europeos como el “Comité de Resistencia a la Dictadura”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T101553Z" creationid="ROBLES" creationdate="20140808T101553Z">
+        <seg>Since then, the anarchist did not worry much that these parties would have as an ally to Svoboda in European pro fronts as the "Committee of resistance to the dictatorship". This criminal pacifist policy has shown in all its harshness in the crisis that it lives since the end of the 2013, but we'll discuss that later.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Ya habían preparado el camino llevando sindicalistas en las listas de cada elección, incluso se puso en pie un partido sindical asociado a la socialdemocracia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T034139Z" creationid="Paolo" creationdate="20140720T034139Z">
+        <seg>They had already prepared the way leading trade unionists in every election lists, even it put on its feet a union party associated to the social-democracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>ayúdennos a romper la fortaleza del fascismo en Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153246Z" creationid="Paolo" creationdate="20140806T153246Z">
+        <seg>help us break the stronghold of fascism in Ukraine. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>No pude hallar la traducción exacta para "rica explotación" por lo que puse "wealth exploitation"
+
+La frase: "pero que las inversiones tecnológicas del imperialismo están demostrando que puede ser muy rentable." no es muy entendible ni en español ni en ingles... Podria explicarse mejor en ingles</note>
+      <tuv lang="ES">
+        <seg>concesiones en importantes negocios en la rica explotación minera y energética, en la comercialización del gas que a bastece toda Europa desde Rusia, en la vieja industria semi-ligera (armas, aviones, etc.) y pesada (metalúrgica, siderúrgica, etc.) heredada de la URSS pero que las inversiones tecnológicas del imperialismo están demostrando que puede ser muy rentable.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T233912Z" creationid="Paolo Bustamante" creationdate="20140707T233912Z">
+        <seg>concessions in major businesses in the wealth exploitation of mines and energy, in the commercialization of gas that supplies to Europe from Russia, in the old light weight industry (weapons, aircraft, etc.) and heavy (metallurgical, steel, etc.) inherited from the USSR but that technological investments of imperialism are proving than can be very profitable..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>confusión e indiferencia crecientes;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044517Z" creationid="ROBLES" creationdate="20140802T044517Z">
+        <seg>increasing confusion and indifference;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>cuando Hitler anexionó Austria no tocó un pelo de sus banqueros, la gran mayoría de ellos judíos.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045316Z" creationid="ROBLES" creationdate="20140802T045316Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>debe despertar al poderoso proletariado ruso que en Crimea ya se ha levantado, debe unirse a la resistencia revolucionaria de los pueblos de Palestina y Siria, a las luchas del proletariado europeo contra los gobiernos de la Troika y el fascismo, a la lucha de los explotados y oprimidos de las semi-colonias y metrópolis.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T170541Z" creationid="Paolo" creationdate="20140810T002149Z">
+        <seg>must wake up to the powerful Russian proletariat that in Crimea has already raised, must join revolutionary resistance of the peoples of Palestine and Syria, the struggles of European proletariat against the Governments of the Troika and fascism, the struggle of the exploited and oppressed of semi-colonies and metropolis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>dio el salto con el “Ejército Insurgente Ucraniano” de Bandera que colaboró con los Nazis para después enfrentar la ofensiva de liquidación de Hitler.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T122552Z" creationid="ROBLES" creationdate="20140801T122552Z">
+        <seg>It made the leap with the "Ukrainian Insurgent Army" of flag which collaborated with the Nazis to then face the offensive of liquidation of Hitler.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>dirigen la “Federación Autónoma de Trabajadores” que agrupa a cerca de cien mil explotados.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T101838Z" creationid="ROBLES" creationdate="20140808T101838Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el Zar y Stalin.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T132051Z" creationid="ROBLES" creationdate="20140801T132051Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el agotamiento del proletariado;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044443Z" creationid="ROBLES" creationdate="20140802T044443Z">
+        <seg>the exhaustion of the proletariat;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el agravamiento de la crisis social;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044642Z" creationid="ROBLES" creationdate="20140802T044642Z">
+        <seg>the aggravation of the social crisis;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el aumento de la hostilidad hacia el proletariado que ha defraudado sus expectativas.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045220Z" creationid="ROBLES" creationdate="20140802T045220Z">
+        <seg>increasing hostility to the proletariat that has disappointed expectations.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el aumento de la radicalización de la clase obrera;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T031459Z" creationid="ROBLES" creationdate="20140731T031426Z">
+        <seg>The rise of the radicalization of the working class;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el aumento de la simpatía hacia la clase trabajadora y un anhelo de cambio de parte de la pequeña burguesía urbana y rural;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044225Z" creationid="ROBLES" creationdate="20140802T044225Z">
+        <seg>increased sympathy for the working class and a desire for change from the urban and rural bourgeoisie;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el marginal Partido Nacional-Social de Ucrania cambió su nombre a Svoboda (Libertad) y se distanció solo formalmente de su milicia, los Patriotas de Ucrania, una de las principales bases del actual frente fascista llamado Sector de Derecha.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T031822Z" creationid="Paolo" creationdate="20140720T031822Z">
+        <seg>the Social-National Party of Ukraine changed its name to Svoboda (freedom) and only formally distanced himself from his militia, the Patriots of Ukraine, one of the main bases of the current fascist front called Right Sector. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>en la agricultura (Kyiv-Atlantic Group), el sector metalúrgico (ArcelorMittal) y energético (ExxonMobil, Chevron).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T235551Z" creationid="Paolo Bustamante" creationdate="20140707T235551Z">
+        <seg>in agriculture (Kyiv-AtlanticGroup), the metallurgical sector (ArcelorMittal) and energy (ExxonMobil, Chevron)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>es decir, la misma política reformista del PC solo que bajo la forma de acciones “extraparlamentarias” lo suficientemente pacíficas para no amenazar al parlamento, sumado al sectarismo de solo convocar a los sindicatos que han roto con el PC y no a los 10 millones de afiliados a la “Federación de Sindicatos de Ucrania”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T095916Z" creationid="ROBLES" creationdate="20140808T011248Z">
+        <seg>"The expansion of the party" national social "[Svoboda] only can be stopped by the creation of a strong leftist political organization that put slogans of the struggle for the interests of the workers class accompanied by slogans of internationalism in close collaboration with the independent trade unions"; i.e. the same reformist policy from the PC just in the form of actions "extra-parliamentary" peaceful enough to not threaten the Parliament, added to the sectarianism only summon the unions who have broken with the PC and not the 10 million members of the "Federation of trade unions of Ukraine".But the essence of his treacherous politics is that at no time posed the right to national self-determination of the exploited not russian speakers in UKraine and in this are fully identified with the PC.In this way, while if they defend the right to self-determination of the russophones, denied this right for the vast majority of exploited of the Centre and West of Ukraine, by crossing this of "bourgeois nationalism" and fascism, cynically covering this betrayal with abstract phrases about proletarian internationalism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>No tengo muy clara la traducción de esta oración.</note>
+      <tuv lang="ES">
+        <seg>está presión explica el acercamiento del PC pro-ruso, durante la crisis del 2004, al campo “pro-europeo”, al que por su parte le sentaba bien negociar un respaldo del lado más populoso y rico en materia prima de Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140720T024624Z" creationid="Paolo" creationdate="20140720T022947Z">
+        <seg>This pressure explains the approach of the pro-Russian Communist Party, during the crisis in 2004, to the field "pro-European", who in turn was good for them negotiate an support from the more populous and rich side in raw material of Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>intenta adormecer al adversario con la perspectiva más lejana del crecimiento parlamentario de los nazis, para darle, una vez adormecido, en el momento favorable, un golpe mortal […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T042120Z" creationid="ROBLES" creationdate="20140802T042120Z">
+        <seg>tries to numb the opponent with the most remote prospect of parliamentary growth of the Nazis, to give, once asleep, at the favorable moment, a death blow [...]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>la crisis más grave de la sociedad capitalista;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T030924Z" creationid="ROBLES" creationdate="20140731T030924Z">
+        <seg>The most grave crisis of the capitalist society;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>la desesperación de la pequeña burguesía, su anhelo de cambio;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044648Z" creationid="ROBLES" creationdate="20140802T044648Z">
+        <seg>the desperation of the petty bourgeoisie, their desire for change;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>la extrema confusión de la gran burguesía;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044313Z" creationid="ROBLES" creationdate="20140802T044302Z">
+        <seg>the extreme confusion of the big bourgeoisie;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>la neurosis colectiva de la pequeña burguesía, su rapidez para creer en milagros;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044858Z" creationid="ROBLES" creationdate="20140802T044858Z">
+        <seg>the collective neurosis of the petty bourgeoisie, his speed to believe in miracles;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras el PC contenía al proletariado del este y del sur apoyado en la aristocracia obrera y la burocracia sindical oficial.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140717T040701Z" creationid="Paolo" creationdate="20140717T040643Z">
+        <seg>while the CP contained the proletariat of east and south supported in the labour aristocracy and the official trade union bureaucracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras enviaba a sus agentes militares a contener el levantamiento, presionó a Putin para recuperar Crimea y negociar luego su devolución a cambio de que la fronteriza Ucrania no sea integrada a la OTAN, todo con el fin de proteger su tajada del saqueo imperialista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T211204Z" creationid="Paolo" creationdate="20140806T155056Z">
+        <seg>while sent military agents to contain the uprising, pressed to Putin to recover Crimea and then to negotiate its return in exchange for that the border Ukraine is not integrated into NATO, all in order to protect their slice of the imperialist plunder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras era financiado por el gran capital y se declaraba también furioso anti-comunista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T130618Z" creationid="ROBLES" creationdate="20140801T130618Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que el SWP inglés llama a voltear el fusil “contra Washington y Moscú”, como si estuviéramos frente a una guerra inter-imperialista.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T210936Z" creationid="Paolo" creationdate="20140809T234037Z">
+        <seg>while the English SWP calls to turn the weapons "against Washington and Moscow", as if we were facing an inter-imperialist war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que el imperialismo ahora quiere la torta completa.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T144411Z" creationid="Paolo Bustamante" creationdate="20140710T144411Z">
+        <seg>while the imperialism now wants the whole cake.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que las familias obreras del Este bloquean las rutas y se enfrentan a los fascistas para impedir que sus hijos vayan a morir en nombre de la sucia campaña “anti-terrorista” del gobierno.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T204402Z" creationid="Paolo" creationdate="20140806T152839Z">
+        <seg>while working class families from the East block the routes and confront the fascists to prevent their children die on behalf of the "anti terrorist" dirty campaign of Government.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que otros como Volynest de Kryviy Rih sostienen que “el enemigo principal es el capital ruso”, ambos miembros del partido de Tymoshenko.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T174233Z" creationid="Paolo" creationdate="20140810T003950Z">
+        <seg>while others such as Volynest of Kryviy Rih argue that "the main enemy is the Russian capital", both members of the Tymoshenko's party.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras que se bombardean barrios obreros enteros como en Palestina y en Siria.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140811T214228Z" creationid="Paolo" creationdate="20140806T160108Z">
+        <seg>while entire working-class neighborhoods are bombarded as in both Palestine and Syria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras sí defienden el derecho a la autodeterminación de los rusófonos, niegan este derecho para la gran mayoría de explotados del centro y oeste de Ucrania, tachando esto de “nacionalismo burgués” y de fascismo, cubriendo cínicamente esta traición con frases abstractas acerca del internacionalismo proletario.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T021030Z" creationid="ROBLES" creationdate="20140808T021030Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>ocupando las minas para proveer de explosivos poniendo en pie comités obreros, tomando las fábricas de alimentos, los latifundios y grandes centros comerciales para sostener el frente de batalla, imponiendo el control obrero de la producción, expropiando sin pago las minas, acerías y mansiones de Rinat Ajmétov y de toda la oligarquía esclavista de Ucrania y Crimea.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T002004Z" creationid="Paolo" creationdate="20140810T001031Z">
+        <seg>occupying the mines to provide explosives putting on its feet workers committees, taking the food factories, the latifundia and shopping malls to hold the battle front, imposing workers control of production, expropriating without compensation mines, steelworks and mansions of Rinat Ajmétov and all the enslaving oligarchy of Ukraine and Crimea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>que un partido fascista se llame “Libertad” (Svoboda) es ejemplo de ello precisamente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045446Z" creationid="ROBLES" creationdate="20140802T045446Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>refundemos la Cuarta Internacional!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T142439Z" creationid="Paolo" creationdate="20140806T142439Z">
+        <seg>Re-found the fourth international!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>sin embargo, rematan diciendo:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T010743Z" creationid="ROBLES" creationdate="20140808T010743Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>solo puede ser detenida por la creación de una fuerte organización política izquierdista que en estrecha colaboración con los sindicatos independientes ponga delante slogans de la lucha por los intereses de clase de los trabajadores acompañado de slogans de internacionalismo”;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T021212Z" creationid="ROBLES" creationdate="20140808T021212Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>su disposición para las medidas violentas;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T045121Z" creationid="ROBLES" creationdate="20140802T045121Z">
+        <seg>his disposition for violent measures;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>sus cobardes y traicioneras maniobras tendientes a evitar el clímax revolucionario;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T044349Z" creationid="ROBLES" creationdate="20140802T044349Z">
+        <seg>their cowardly and treacherous maneuvers designed to prevent the revolutionary climax;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>todo indicaba que las condiciones para una solución fascista de la crisis social habían madurado.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T024216Z" creationid="ROBLES" creationdate="20140731T024216Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Abajo el gobierno de coalición fascista de Svoboda!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T223533Z" creationid="Paolo Bustamante" creationdate="20140707T223436Z">
+        <seg>Down with Svoboda's fascist coalition government!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Abajo el régimen de transición fascista y el pacto contra-revolucionario entre el imperialismo, la OTAN, Putin y la oligarquía pro-rusa!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T143108Z" creationid="Paolo" creationdate="20140806T143108Z">
+        <seg>Down with the fascist transition regime and the counter-revolutionary pact between imperialism, NATO, Putin and the Russian oligarchy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Abajo la ocupación militar rusa de la península de Crimea!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T142857Z" creationid="Paolo" creationdate="20140806T142857Z">
+        <seg>Down the Russian military occupation of the Crimea!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Abajo las repúblicas burguesas del Este y la política de frente popular que las sostiene!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T225710Z" creationid="Paolo" creationdate="20140806T143021Z">
+        <seg>Down with the bourgeois republics of the East and the politics of Popular Front that holds them!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Contra el oportunismo y el sectarismo:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T142511Z" creationid="Paolo" creationdate="20140806T142511Z">
+        <seg>Against the sectarianism and opportunism:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Esta será nuestra victoria común!” (Sindicato independiente de mineros Donetsk.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153234Z" creationid="Paolo" creationdate="20140806T153002Z">
+        <seg>This will be our common victory!" (Independent Donetsk Miners’ Trade Union</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Expropiación sin pago y bajo control obrero de todas las minas y acerías de Rinat Ajmétov y todos los oligarcas del Este socios de Putin!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T224907Z" creationid="Paolo Bustamante" creationdate="20140707T224907Z">
+        <seg>Expropriation without payment and under workers control of all mines and steelworks of Rinat Ajmétov and all the eastern oligarchs, Putin's associates!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Fuera de Ucrania las bases y tropas gurkas contra-revolucionarias de Putin!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T224550Z" creationid="Paolo Bustamante" creationdate="20140707T224550Z">
+        <seg>Out of Ukraine the counter-revolutionary bases and gurkha troops of Putin!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Justicia proletaria para los explotados asesinados en Odesa y en toda Ucrania a manos del fascismo a cuenta del imperialismo!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T224121Z" creationid="Paolo Bustamante" creationdate="20140707T224121Z">
+        <seg>Proletarian justice for the exploited killed in Odessa and all Ukraine, at the hands of fascism on account of imperialism! !</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡LOS TRABAJADORES DEL MUNDO DEBEN RESPONDER AL LLAMADO DE SUS HERMANOS DE UCRANIA!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T234856Z" creationid="Carlos" creationdate="20140812T234856Z">
+        <seg>WORKERS OF THE WORLD MUST RESPOND TO THE CALL OF THEIR BROTHERS IN UKRAINE!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Las direcciones reformistas de Europa, EEUU y Rusia deben romper con su política social-imperialista y responder con acciones al llamado de los sindicatos de Donbás!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T143355Z" creationid="Paolo" creationdate="20140806T143355Z">
+        <seg>The reformist leaderships in Europe, United States and Russia should break with its social-imperialist policy and respond with actions to the call of unions of Donbas!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>esto es una prueba</note>
+      <tuv lang="ES">
+        <seg>¡Por el derecho a la autodeterminación nacional de los explotados rusófonos y no rusófonos de Ucrania bajo un Estado Obrero Socialista!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T223316Z" creationid="ROBLES" creationdate="20140706T012126Z">
+        <seg>For the right to national self-determination of russian-speaking and non-russian speaking exploited of Ukraine under a Socialist Worker State!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Por el restablecimiento del socialismo en todos los países ex soviéticos bajo Estados Obreros apoyados en la auto-organización y armamento del proletariado!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T142707Z" creationid="Paolo" creationdate="20140806T142707Z">
+        <seg>For the restoration of socialism in all former Soviet countries under democratic workers States supported by self organization and arming of the proletariat!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>Esta sustitución es de prueba. Corregir</note>
+      <tuv lang="ES">
+        <seg>¡Por el restablecimiento del socialismo en todos los países ex soviéticos bajo Estados Obreros democráticos!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T202236Z" creationid="Carlos" creationdate="20140706T005316Z">
+        <seg>For the restoration of socialism in all former Soviet countries under democratic workers States!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Por la destrucción del Estado de ocupación de Israel, aparato militar del imperialismo yanqui!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T142546Z" creationid="Paolo" creationdate="20140806T142546Z">
+        <seg>By the destruction of the State of occupation of Israel, military apparatus of Yankee imperialism!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Por un comité internacional de las organizaciones obreras sin ningún otro acuerdo político que una acción común en defensa y asistencia de la resistencia revolucionaria anti-fascista del proletariado ucraniano!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T144054Z" creationid="Paolo" creationdate="20140806T144054Z">
+        <seg>For an International Committee of workers organizations without any other political agreement but a joint action in defence and assistance of the revolutionary anti-fascist resistance of the Ukrainian proletariat!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Que las direcciones del proletariado rompan ya su sometimiento a la oligarquía y al imperialismo y pongan en pie de inmediato un gran frente obrero anti-fascista y revolucionario de todos los explotados desde Lviv y Kiev hasta Donetsk y Crimea!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140707T224342Z" creationid="Paolo Bustamante" creationdate="20140707T224342Z">
+        <seg>That the proletariat's leaderships break their submission to the oligarchy and imperialism, and immediately put up a great worker and anti-fascist revolutionary front of all the exploited from Lvivy Kiev to Donetsk and Crimea!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¡Viva la lucha de los explotados de Palestina y Siria, una sola lucha con el pueblo ucraniano!</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Carlos" changedate="20140812T230320Z" creationid="Paolo" creationdate="20140806T142611Z">
+        <seg>Long live the struggle of the exploited of Palestine and Syria, one fight with the Ukrainian people!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>¿Que esconde la estratagema de Hitler?</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T040139Z" creationid="ROBLES" creationdate="20140802T040139Z">
+        <seg>What hides the stratagem of Hitler?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>‘no es una situación revolucionaria’, e ignoran la situación prerrevolucionaria” (Trotsky, Otra vez sobre la cuestión del bonapartismo).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T234739Z" creationid="ROBLES" creationdate="20140801T234739Z">
+        <seg>"it is not a revolutionary situation', and they ignore the pre-revolutionary situation" (Trotsky, again on the question of bonapartism). In Ukraine then began to develop a situation pre fascist as part of the offensive against revolutionary of imperialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Al no comprender la naturaleza del régimen bonapartista, los stalinistas se ven llevados a dar el siguiente diagnóstico:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T234657Z" creationid="ROBLES" creationdate="20140801T233911Z">
+        <seg>"Not understanding the nature of the Bonapartist regime, the Stalinists are taken to give the following diagnosis:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“El Partido Comunista de Ucrania cuasi-izquierdista ha rechazado el marxismo en nombre de una ideología conservadora-clerical y abiertamente colabora con el Partido de las Regiones de la oligarquía dominante.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T010722Z" creationid="ROBLES" creationdate="20140808T010722Z">
+        <seg>"The party communist of Ucrania quasi leftist rejected Marxism in the name of a Conservative clerical ideology and openly collaborates with the party of the regions of the dominant oligarchy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“El fascismo alemán representa hoy una fuerza política infinitamente más poderosa que hace ocho años.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T021014Z" creationid="ROBLES" creationdate="20140731T021014Z">
+        <seg>"The German fascism today represents an infinitely more powerful political force that eight years ago.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“La expansión del partido “nacional-social” [Svoboda]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140808T011252Z" creationid="ROBLES" creationdate="20140808T011142Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Los fascistas aumentan muy rápidamente.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140802T004535Z" creationid="ROBLES" creationdate="20140802T004535Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Los obreros no están en absoluto inmunizados de una vez por todas contra la influencia de los fascistas […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T194758Z" creationid="ROBLES" creationdate="20140801T194758Z">
+        <seg>"The workers are not immunized one time for all against influence of fascists [...]"Employees, the technical and administrative staff, some layers of officials, were in the last one of the important support of social democracy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Menos Palabras”.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T134033Z" creationid="ROBLES" creationdate="20140801T133856Z">
+        <seg>"Fewer words".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Nosotros, los residentes de Donbass, venimos luchando contra todas las manifestaciones del nazismo y del fascismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo" changedate="20140806T153355Z" creationid="Paolo" creationdate="20140806T153355Z">
+        <seg>"We, the residents of Donbas, fight against all manifestations of Nazism and Fascism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“PRO-EUROPEOS” Y “PRO-RUSOS”</seg>
+      </tuv>
+      <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140710T150353Z" creationid="Paolo Bustamante" creationdate="20140710T150353Z">
+        <seg>"PRO-EUROPEAN" Y "PRO-RUSSIAN"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Pero si es verdad que reparten propaganda nazi, ¿cómo se puede conciliar eso?” Bueno, esa pregunta también se hicieron muchos, cuando Hitler decía que era un convencido socialista enemigo mortal del capitalismo,</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140801T130556Z" creationid="ROBLES" creationdate="20140801T130556Z">
+        <seg>"But if it is true that spread nazi propaganda, how one can reconcile that?" Well, that question also were made many, when Hitler said it was a convinced Socialist capitalism's mortal enemy, as long as was finaced by big capital and declared also furious anti-Communist.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Tanto el análisis teórico como la rica experiencia histórica del último cuarto de siglo demostraron con igual fuerza que el fascismo es en cada oportunidad el eslabón final de un ciclo político específico que se compone de lo siguiente:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="ROBLES" changedate="20140731T030315Z" creationid="ROBLES" creationdate="20140731T030315Z">
+        <seg>"Both theoretical analysis and rich historical experience of the last quarter century with equal force showed that fascism is every chance the final link in a specific political cycle consisting of the following:"</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
