@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.5.1" segtype="sentence" srclang="ES"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.9_4" segtype="sentence" srclang="ES"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -369,6 +369,14 @@ Sí, me parece bien. </note>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Después de la caída de Yanukovich estas acciones no tendrán más el carácter de apoyo al gobierno.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20150919T023344Z" creationid="JorgeLozano" creationdate="20150919T023344Z">
+        <seg>After the fall of Yanukovich these actions will not have more the nature of support to the Government.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>EL ASCENSO DEL FASCISMO</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140719T025503Z" creationid="ROBLES" creationdate="20140719T025503Z">
@@ -677,6 +685,14 @@ Sí, me parece bien. </note>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20150311T135517Z" creationid="Paolo" creationdate="20150311T135517Z">
         <seg>In many cases they took up arms and police deserters</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En otro comunicado dicen:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20150918T204714Z" creationid="JorgeLozano" creationdate="20150918T204714Z">
+        <seg>In another statement they say:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2920,6 +2936,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140801T234657Z" creationid="ROBLES" creationdate="20140801T233911Z">
         <seg>"Not understanding the nature of the Bonapartist regime, the Stalinists are taken to give the following diagnosis:"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>“Borotda apoya las acciones antifascistas espontáneas en las ciudades del sudeste de Ucrania y declara que miembros de Borotda activamente participarán en estas acciones.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20150919T023340Z" creationid="JorgeLozano" creationdate="20150919T023340Z">
+        <seg>"Borotda supports spontaneous anti-fascist actions in the cities of the South-East of Ukraine and declares that Borotda members will actively participate in these actions.</seg>
       </tuv>
     </tu>
     <tu>
