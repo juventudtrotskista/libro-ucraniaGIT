@@ -1561,8 +1561,8 @@ Sí, me parece bien. </note>
       <tuv lang="ES">
         <seg>No obstante, aquí también el tiempo trajo las rectificaciones necesarias al sacar a la luz las contradicciones existentes entre los agentes democráticos  de la burguesía y sus agentes fascistas.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151009T213736Z" creationid="JorgeLozano" creationdate="20151009T213736Z">
-        <seg>However, here also the time brought necessary corrections to expose the existing contradictions between the democratic agents of the bourgeoisie and fascist agents. </seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151009T214003Z" creationid="JorgeLozano" creationdate="20151009T213736Z">
+        <seg>However, here also the time brought the necessary corrections exposing the existing contradictions between the democratic agents of the bourgeoisie and fascist agents. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,6 +1880,22 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140802T035728Z" creationid="ROBLES" creationdate="20140802T035728Z">
         <seg>Because Hitler can not leave to undertand that the path to power passes through a brutal civil war, his speeches on democratic and peaceful means are therefore not more than a cover, ie, a artifice of war.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Quien considere absoluta esta contradicción caerá inevitablemente en el oportunismo.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151009T214044Z" creationid="JorgeLozano" creationdate="20151009T214044Z">
+        <seg>Who consider absolute this contradiction will inevitably fall in opportunism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Quien ignore esta contradicción se verá condenado a los caprichos del ultraizquierdismo y a la impotencia revolucionaria […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151009T214213Z" creationid="JorgeLozano" creationdate="20151009T214127Z">
+        <seg>Who ignore this contradiction will be condemned to the whims of the ultra-leftism and to the revolutionary impotence [...]</seg>
       </tuv>
     </tu>
     <tu>
