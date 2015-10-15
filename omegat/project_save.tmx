@@ -117,6 +117,14 @@
       </tuv>
     </tu>
     <tu>
+      <tuv lang="ES">
+        <seg>Al principio da la impresión de que la pequeña burguesía, espada en mano, se vuelve contra el régimen burgués;</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T061144Z" creationid="JorgeLozano" creationdate="20151015T061144Z">
+        <seg>At first, it gives the impression that the petty bourgeoisie, sword in hand, turns against the bourgeois regime;</seg>
+      </tuv>
+    </tu>
+    <tu>
       <note>Puse "because of their political support to..." "A causa de su apoyo politico a estos gobierno contrarevolucionarios...."
 Sí, me parece bien. </note>
       <tuv lang="ES">
@@ -2346,6 +2354,14 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20150311T140412Z" creationid="Paolo" creationdate="20150311T140412Z">
         <seg>We know then where is that it waters politically the European Social-Imperialism.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>ambos pretenden salvar la sociedad burguesa, no derrocarla […]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T060947Z" creationid="JorgeLozano" creationdate="20151015T060947Z">
+        <seg>both pretend to save the bourgeois society, not overthrow it [...]</seg>
       </tuv>
     </tu>
     <tu>
