@@ -387,8 +387,8 @@ Sí, me parece bien. </note>
       <tuv lang="ES">
         <seg>Desde cierto ángulo esto es una debilidad del fascismo semi-colonial ya que entra en abierta contradicción con el deseo de liberación nacional y social de las masas que lo llevaron al poder, pero está obligado hacerlo porque si “en Alemania, Italia y Japón el fascismo y el militarismo son las armas de un imperialismo ambicioso, hambriento y por lo tanto agresivo.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T182053Z" creationid="JorgeLozano" creationdate="20151015T182053Z">
-        <seg>From certain angle this is a weakness of the colonial semi fascism since enter in open contradiction with the desire for national and social liberation of the masses that brought him to power, but is obliged to do so because if "are the weapons of a hungry, ambitious and therefore aggressive imperialism in Germany, Italy and Japan fascism and militarism.</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T182438Z" creationid="JorgeLozano" creationdate="20151015T182053Z">
+        <seg>From certain angle this is a weakness of the semicolonial fascism since enter in open contradiction with the desire for national and social liberation of the masses that brought him to power, but is obliged to do so because if "in Germany, Italy and Japan the fascism and militarism are the weapons of an ambitious, hungry and therefore aggressive imperialism.</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +742,14 @@ Epoch).</seg>
       </tuv>
       <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T181305Z" creationid="JorgeLozano" creationdate="20151015T162134Z">
         <seg>In various countries, under various conditions, this is done in different ways, with the use of different doses of "leftism.".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>En los países latinoamericanos [semi-coloniales como Ucrania]</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T182533Z" creationid="JorgeLozano" creationdate="20151015T182533Z">
+        <seg>In Latin American countries [semicolonials as Ukraine]</seg>
       </tuv>
     </tu>
     <tu>
@@ -2638,6 +2646,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20150201T174820Z" creationid="Paolo" creationdate="20150201T174820Z">
         <seg>free market capitalism has created more losers than winners.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>el fascismo es la expresión de la dependencia más servil del imperialismo extranjero.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151015T182613Z" creationid="JorgeLozano" creationdate="20151015T182613Z">
+        <seg>fascism is the expression of the most servile dependency of foreign imperialism..</seg>
       </tuv>
     </tu>
     <tu>
