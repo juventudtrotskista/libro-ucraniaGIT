@@ -32,3 +32,4 @@ social-gusana.	social-worm?	no se como definirlo
  descendido a la calle 	go into the streets
 pequeña burguesía	petty bourgeoisie
 sangre derramada	spilled blood	se puede usar  tambien - blood shed
+pilsudkismo	Pilsudkiism
