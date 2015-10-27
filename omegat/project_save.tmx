@@ -1205,6 +1205,14 @@ Epoch).</seg>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Han “olvidado” que después de la “Marcha sobre Roma” de Mussolini, se formó un gobierno de coalición donde los fascistas ocupaban solo tres ministerios y el consenso político general era que durarían en el poder solo unos meses.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151027T204003Z" creationid="JorgeLozano" creationdate="20151027T204003Z">
+        <seg>They have "forgotten" that after the Mussolini's "March on Rome", formed a coalition Government where the fascists occupied only three ministries and the general political consensus was that they would last in power only a few months.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>Hay, pues, que estar tanto más en guardia.</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140802T040005Z" creationid="ROBLES" creationdate="20140802T040005Z">
@@ -2127,8 +2135,8 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       <tuv lang="ES">
         <seg>Se equivoca también la socialdemocracia y su fracción anarquista y seudo-trotskista cuando afirman que no se puede tratar de una insurrección fascista porque en el nuevo gobierno de coalición Svoboda solo tiene 4 ministerios.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151016T055554Z" creationid="JorgeLozano" creationdate="20151016T055554Z">
-        <seg>Social democracy and his anarchist faction and pseudo Trotskyist is also wrong when they say that you can not treat of a fascist insurrection because in the new coalition Government only Svoboda has 4 ministries.</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151027T203930Z" creationid="JorgeLozano" creationdate="20151016T055554Z">
+        <seg>Social democracy and his anarchist and pseudo-Trotskyist faction  is also wrong when they say that you can not treat of a fascist insurrection because in the new coalition Government Svoboda only has 4 ministries.</seg>
       </tuv>
     </tu>
     <tu>
