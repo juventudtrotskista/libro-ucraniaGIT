@@ -1046,8 +1046,8 @@ Epoch).</seg>
       <tuv lang="ES">
         <seg>Estas actividades sólo dan al gobierno una bonita imagen para la televisión, sino que le permiten identificar los elementos radicales mediante la localización de los teléfonos móviles y la grabación en vídeo” (Sindicato Autónomo de Trabajadores, Carta sobre la situación actual en Ucrania).</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185702Z" creationid="JorgeLozano" creationdate="20151029T185702Z">
-        <seg>These activities not only give to the Government a beautiful image for television, they allow you to identify the radical elements by the location of mobile phones and the video recording" (Autonomous Workers’ Union, Statement on the Current Political Situation in Ukraine). However, despite all the attacks and facts that prove it, they deny that it is a fascist insurrection:</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185911Z" creationid="JorgeLozano" creationdate="20151029T185702Z">
+        <seg>These activities only give the government pretty picture for television and enable it to identify radical elements by locating mobile phones and videotaping." (Autonomous Workers’ Union, Statement on the Current Political Situation in Ukraine). </seg>
       </tuv>
     </tu>
     <tu>
@@ -2322,6 +2322,14 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20150201T165240Z" creationid="Paolo" creationdate="20150201T165240Z">
         <seg>However, Yanukovich was also forced to continue the policy of deepening the imperialist plunder in Ukraine initiated with Yushchenko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>Sin embargo, a pesar de todos los ataques y hechos que lo demuestran, ellos niegan que se trate de una insurrección fascista:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185916Z" creationid="JorgeLozano" creationdate="20151029T185916Z">
+        <seg>However, despite all the attacks and facts that prove it, they deny that it is a fascist insurrection:</seg>
       </tuv>
     </tu>
     <tu>
