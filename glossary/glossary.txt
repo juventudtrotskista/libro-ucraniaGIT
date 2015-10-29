@@ -35,3 +35,4 @@ sangre derramada	spilled blood	se puede usar  tambien - blood shed
 pilsudkismo	Pilsudkiism
 PPS	PPS	Polska Partia Socjalistyczna, PPS // no se traducen las siglas.
 semi-colonial	semicolonial
+fuente	fuente	Fuente original: http://avtonomia.net/2014/01/23/awu-statement-current-political-situation/
