@@ -1044,6 +1044,14 @@ Epoch).</seg>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Estas actividades sólo dan al gobierno una bonita imagen para la televisión, sino que le permiten identificar los elementos radicales mediante la localización de los teléfonos móviles y la grabación en vídeo” (Sindicato Autónomo de Trabajadores, Carta sobre la situación actual en Ucrania).</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185702Z" creationid="JorgeLozano" creationdate="20151029T185702Z">
+        <seg>These activities not only give to the Government a beautiful image for television, they allow you to identify the radical elements by the location of mobile phones and the video recording" (Autonomous Workers’ Union, Statement on the Current Political Situation in Ukraine). However, despite all the attacks and facts that prove it, they deny that it is a fascist insurrection:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>Estas disputas burguesas sin embargo, no son entre “imperialismos” como quiere hacer creer la prensa yanqui y sus filiales socialdemócratas, sino el regateo entre un pequeño accionista y el dueño de la empresa a escala internacional.</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo Bustamante" changedate="20140709T122113Z" creationid="Paolo Bustamante" creationdate="20140709T122113Z">
@@ -1851,8 +1859,8 @@ Epoch).</seg>
       <tuv lang="ES">
         <seg>No tiene mucho sentido participar en las actividades en la calle Grushevskogo, que desde el principio, carecían de sentido.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185238Z" creationid="JorgeLozano" creationdate="20151029T185238Z">
-        <seg>There is little point participate in activities in the early Grushevskogo Street, lacking sense from the very beginning.</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185832Z" creationid="JorgeLozano" creationdate="20151029T185238Z">
+        <seg>There’s not much sense in participating in the activities in Grushevskogo street, which were meaningless from the very beginning. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2513,8 +2521,8 @@ Organizations such as "the Fifth International" and Castro-Chavists as Alan Wood
       <tuv lang="ES">
         <seg>Tiene sentido realizar acciones en el entorno de trabajo o en el barrio de cada cual, y ayudar a sabotear las decisiones de la dictadura.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185158Z" creationid="JorgeLozano" creationdate="20151029T185158Z">
-        <seg>It makes sense do actions in the work environment or in the neighborhood of each, and to help sabotage the decisions of the dictatorship. </seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185819Z" creationid="JorgeLozano" creationdate="20151029T185158Z">
+        <seg>It makes sense to take action at one’s workplace or neighborhood and to help sabotage the dictatorship’s decisions.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3580,11 +3588,12 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
     </tu>
     <tu>
+      <note>fuente original: http://avtonomia.net/2014/01/23/awu-statement-current-political-situation/	</note>
       <tuv lang="ES">
         <seg>“Los anarquistas deberían participar en manifestaciones y piquetes que defiendan los derechos y libertades usurpadas por las leyes de 16 de enero.</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185133Z" creationid="JorgeLozano" creationdate="20151029T185133Z">
-        <seg>"The anarchists should participate in demonstrations and pickets that defend the rights and freedoms usurped by the laws of January 16.</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151029T185816Z" creationid="JorgeLozano" creationdate="20151029T185133Z">
+        <seg>"Anarchists ought to participate in demonstrations and pickets which are dedicated to defense of the rights and freedoms usurped by the laws of January 16th</seg>
       </tuv>
     </tu>
     <tu>
