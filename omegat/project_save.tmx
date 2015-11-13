@@ -176,8 +176,8 @@
       <tuv lang="ES">
         <seg>Ahora vemos en Ucrania que</seg>
       </tuv>
-      <tuv lang="EN" changeid="JorgeLozano" changedate="20151113T164420Z" creationid="JorgeLozano" creationdate="20151113T164420Z">
-        <seg>Now we see in Ukraine</seg>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151113T164634Z" creationid="JorgeLozano" creationdate="20151113T164420Z">
+        <seg>Now we see in Ukraine that</seg>
       </tuv>
     </tu>
     <tu>
@@ -3896,6 +3896,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140801T130618Z" creationid="ROBLES" creationdate="20140801T130618Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>mientras ha sido lanzada la conscripción para enfrentar a Putin, usada sobre todo como medida bonapartista sobre las masas, también ha sido ordenado el desarme de la milicia.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151113T164629Z" creationid="JorgeLozano" creationdate="20151113T164629Z">
+        <seg>that while it has been launched conscription to confront Putin, used mostly as a Bonapartist over the masses, also has been ordered the disarmament of the militia.</seg>
       </tuv>
     </tu>
     <tu>
