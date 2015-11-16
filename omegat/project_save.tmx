@@ -1637,6 +1637,14 @@ Epoch).</seg>
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>Esto tuvo como consecuencia que unos fueron más iguales que otros y que para las nacionalidades les fueran asignadas distintas categorías:</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151116T173135Z" creationid="JorgeLozano" creationdate="20151116T173135Z">
+        <seg>This meant that some were more equal than others and that their nationalities were assigned different categories:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>Estos zigzags del caudillo produjeron amplias deserciones en su partido (“Nuestra Ucrania”) pero también en la izquierda pro-europea que estaba abiertamente comprometida con su gobierno incluso ocupando ministerios.</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20141127T002912Z" creationid="Paolo" creationdate="20141127T002912Z">
@@ -1939,6 +1947,14 @@ Epoch).</seg>
       </tuv>
       <tuv lang="EN" changeid="Paolo" changedate="20140806T152902Z" creationid="Paolo" creationdate="20140806T152902Z">
         <seg>The Russian bourgeoisie on the other hand,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
+        <seg>La burocracia estalinista rusa ejercía su dominio y opresión sobre Ucrania a través de la nomenclatura rusófona de este país.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151116T173107Z" creationid="JorgeLozano" creationdate="20151116T173107Z">
+        <seg>The Russian Stalinist bureaucracy exerted its dominance and oppression over Ukraine through the Russian-speaking nomenclature for this country.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4372,6 +4388,14 @@ La frase: "pero que las inversiones tecnológicas del imperialismo están demost
     </tu>
     <tu>
       <tuv lang="ES">
+        <seg>si el ciudadano ruso se podía considerar de primera categoría y el ciudadano ucraniano rusófono de segunda, la burocracia estalinista reservó el tercer lugar para los explotados no rusófonos de Ucrania.</seg>
+      </tuv>
+      <tuv lang="EN" changeid="JorgeLozano" changedate="20151116T173332Z" creationid="JorgeLozano" creationdate="20151116T173332Z">
+        <seg>If Russian citizens could be considered first class and the Russian-speaking Ukrainian citizen on second one, the Stalinist bureaucracy booked the third place for non-Russian-speaking exploited of Ukraine.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ES">
         <seg>sin embargo, rematan diciendo:</seg>
       </tuv>
       <tuv lang="EN" changeid="ROBLES" changedate="20140808T010743Z" creationid="ROBLES" creationdate="20140808T010743Z">
@@ -4816,6 +4840,7 @@ Hay que corregir en toda la traduccion en vez de CP es CPU (Communist Party of U
       </tuv>
     </tu>
     <tu>
+      <note>https://www.marxists.org/archive/trotsky/1939/04/ukraine.html	</note>
       <tuv lang="ES">
         <seg>“La burocracia también estranguló y saqueó al pueblo de la Gran Rusia.</seg>
       </tuv>
